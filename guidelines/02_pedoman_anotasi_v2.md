@@ -1,6 +1,6 @@
 # Pedoman Anotasi Universal Dependencies Batak Toba - Versi 0.2
 
-> **Catatan 2 Oktober 2026.** Anotasi rintisan 250 kalimat mulai 5 Oktober 2026 memakai Pedoman Anotasi UD Batak Toba v1.0 pada [anotasi-ud/pedoman/](../anotasi-ud/pedoman/pedoman-anotasi-ud-v1.0.md). Dokumen v0.2 ini dipertahankan sebagai arsip rancangan. Perbedaan utama pada v1.0:
+> **Catatan 2 Oktober 2026.** Anotasi rintisan 250 kalimat mulai 5 Oktober 2026 memakai Pedoman Anotasi UD Batak Toba v1.0 pada [anotasi-ud/pedoman/arsip/](../anotasi-ud/pedoman/arsip/pedoman-anotasi-ud-v1.0.md), yang sejak 28 Oktober 2026 digantikan oleh [v1.2](../anotasi-ud/pedoman/pedoman-anotasi-ud-v1.2.md). Dokumen v0.2 ini dipertahankan sebagai arsip rancangan. Perbedaan utama pada v1.0:
 >
 > 1. Aktor bertanda *ni* pada pasif kompletif (-in-/ni-) dan promisif (-on) diberi `obl:agent` dengan *ni* sebagai `case`. Aktor tak bertanda tetap `obj:agent`.
 > 2. Penanda atributif *na* diberi `PART` dengan relasi `mark`.

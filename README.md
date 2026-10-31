@@ -23,7 +23,7 @@ scripts/        Sampling, pembuat template CoNLL-U, penghitung IAA
 evaluation/     Laporan kesepakatan antaranotator (IAA)
 paper/          Kerangka & draf artikel
 anotasi-ud/     Penelitian tahap 2: pedoman anotasi UD dan kalimat pilot
-  pedoman/        Pedoman Anotasi UD Batak Toba v1.0
+  pedoman/        Pedoman Anotasi UD Batak Toba v1.2 (v1.0 di arsip/)
   pilot/          250 kalimat pilot dan templat CoNLL-U
   korpus-revisi/  Korpus paralel hasil audit penyelarasan v1
 ```
@@ -34,7 +34,7 @@ Penelitian lanjutan berjudul "Pengembangan Pedoman Anotasi Universal Dependencie
 
 | Luaran | Status |
 |---|---|
-| Pedoman anotasi UD Batak Toba | Versi 1.0 tersedia ([anotasi-ud/pedoman/](anotasi-ud/pedoman/)) |
+| Pedoman anotasi UD Batak Toba | Versi 1.2 tersedia ([anotasi-ud/pedoman/](anotasi-ud/pedoman/)) |
 | Korpus paralel hasil audit penyelarasan | Versi 1, 1.505 unit ([anotasi-ud/korpus-revisi/](anotasi-ud/korpus-revisi/)) |
 | 250 kalimat pilot dalam format CoNLL-U | Kalimat dan templat siap, anotasi ganda mulai 5 Oktober 2026 ([anotasi-ud/pilot/](anotasi-ud/pilot/)) |
 | Skor kesepakatan antaranotator dan pedoman revisi | Dijadwalkan November 2026 |
@@ -45,7 +45,7 @@ The follow-up project "Development of Universal Dependencies Annotation Guidelin
 
 | Deliverable | Status |
 |---|---|
-| Batak Toba UD annotation guideline | Version 1.0 available ([anotasi-ud/pedoman/](anotasi-ud/pedoman/)), written in Indonesian |
+| Batak Toba UD annotation guideline | Version 1.2 available ([anotasi-ud/pedoman/](anotasi-ud/pedoman/)), written in Indonesian |
 | Parallel corpus after alignment audit | Version 1, 1,505 units ([anotasi-ud/korpus-revisi/](anotasi-ud/korpus-revisi/)) |
 | 250 pilot sentences in CoNLL-U format | Sentences and template ready, double annotation starts 5 October 2026 ([anotasi-ud/pilot/](anotasi-ud/pilot/)) |
 | Inter-annotator agreement and revised guideline | Scheduled for November 2026 |

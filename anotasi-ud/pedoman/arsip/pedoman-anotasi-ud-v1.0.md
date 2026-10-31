@@ -2,6 +2,8 @@
 
 Versi 1.0 untuk anotasi rintisan 250 kalimat. Berlaku mulai 5 Oktober 2026.
 
+> **Arsip.** Versi ini digantikan oleh [versi 1.2](../pedoman-anotasi-ud-v1.2.md) pada 28 Oktober 2026. Riwayat perubahan ada di bagian Riwayat Versi pada pedoman terbaru.
+
 Penelitian Dosen Pemula 2026, *Pengembangan Pedoman Anotasi Universal Dependencies untuk Bahasa Batak Toba dan Pengujian Awal pada Korpus Kecil*, Program Studi Informatika, Universitas Pelita Harapan.
 
 Versi Word: [Pedoman_Anotasi_UD_BatakToba_v1.0.docx](Pedoman_Anotasi_UD_BatakToba_v1.0.docx)

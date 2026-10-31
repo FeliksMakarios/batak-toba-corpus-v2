@@ -1,6 +1,6 @@
 # Keputusan Anotasi 001: Pemetaan Argumen Diatesis
 
-> **Catatan 2 Oktober 2026.** Keputusan ini diteruskan ke Pedoman Anotasi UD Batak Toba v1.0 pada [anotasi-ud/pedoman/](../anotasi-ud/pedoman/pedoman-anotasi-ud-v1.0.md): pivot tetap `nsubj` dan aktor tak bertanda tetap `obj:agent`. Pedoman v1.0 menambahkan `obl:agent` khusus untuk aktor bertanda *ni* pada pasif kompletif (-in-/ni-) dan promisif (-on). Pernyataan pada Bagian 1 bahwa `obl:agent` diganti berlaku untuk aktor tak bertanda.
+> **Catatan 2 Oktober 2026.** Keputusan ini diteruskan ke Pedoman Anotasi UD Batak Toba v1.0 dan tetap berlaku pada [v1.2](../anotasi-ud/pedoman/pedoman-anotasi-ud-v1.2.md): pivot tetap `nsubj` dan aktor tak bertanda tetap `obj:agent`. Pedoman v1.0 menambahkan `obl:agent` khusus untuk aktor bertanda *ni* pada pasif kompletif (-in-/ni-) dan promisif (-on). Pernyataan pada Bagian 1 bahwa `obl:agent` diganti berlaku untuk aktor tak bertanda.
 
 Status: **DIPUTUSKAN (Opsi C)** oleh ketua tim, 20 Agustus 2026. Menunggu konfirmasi narasumber ahli bahasa untuk detail pelaksanaan, bukan untuk arah keputusan.
 
