@@ -1,0 +1,5 @@
+# Semua skrip hanya memakai pustaka standar Python 3.8+.
+# Tidak ada dependensi eksternal wajib.
+# Opsional untuk analisis lanjutan:
+# pandas
+# matplotlib

@@ -1,0 +1,5271 @@
+# newdoc id = btk_pilot
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = btk_pilot-001
+# batch = 1
+# source_pair_id = doc_0001_s005
+# genre = Historical/ Traditional | Folktales
+# text = Dunggi laos mengalu ma Sisamosir hu omak na jala disuru omak nai ma imana lau hu gunung paling timbo.
+# text_id = Kemudian si Samosir mengadu pada ibunya dan ibunya menyuruh untuk naik ke gunung paling tinggi.
+1	Dunggi	_	_	_	_	_	_	_	_
+2	laos	_	_	_	_	_	_	_	_
+3	mengalu	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	Sisamosir	_	_	_	_	_	_	_	_
+6	hu	_	_	_	_	_	_	_	_
+7	omak	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	jala	_	_	_	_	_	_	_	_
+10	disuru	_	_	_	_	_	_	_	_
+11	omak	_	_	_	_	_	_	_	_
+12	nai	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	imana	_	_	_	_	_	_	_	_
+15	lau	_	_	_	_	_	_	_	_
+16	hu	_	_	_	_	_	_	_	_
+17	gunung	_	_	_	_	_	_	_	_
+18	paling	_	_	_	_	_	_	_	_
+19	timbo	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-002
+# batch = 1
+# source_pair_id = doc_0064_s017
+# genre = Educational | Book Summary
+# text = Langka ni hata na dipatupa i, manghori angka namajaha laho marpanimbangon.
+# text_id = Rangkaian kalimat yang disajikan mendorong pembaca untuk berkontemplasi.
+1	Langka	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	hata	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	dipatupa	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	manghori	_	_	_	_	_	_	_	_
+9	angka	_	_	_	_	_	_	_	_
+10	namajaha	_	_	_	_	_	_	_	_
+11	laho	_	_	_	_	_	_	_	_
+12	marpanimbangon	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-003
+# batch = 1
+# source_pair_id = doc_0078_s009
+# genre = Contemporary Media | Wiki
+# text = Mangalehon tanda ni habisuhon na timbo situtu jala godang do sian jabu-jabu i diiasi dohot ukiran dohot gorga.
+# text_id = Memperlihatkan tanda-tanda keahlian yang tinggi, dan banyak di antara rumah-rumah tersebut yang turut dihiasi dengan ukiran dan lukisan.[2]
+1	Mangalehon	_	_	_	_	_	_	_	_
+2	tanda	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	habisuhon	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	timbo	_	_	_	_	_	_	_	_
+7	situtu	_	_	_	_	_	_	_	_
+8	jala	_	_	_	_	_	_	_	_
+9	godang	_	_	_	_	_	_	_	_
+10	do	_	_	_	_	_	_	_	_
+11	sian	_	_	_	_	_	_	_	_
+12	jabu-jabu	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	diiasi	_	_	_	_	_	_	_	_
+15	dohot	_	_	_	_	_	_	_	_
+16	ukiran	_	_	_	_	_	_	_	_
+17	dohot	_	_	_	_	_	_	_	_
+18	gorga	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-004
+# batch = 1
+# source_pair_id = doc_0082_s020
+# genre = Contemporary Media | News Article
+# text = Kesenian suku Batak na mangihut i ma seni manortor.
+# text_id = Kesenian suku Batak berikutnya ialah seni tari.
+1	Kesenian	_	_	_	_	_	_	_	_
+2	suku	_	_	_	_	_	_	_	_
+3	Batak	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	mangihut	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	seni	_	_	_	_	_	_	_	_
+9	manortor	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-005
+# batch = 1
+# source_pair_id = doc_0096_s041
+# genre = Contemporary Media | Blog Articles
+# text = Alai ahu tutu ndang manalahon dirihu sasintongna.
+# text_id = Tapi saya sih tidak menyalahkan diri saya sepenuhnya.
+1	Alai	_	_	_	_	_	_	_	_
+2	ahu	_	_	_	_	_	_	_	_
+3	tutu	_	_	_	_	_	_	_	_
+4	ndang	_	_	_	_	_	_	_	_
+5	manalahon	_	_	_	_	_	_	_	_
+6	dirihu	_	_	_	_	_	_	_	_
+7	sasintongna	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-006
+# batch = 1
+# source_pair_id = doc_0002_s005
+# genre = Literary | Poems
+# text = Na marmudumuduhon ahu sian ma menek
+# text_id = Engkau yang memeliharaku sejak kecil.
+1	Na	_	_	_	_	_	_	_	_
+2	marmudumuduhon	_	_	_	_	_	_	_	_
+3	ahu	_	_	_	_	_	_	_	_
+4	sian	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	menek	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-007
+# batch = 1
+# source_pair_id = doc_0052_s000
+# genre = Religious | Prayers
+# text = Mauliate ma Tuhan di sude akka pasu-pasu na nilehonmu dibagasan sadarion.
+# text_id = Terima kasih ya Tuhan atas segala berkat yang telah Engkau berikan pada hari ini.
+1	Mauliate	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	Tuhan	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	sude	_	_	_	_	_	_	_	_
+6	akka	_	_	_	_	_	_	_	_
+7	pasu-pasu	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	nilehonmu	_	_	_	_	_	_	_	_
+10	dibagasan	_	_	_	_	_	_	_	_
+11	sadarion	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-008
+# batch = 1
+# source_pair_id = doc_0035_s000
+# genre = Literary | Peribahasa/Umpama
+# text = Dang na taraithon tagonan ma pinonggolhon, dang na tartangishon, tagonan ma tinortorhon
+# text_id = Tidak dapat di kaitkankan lebih baik di patahkan, tidak tertangisi lebih baik dibawa dalam tari
+1	Dang	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	taraithon	_	_	_	_	_	_	_	_
+4	tagonan	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	pinonggolhon	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	dang	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	tartangishon	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	tagonan	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	tinortorhon	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-009
+# batch = 1
+# source_pair_id = doc_0073_s006
+# genre = Educational | News Article
+# text = Molo pangajarion haporseaon diulahon dohot uli, gabe tontong haporseaon nasida na uele ma.
+# text_id = Ketika pembimbingan rohani dijalankan dengan baik, maka kerohanian mereka akan lebih baik pula.
+1	Molo	_	_	_	_	_	_	_	_
+2	pangajarion	_	_	_	_	_	_	_	_
+3	haporseaon	_	_	_	_	_	_	_	_
+4	diulahon	_	_	_	_	_	_	_	_
+5	dohot	_	_	_	_	_	_	_	_
+6	uli	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	gabe	_	_	_	_	_	_	_	_
+9	tontong	_	_	_	_	_	_	_	_
+10	haporseaon	_	_	_	_	_	_	_	_
+11	nasida	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	uele	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-010
+# batch = 1
+# source_pair_id = doc_0061_s013
+# genre = Educational | Quotes
+# text = Pajongjongon huta ingkon mangihuthon parbinsaran ni tingki dohot na manggampanghon ulaon ni natorop songon panghulaan aplikasi.
+# text_id = Pembangunan kota perlu mengikuti perkembangan zaman dengan mempermudah layanan publik seperti penggunaan aplikasi.
+1	Pajongjongon	_	_	_	_	_	_	_	_
+2	huta	_	_	_	_	_	_	_	_
+3	ingkon	_	_	_	_	_	_	_	_
+4	mangihuthon	_	_	_	_	_	_	_	_
+5	parbinsaran	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	tingki	_	_	_	_	_	_	_	_
+8	dohot	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	manggampanghon	_	_	_	_	_	_	_	_
+11	ulaon	_	_	_	_	_	_	_	_
+12	ni	_	_	_	_	_	_	_	_
+13	natorop	_	_	_	_	_	_	_	_
+14	songon	_	_	_	_	_	_	_	_
+15	panghulaan	_	_	_	_	_	_	_	_
+16	aplikasi	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-011
+# batch = 1
+# source_pair_id = doc_0001_s001
+# genre = Historical/ Traditional | Folktales
+# text = Dungi dapot na ma sada dekke mas jala diboan mulak tu jabu.
+# text_id = Dan ia mendapatkan seekor ikan mas kemudian dibawa pulang.
+1	Dungi	_	_	_	_	_	_	_	_
+2	dapot	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	sada	_	_	_	_	_	_	_	_
+6	dekke	_	_	_	_	_	_	_	_
+7	mas	_	_	_	_	_	_	_	_
+8	jala	_	_	_	_	_	_	_	_
+9	diboan	_	_	_	_	_	_	_	_
+10	mulak	_	_	_	_	_	_	_	_
+11	tu	_	_	_	_	_	_	_	_
+12	jabu	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-012
+# batch = 1
+# source_pair_id = doc_0065_s002_a
+# genre = Educational | Book Summary
+# text = Lobi pos ma rohana dungo dibege namburi ni parnamburi i.
+# text_id = Lebih tenanglah hatinya bangun mendengar embun pagi hari itu.
+1	Lobi	_	_	_	_	_	_	_	_
+2	pos	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	rohana	_	_	_	_	_	_	_	_
+5	dungo	_	_	_	_	_	_	_	_
+6	dibege	_	_	_	_	_	_	_	_
+7	namburi	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	parnamburi	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-013
+# batch = 1
+# source_pair_id = doc_0097_s008
+# genre = Contemporary Media | Blog Articles
+# text = Mulai ma halak mananda sining kontemporer i ndang sining be, alai holan pangalaho na molo-molo sining.
+# text_id = Orang-orang mulai menyadari bahwa seni kontemporer itu bukanlah seni.
+1	Mulai	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	halak	_	_	_	_	_	_	_	_
+4	mananda	_	_	_	_	_	_	_	_
+5	sining	_	_	_	_	_	_	_	_
+6	kontemporer	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ndang	_	_	_	_	_	_	_	_
+9	sining	_	_	_	_	_	_	_	_
+10	be	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	alai	_	_	_	_	_	_	_	_
+13	holan	_	_	_	_	_	_	_	_
+14	pangalaho	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	molo-molo	_	_	_	_	_	_	_	_
+17	sining	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-014
+# batch = 1
+# source_pair_id = doc_0077_s069
+# genre = Contemporary Media | Wiki
+# text = Halak Batak sai tongtong do mar-goar marga na disungkun di pudian ni goarna.
+# text_id = Orang Batak selalu memiliki nama marga yang disebutkan diakhir nama.
+1	Halak	_	_	_	_	_	_	_	_
+2	Batak	_	_	_	_	_	_	_	_
+3	sai	_	_	_	_	_	_	_	_
+4	tongtong	_	_	_	_	_	_	_	_
+5	do	_	_	_	_	_	_	_	_
+6	mar-goar	_	_	_	_	_	_	_	_
+7	marga	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	disungkun	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	pudian	_	_	_	_	_	_	_	_
+12	ni	_	_	_	_	_	_	_	_
+13	goarna	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-015
+# batch = 1
+# source_pair_id = doc_0083_s013
+# genre = Contemporary Media | News Article
+# text = Sahat Moan manjumpang dohot paribanna, sandok pangkilalaan ni Moan na parjolo taringot tu Uli nunga muba.
+# text_id = Sampai Moan bertemu dengan paribannya, segala prasangka awal Moan tentang Uli berubah sudah.
+1	Sahat	_	_	_	_	_	_	_	_
+2	Moan	_	_	_	_	_	_	_	_
+3	manjumpang	_	_	_	_	_	_	_	_
+4	dohot	_	_	_	_	_	_	_	_
+5	paribanna	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	sandok	_	_	_	_	_	_	_	_
+8	pangkilalaan	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	Moan	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	parjolo	_	_	_	_	_	_	_	_
+13	taringot	_	_	_	_	_	_	_	_
+14	tu	_	_	_	_	_	_	_	_
+15	Uli	_	_	_	_	_	_	_	_
+16	nunga	_	_	_	_	_	_	_	_
+17	muba	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-016
+# batch = 1
+# source_pair_id = doc_0000_s003
+# genre = Historical/ Traditional | Folktales
+# text = Na pisdo mata ni i di na pogos, jala na lea do rohana dina dangol.
+# text_id = Matanya memandang rendah orang miskin, dan hatinya hina kepada orang sengsara.
+1	Na	_	_	_	_	_	_	_	_
+2	pisdo	_	_	_	_	_	_	_	_
+3	mata	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	pogos	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	jala	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	lea	_	_	_	_	_	_	_	_
+13	do	_	_	_	_	_	_	_	_
+14	rohana	_	_	_	_	_	_	_	_
+15	dina	_	_	_	_	_	_	_	_
+16	dangol	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-017
+# batch = 1
+# source_pair_id = doc_0065_s008
+# genre = Educational | Book Summary
+# text = Nangpe songon i, nampuna lapau teh i marroha na denggan do.
+# text_id = Kendati demikian, si pemilik kedai teh mempunyai hati yang baik.
+1	Nangpe	_	_	_	_	_	_	_	_
+2	songon	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	nampuna	_	_	_	_	_	_	_	_
+6	lapau	_	_	_	_	_	_	_	_
+7	teh	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	marroha	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	denggan	_	_	_	_	_	_	_	_
+12	do	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-018
+# batch = 1
+# source_pair_id = doc_0092_s022
+# genre = Contemporary Media | Blog Articles
+# text = Aha do na hurang ture sian na nidokna i?
+# text_id = Apa yang kurang tepat dari yang dikatakannya itu?
+1	Aha	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	hurang	_	_	_	_	_	_	_	_
+5	ture	_	_	_	_	_	_	_	_
+6	sian	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	nidokna	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	SpaceAfter=No
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-019
+# batch = 1
+# source_pair_id = doc_0076_s005
+# genre = Contemporary Media | Wiki
+# text = Parmalim manghaporseai sada do Debata songon panompa ni portibion, na didok Mulajadi Nabolon.
+# text_id = Parmalim meyakini satu Tuhan sebagai pencipta alam semesta, disebut sebagai Mulajadi Nabolon (bahasa Indonesia: Sang Awal Penjadi Yang Agung).
+1	Parmalim	_	_	_	_	_	_	_	_
+2	manghaporseai	_	_	_	_	_	_	_	_
+3	sada	_	_	_	_	_	_	_	_
+4	do	_	_	_	_	_	_	_	_
+5	Debata	_	_	_	_	_	_	_	_
+6	songon	_	_	_	_	_	_	_	_
+7	panompa	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	portibion	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	didok	_	_	_	_	_	_	_	_
+13	Mulajadi	_	_	_	_	_	_	_	_
+14	Nabolon	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-020
+# batch = 1
+# source_pair_id = doc_0000_s011
+# genre = Historical/ Traditional | Folktales
+# text = Dung bot ari, ro ma ibana sian pordengkean i mamboan godang dengke, jadi dilehon ma tu simatuana.
+# text_id = Setelah sore hari, pulanglah dia dari tempat mencari ikan dengan membawa banyak ikan, dan memberikan kepada mertuanya.
+1	Dung	_	_	_	_	_	_	_	_
+2	bot	_	_	_	_	_	_	_	_
+3	ari	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	ro	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ibana	_	_	_	_	_	_	_	_
+8	sian	_	_	_	_	_	_	_	_
+9	pordengkean	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	mamboan	_	_	_	_	_	_	_	_
+12	godang	_	_	_	_	_	_	_	_
+13	dengke	_	_	_	_	_	_	_	SpaceAfter=No
+14	,	_	_	_	_	_	_	_	_
+15	jadi	_	_	_	_	_	_	_	_
+16	dilehon	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	tu	_	_	_	_	_	_	_	_
+19	simatuana	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-021
+# batch = 1
+# source_pair_id = doc_0060_s032
+# genre = Educational | Book Summary
+# text = Marhite i, boi do sipunihonta, panghulaan sandiri i ndada faktor panentu.
+# text_id = Dengan begitu, kita bisa simpulkan, usaha individu bukan faktor penentu.
+1	Marhite	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	boi	_	_	_	_	_	_	_	_
+5	do	_	_	_	_	_	_	_	_
+6	sipunihonta	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	panghulaan	_	_	_	_	_	_	_	_
+9	sandiri	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ndada	_	_	_	_	_	_	_	_
+12	faktor	_	_	_	_	_	_	_	_
+13	panentu	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-022
+# batch = 1
+# source_pair_id = doc_0095_s004
+# genre = Contemporary Media | Blog Articles
+# text = I ma nian, molo taringot tusi ndang boi hubahen aha-aha.
+# text_id = Yah, kalau soal ini saya nggak bisa apa-apa juga sih.
+1	I	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	nian	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	molo	_	_	_	_	_	_	_	_
+6	taringot	_	_	_	_	_	_	_	_
+7	tusi	_	_	_	_	_	_	_	_
+8	ndang	_	_	_	_	_	_	_	_
+9	boi	_	_	_	_	_	_	_	_
+10	hubahen	_	_	_	_	_	_	_	_
+11	aha-aha	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-023
+# batch = 1
+# source_pair_id = doc_0082_s015
+# genre = Contemporary Media | News Article
+# text = Tiang na umbalga digoari tiang parsuhi jala batu pondasina digoari batu parsuhi.
+# text_id = Tiang terbesar dinamakan tiang parsuhi dan batu pondasinya disebut batu parsuhi.
+1	Tiang	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	umbalga	_	_	_	_	_	_	_	_
+4	digoari	_	_	_	_	_	_	_	_
+5	tiang	_	_	_	_	_	_	_	_
+6	parsuhi	_	_	_	_	_	_	_	_
+7	jala	_	_	_	_	_	_	_	_
+8	batu	_	_	_	_	_	_	_	_
+9	pondasina	_	_	_	_	_	_	_	_
+10	digoari	_	_	_	_	_	_	_	_
+11	batu	_	_	_	_	_	_	_	_
+12	parsuhi	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-024
+# batch = 1
+# source_pair_id = doc_0000_s075_a
+# genre = Historical/ Traditional | Folktales
+# text = Pola songon na samburan rohanami dibahen hamu!
+# text_id = Sampai hancur berantakan perasaan kami kalian buat!
+1	Pola	_	_	_	_	_	_	_	_
+2	songon	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	samburan	_	_	_	_	_	_	_	_
+5	rohanami	_	_	_	_	_	_	_	_
+6	dibahen	_	_	_	_	_	_	_	_
+7	hamu	_	_	_	_	_	_	_	SpaceAfter=No
+8	!	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-025
+# batch = 1
+# source_pair_id = doc_0050_s000
+# genre = Religious | Prayers
+# text = Mauliate ma di Ho Tuhan, siala dipaloas ho dope au dungo di manogot ni ari on.
+# text_id = Terima kasih ya Tuhan, karena Engkau masih mengizinkan aku bangun di pagi hari ini.
+1	Mauliate	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	Ho	_	_	_	_	_	_	_	_
+5	Tuhan	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	siala	_	_	_	_	_	_	_	_
+8	dipaloas	_	_	_	_	_	_	_	_
+9	ho	_	_	_	_	_	_	_	_
+10	dope	_	_	_	_	_	_	_	_
+11	au	_	_	_	_	_	_	_	_
+12	dungo	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	manogot	_	_	_	_	_	_	_	_
+15	ni	_	_	_	_	_	_	_	_
+16	ari	_	_	_	_	_	_	_	_
+17	on	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-026
+# batch = 1
+# source_pair_id = doc_0068_s006
+# genre = Educational | News Article
+# text = Dalan marhusip i dipargunahon do nang laho mangalului parbinotoan na di dok.
+# text_id = Metode cakap juga digunakan untuk mengumpulkan data lisan.
+1	Dalan	_	_	_	_	_	_	_	_
+2	marhusip	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	dipargunahon	_	_	_	_	_	_	_	_
+5	do	_	_	_	_	_	_	_	_
+6	nang	_	_	_	_	_	_	_	_
+7	laho	_	_	_	_	_	_	_	_
+8	mangalului	_	_	_	_	_	_	_	_
+9	parbinotoan	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	dok	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-027
+# batch = 1
+# source_pair_id = doc_0076_s049
+# genre = Contemporary Media | Wiki
+# text = Andorang so i, poda ni Ugamo Malim nunga dipasahat marhite hata.
+# text_id = Sebelumnya, ajaran-ajaran Ugamo Malim hanya bersifat lisan.
+1	Andorang	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	poda	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	Ugamo	_	_	_	_	_	_	_	_
+8	Malim	_	_	_	_	_	_	_	_
+9	nunga	_	_	_	_	_	_	_	_
+10	dipasahat	_	_	_	_	_	_	_	_
+11	marhite	_	_	_	_	_	_	_	_
+12	hata	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-028
+# batch = 1
+# source_pair_id = doc_0060_s028
+# genre = Educational | Book Summary
+# text = Dung balga nasida, dipajongjong Bill dohot Paul ma Microsoft rap.
+# text_id = Ketika dewasa Bill dan Paul mendirikan Microsoft bersama.
+1	Dung	_	_	_	_	_	_	_	_
+2	balga	_	_	_	_	_	_	_	_
+3	nasida	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	dipajongjong	_	_	_	_	_	_	_	_
+6	Bill	_	_	_	_	_	_	_	_
+7	dohot	_	_	_	_	_	_	_	_
+8	Paul	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Microsoft	_	_	_	_	_	_	_	_
+11	rap	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-029
+# batch = 1
+# source_pair_id = doc_0092_s038_b
+# genre = Contemporary Media | Blog Articles
+# text = Hupaksahon ma dirihu laho holong roha tu coding, mamaksahon dirihu asa unang gabe mabiar di rumus-rumus dohot algoritma.
+# text_id = Kupaksakanlah diriku untuk mencintai coding, memaksakan diriku agar jangan menjadi takut pada rumus-rumus dan algoritma.
+1	Hupaksahon	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	dirihu	_	_	_	_	_	_	_	_
+4	laho	_	_	_	_	_	_	_	_
+5	holong	_	_	_	_	_	_	_	_
+6	roha	_	_	_	_	_	_	_	_
+7	tu	_	_	_	_	_	_	_	_
+8	coding	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	mamaksahon	_	_	_	_	_	_	_	_
+11	dirihu	_	_	_	_	_	_	_	_
+12	asa	_	_	_	_	_	_	_	_
+13	unang	_	_	_	_	_	_	_	_
+14	gabe	_	_	_	_	_	_	_	_
+15	mabiar	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	rumus-rumus	_	_	_	_	_	_	_	_
+18	dohot	_	_	_	_	_	_	_	_
+19	algoritma	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-030
+# batch = 1
+# source_pair_id = doc_0000_s045_c
+# genre = Historical/ Traditional | Folktales
+# text = Diampuni simatuana i ma salpu ni pangkulingna tu helana i.
+# text_id = Dimaafkanlah oleh mertuanya atas kesalahan ucapannya kepada menantunya itu.
+1	Diampuni	_	_	_	_	_	_	_	_
+2	simatuana	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	salpu	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	pangkulingna	_	_	_	_	_	_	_	_
+8	tu	_	_	_	_	_	_	_	_
+9	helana	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-031
+# batch = 1
+# source_pair_id = doc_0002_s002
+# genre = Literary | Poems
+# text = Alai inang humassit do di ahu
+# text_id = Tapi ibu lebih menyakitkan lagi jadi aku.
+1	Alai	_	_	_	_	_	_	_	_
+2	inang	_	_	_	_	_	_	_	_
+3	humassit	_	_	_	_	_	_	_	_
+4	do	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	ahu	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-032
+# batch = 1
+# source_pair_id = doc_0084_s019
+# genre = Contemporary Media | News Article
+# text = Gorga halikkip i ma gorga geometris na mar-bentuk songon belah ketupat.
+# text_id = Motif halikkip merupakan motif geometris yang berbentuk seperti belah ketupat.
+1	Gorga	_	_	_	_	_	_	_	_
+2	halikkip	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	gorga	_	_	_	_	_	_	_	_
+6	geometris	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	mar-bentuk	_	_	_	_	_	_	_	_
+9	songon	_	_	_	_	_	_	_	_
+10	belah	_	_	_	_	_	_	_	_
+11	ketupat	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-033
+# batch = 1
+# source_pair_id = doc_0094_s038
+# genre = Contemporary Media | Blog Articles
+# text = Alai parsadaan i ndada lapatanna so boi dipadomu.
+# text_id = Tapi perbedaan bukan berarti mustahil disatukan.
+1	Alai	_	_	_	_	_	_	_	_
+2	parsadaan	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ndada	_	_	_	_	_	_	_	_
+5	lapatanna	_	_	_	_	_	_	_	_
+6	so	_	_	_	_	_	_	_	_
+7	boi	_	_	_	_	_	_	_	_
+8	dipadomu	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-034
+# batch = 1
+# source_pair_id = doc_0060_s009
+# genre = Educational | Book Summary
+# text = Balga dohot hantusal-na pe pas do, ndang hantusan jala ndang hapisasan.
+# text_id = Ukuran dan ketebalannya pun cukup, tidak ketebalan dan tidak ketipisan.
+1	Balga	_	_	_	_	_	_	_	_
+2	dohot	_	_	_	_	_	_	_	_
+3	hantusal-na	_	_	_	_	_	_	_	_
+4	pe	_	_	_	_	_	_	_	_
+5	pas	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	ndang	_	_	_	_	_	_	_	_
+9	hantusan	_	_	_	_	_	_	_	_
+10	jala	_	_	_	_	_	_	_	_
+11	ndang	_	_	_	_	_	_	_	_
+12	hapisasan	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-035
+# batch = 1
+# source_pair_id = doc_0079_s008_b
+# genre = Contemporary Media | Wiki
+# text = Debata Asiasi so mangatur na tinompana jala diparentahon tu Tolu Anakna i laho gabe dewa na mangatur Portibi.
+# text_id = Debata Asiasi tidak mengatur ciptaannya dan memerintahkan kepada Tiga Anaknya untuk menjadi dewa yang mengatur dunia.
+1	Debata	_	_	_	_	_	_	_	_
+2	Asiasi	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	mangatur	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	tinompana	_	_	_	_	_	_	_	_
+7	jala	_	_	_	_	_	_	_	_
+8	diparentahon	_	_	_	_	_	_	_	_
+9	tu	_	_	_	_	_	_	_	_
+10	Tolu	_	_	_	_	_	_	_	_
+11	Anakna	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	laho	_	_	_	_	_	_	_	_
+14	gabe	_	_	_	_	_	_	_	_
+15	dewa	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	mangatur	_	_	_	_	_	_	_	_
+18	Portibi	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-036
+# batch = 1
+# source_pair_id = doc_0000_s055_b
+# genre = Historical/ Traditional | Folktales
+# text = Dibahen pangalahona di bagas ni nambura maduma i.
+# text_id = Dibuatlah tingkahnya di keluarga yang baru makmur itu.
+1	Dibahen	_	_	_	_	_	_	_	_
+2	pangalahona	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	bagas	_	_	_	_	_	_	_	_
+5	ni	_	_	_	_	_	_	_	_
+6	nambura	_	_	_	_	_	_	_	_
+7	maduma	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-037
+# batch = 1
+# source_pair_id = doc_0059_s029
+# genre = Educational | Book Summary
+# text = Buku on ingkon jahaon ni ganup na naeng mangantusi asal-usul dohot ari sogot ni bangso manisia.
+# text_id = Buku ini wajib dibaca bagi siapa saja yang ingin memahami asal-usul dan masa depan umat manusia.
+1	Buku	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	ingkon	_	_	_	_	_	_	_	_
+4	jahaon	_	_	_	_	_	_	_	_
+5	ni	_	_	_	_	_	_	_	_
+6	ganup	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	naeng	_	_	_	_	_	_	_	_
+9	mangantusi	_	_	_	_	_	_	_	_
+10	asal-usul	_	_	_	_	_	_	_	_
+11	dohot	_	_	_	_	_	_	_	_
+12	ari	_	_	_	_	_	_	_	_
+13	sogot	_	_	_	_	_	_	_	_
+14	ni	_	_	_	_	_	_	_	_
+15	bangso	_	_	_	_	_	_	_	_
+16	manisia	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-038
+# batch = 1
+# source_pair_id = doc_0095_s025
+# genre = Contemporary Media | Blog Articles
+# text = Untung do ahu adong dongan panortor na hebat jala marroha baja.
+# text_id = Untunglah saya punya teman-teman penari yang hebat dan bermental baja.
+1	Untung	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	ahu	_	_	_	_	_	_	_	_
+4	adong	_	_	_	_	_	_	_	_
+5	dongan	_	_	_	_	_	_	_	_
+6	panortor	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	hebat	_	_	_	_	_	_	_	_
+9	jala	_	_	_	_	_	_	_	_
+10	marroha	_	_	_	_	_	_	_	_
+11	baja	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-039
+# batch = 1
+# source_pair_id = doc_0084_s016
+# genre = Contemporary Media | News Article
+# text = Pintu masuk Ruma Bolon marsengaja diulahon otor asa halak na masuk ingkon manonggop ulu jolo.
+# text_id = Pintu masuk rumah bolon sengaja dibuat rendah agar orang yang masuk diharuskan menunduk terlebih dahulu.
+1	Pintu	_	_	_	_	_	_	_	_
+2	masuk	_	_	_	_	_	_	_	_
+3	Ruma	_	_	_	_	_	_	_	_
+4	Bolon	_	_	_	_	_	_	_	_
+5	marsengaja	_	_	_	_	_	_	_	_
+6	diulahon	_	_	_	_	_	_	_	_
+7	otor	_	_	_	_	_	_	_	_
+8	asa	_	_	_	_	_	_	_	_
+9	halak	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	masuk	_	_	_	_	_	_	_	_
+12	ingkon	_	_	_	_	_	_	_	_
+13	manonggop	_	_	_	_	_	_	_	_
+14	ulu	_	_	_	_	_	_	_	_
+15	jolo	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-040
+# batch = 1
+# source_pair_id = doc_0000_s022_a
+# genre = Historical/ Traditional | Folktales
+# text = Dung i di na sadari diunjuni helana i ma simatuana i songon on.
+# text_id = Setelah itu pada suatu hari diujilah mertuanya oleh menantunya itu seperti ini.
+1	Dung	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	sadari	_	_	_	_	_	_	_	_
+6	diunjuni	_	_	_	_	_	_	_	_
+7	helana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	simatuana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	songon	_	_	_	_	_	_	_	_
+13	on	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-041
+# batch = 1
+# source_pair_id = doc_0078_s071
+# genre = Contemporary Media | Wiki
+# text = Godang do ragam ni sipanganon Batak Toba so tarbatasi aturan halal.
+# text_id = Kebanyakan hidangan Batak Toba tidak dibatasi oleh aturan halal.
+1	Godang	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	ragam	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	sipanganon	_	_	_	_	_	_	_	_
+6	Batak	_	_	_	_	_	_	_	_
+7	Toba	_	_	_	_	_	_	_	_
+8	so	_	_	_	_	_	_	_	_
+9	tarbatasi	_	_	_	_	_	_	_	_
+10	aturan	_	_	_	_	_	_	_	_
+11	halal	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-042
+# batch = 1
+# source_pair_id = doc_0063_s018
+# genre = Educational | Book Summary
+# text = Alani i, boi ma nasida mangolu na leleng dohot sonang.
+# text_id = Alhasil dengan pola hidup tersebut mereka dapat hidup lebih lama dan bahagia.
+1	Alani	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	boi	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	nasida	_	_	_	_	_	_	_	_
+7	mangolu	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	leleng	_	_	_	_	_	_	_	_
+10	dohot	_	_	_	_	_	_	_	_
+11	sonang	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-043
+# batch = 1
+# source_pair_id = doc_0091_s032
+# genre = Contemporary Media | Blog Articles
+# text = Jolma na mangatur infrastruktur ingkon boi do mangotomatisasi kluster jala gabe DevOps, ndada holan gabe SysAdmin.
+# text_id = Seorang yang mengelola infrastruktur diharuskan bisa mengotomatisasi kluster dan bertindak sebagai DevOps, bukan hanya sebagai SysAdmin.
+1	Jolma	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	mangatur	_	_	_	_	_	_	_	_
+4	infrastruktur	_	_	_	_	_	_	_	_
+5	ingkon	_	_	_	_	_	_	_	_
+6	boi	_	_	_	_	_	_	_	_
+7	do	_	_	_	_	_	_	_	_
+8	mangotomatisasi	_	_	_	_	_	_	_	_
+9	kluster	_	_	_	_	_	_	_	_
+10	jala	_	_	_	_	_	_	_	_
+11	gabe	_	_	_	_	_	_	_	_
+12	DevOps	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	ndada	_	_	_	_	_	_	_	_
+15	holan	_	_	_	_	_	_	_	_
+16	gabe	_	_	_	_	_	_	_	_
+17	SysAdmin	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-044
+# batch = 1
+# source_pair_id = doc_0000_s064
+# genre = Historical/ Traditional | Folktales
+# text = Dung mate ursa i, dipauli ma pansa songon naung pinajojor nangkin, dung i muli ma ibana.
+# text_id = Kemudian ia mendirikan pondok tepat seperti yang sudah dijelaskan sebelumnya, lalu ia pulang.
+1	Dung	_	_	_	_	_	_	_	_
+2	mate	_	_	_	_	_	_	_	_
+3	ursa	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	dipauli	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	pansa	_	_	_	_	_	_	_	_
+9	songon	_	_	_	_	_	_	_	_
+10	naung	_	_	_	_	_	_	_	_
+11	pinajojor	_	_	_	_	_	_	_	_
+12	nangkin	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	dung	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	muli	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	ibana	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-045
+# batch = 1
+# source_pair_id = doc_0050_s002
+# genre = Religious | Prayers
+# text = Padao parmaraan dohot akka tahi ni sibolis asa boi au marlasniroha mandalani ari na pinatupaMon.
+# text_id = Jauhkanlah marabahaya dan segala rencana si iblis agar aku bisa bersukacita menjalani hari yang telah Engkau sediakan ini.
+1	Padao	_	_	_	_	_	_	_	_
+2	parmaraan	_	_	_	_	_	_	_	_
+3	dohot	_	_	_	_	_	_	_	_
+4	akka	_	_	_	_	_	_	_	_
+5	tahi	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	sibolis	_	_	_	_	_	_	_	_
+8	asa	_	_	_	_	_	_	_	_
+9	boi	_	_	_	_	_	_	_	_
+10	au	_	_	_	_	_	_	_	_
+11	marlasniroha	_	_	_	_	_	_	_	_
+12	mandalani	_	_	_	_	_	_	_	_
+13	ari	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	pinatupaMon	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-046
+# batch = 1
+# source_pair_id = doc_0068_s001
+# genre = Educational | News Article
+# text = Sura-sura na dipargunahon i ma sura na sinurat dohot hata na somal.
+# text_id = Data yang digunakan adalah data tulis dan data lisan.
+1	Sura-sura	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	dipargunahon	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	sura	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	sinurat	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	hata	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	somal	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-047
+# batch = 1
+# source_pair_id = doc_0018_s000
+# genre = Literary | Peribahasa/Umpama
+# text = Tampulon aek do na mardongan tubu
+# text_id = Bagaikan membelah air orang yang bersaudara semarga
+1	Tampulon	_	_	_	_	_	_	_	_
+2	aek	_	_	_	_	_	_	_	_
+3	do	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	mardongan	_	_	_	_	_	_	_	_
+6	tubu	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-048
+# batch = 1
+# source_pair_id = doc_0061_s018
+# genre = Educational | Quotes
+# text = Pangallanggaran ni huta na pantas marparbinotoan jala na hot i ingkon manimbangon artian sian sude inganan na adong.
+# text_id = Pembangunan kota cerdas berkelanjutan perlu mempertimbangkan potensi dari tiap kawasan.
+1	Pangallanggaran	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	huta	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	pantas	_	_	_	_	_	_	_	_
+6	marparbinotoan	_	_	_	_	_	_	_	_
+7	jala	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	hot	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ingkon	_	_	_	_	_	_	_	_
+12	manimbangon	_	_	_	_	_	_	_	_
+13	artian	_	_	_	_	_	_	_	_
+14	sian	_	_	_	_	_	_	_	_
+15	sude	_	_	_	_	_	_	_	_
+16	inganan	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	adong	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-049
+# batch = 1
+# source_pair_id = doc_0081_s011
+# genre = Contemporary Media | Wiki
+# text = Dipauli nasida hata Batak i marparsarupoan dohot hata Melayu.
+# text_id = Mereka menilai bahwa bahasa Batak memiliki kesamaan dengan bahasa Melayu.
+1	Dipauli	_	_	_	_	_	_	_	_
+2	nasida	_	_	_	_	_	_	_	_
+3	hata	_	_	_	_	_	_	_	_
+4	Batak	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	marparsarupoan	_	_	_	_	_	_	_	_
+7	dohot	_	_	_	_	_	_	_	_
+8	hata	_	_	_	_	_	_	_	_
+9	Melayu	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-050
+# batch = 1
+# source_pair_id = doc_0090_s005
+# genre = Contemporary Media | News Article
+# text = Asa ndang gabe manghatindangkon bangso Batak na di Tano Papua.
+# text_id = Sehingga tidak mewakili masyarakat Batak di Tanah Papua.
+1	Asa	_	_	_	_	_	_	_	_
+2	ndang	_	_	_	_	_	_	_	_
+3	gabe	_	_	_	_	_	_	_	_
+4	manghatindangkon	_	_	_	_	_	_	_	_
+5	bangso	_	_	_	_	_	_	_	_
+6	Batak	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	Tano	_	_	_	_	_	_	_	_
+10	Papua	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-051
+# batch = 2
+# source_pair_id = doc_0065_s007
+# genre = Educational | Book Summary
+# text = Tompu ma pajumpang ibana dohot sada nampuna lapau teh na naeng gale alana so adong sipanuhor na ro tusi.
+# text_id = Tiba-tiba, ia bertemu dengan seorang pemilik kedai teh yang hampir bangkrut karena tidak ada pembeli yang mampir ke kedainya.
+1	Tompu	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	pajumpang	_	_	_	_	_	_	_	_
+4	ibana	_	_	_	_	_	_	_	_
+5	dohot	_	_	_	_	_	_	_	_
+6	sada	_	_	_	_	_	_	_	_
+7	nampuna	_	_	_	_	_	_	_	_
+8	lapau	_	_	_	_	_	_	_	_
+9	teh	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	naeng	_	_	_	_	_	_	_	_
+12	gale	_	_	_	_	_	_	_	_
+13	alana	_	_	_	_	_	_	_	_
+14	so	_	_	_	_	_	_	_	_
+15	adong	_	_	_	_	_	_	_	_
+16	sipanuhor	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	ro	_	_	_	_	_	_	_	_
+19	tusi	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-052
+# batch = 2
+# source_pair_id = doc_0092_s019
+# genre = Contemporary Media | Blog Articles
+# text = Molo hubege carita, ia mahasiswa jurusan akuntansi gabe web programmer na togu jala berprestasi, longang ma rohangku.
+# text_id = Kalau saya denger cerita ada mahasiswa jurusan akuntansi jadi web programmer handal dan berprestasi, saya pasti berdecak kagum.
+1	Molo	_	_	_	_	_	_	_	_
+2	hubege	_	_	_	_	_	_	_	_
+3	carita	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	mahasiswa	_	_	_	_	_	_	_	_
+7	jurusan	_	_	_	_	_	_	_	_
+8	akuntansi	_	_	_	_	_	_	_	_
+9	gabe	_	_	_	_	_	_	_	_
+10	web	_	_	_	_	_	_	_	_
+11	programmer	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	togu	_	_	_	_	_	_	_	_
+14	jala	_	_	_	_	_	_	_	_
+15	berprestasi	_	_	_	_	_	_	_	SpaceAfter=No
+16	,	_	_	_	_	_	_	_	_
+17	longang	_	_	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	rohangku	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-053
+# batch = 2
+# source_pair_id = doc_0000_s029_b
+# genre = Historical/ Traditional | Folktales
+# text = Husuru hamu annon to huta mangalapi amang, asa adong donganta mamboan, atik mabiar lae di dalan.
+# text_id = Jika aku minta kamu pulang memanggil bapak supaya ada teman kita membawa, siapa tahu lae takut dijalan.
+1	Husuru	_	_	_	_	_	_	_	_
+2	hamu	_	_	_	_	_	_	_	_
+3	annon	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	huta	_	_	_	_	_	_	_	_
+6	mangalapi	_	_	_	_	_	_	_	_
+7	amang	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	asa	_	_	_	_	_	_	_	_
+10	adong	_	_	_	_	_	_	_	_
+11	donganta	_	_	_	_	_	_	_	_
+12	mamboan	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	atik	_	_	_	_	_	_	_	_
+15	mabiar	_	_	_	_	_	_	_	_
+16	lae	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	dalan	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-054
+# batch = 2
+# source_pair_id = doc_0076_s047
+# genre = Contemporary Media | Wiki
+# text = Disurathon ma poda jala dipararat tu sude Parmalim.
+# text_id = Ia menuliskan ajaran dan menyebarkannya kepada seluruh parmalim.
+1	Disurathon	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	poda	_	_	_	_	_	_	_	_
+4	jala	_	_	_	_	_	_	_	_
+5	dipararat	_	_	_	_	_	_	_	_
+6	tu	_	_	_	_	_	_	_	_
+7	sude	_	_	_	_	_	_	_	_
+8	Parmalim	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-055
+# batch = 2
+# source_pair_id = doc_0064_s018
+# genre = Educational | Book Summary
+# text = Marsalampu jala dijalo ni roha i ma panagaman ni panurat molo naeng dijaha buku on.
+# text_id = Pelan-pelan dan diresapi adalah harapan penulis ketika ingin membaca buku ini.
+1	Marsalampu	_	_	_	_	_	_	_	_
+2	jala	_	_	_	_	_	_	_	_
+3	dijalo	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	roha	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	panagaman	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	panurat	_	_	_	_	_	_	_	_
+11	molo	_	_	_	_	_	_	_	_
+12	naeng	_	_	_	_	_	_	_	_
+13	dijaha	_	_	_	_	_	_	_	_
+14	buku	_	_	_	_	_	_	_	_
+15	on	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-056
+# batch = 2
+# source_pair_id = doc_0000_s026_b
+# genre = Historical/ Traditional | Folktales
+# text = Dungkon ni, dung peak ursa na binodilna i, morsurak ma tungganena i sian las ni rohana.
+# text_id = Setelah itu, setelah tergeletak rusa yang ditembaknya itu, bersoraklah iparnya itu karena senangnya.
+1	Dungkon	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	dung	_	_	_	_	_	_	_	_
+5	peak	_	_	_	_	_	_	_	_
+6	ursa	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	binodilna	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	morsurak	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	tungganena	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	sian	_	_	_	_	_	_	_	_
+16	las	_	_	_	_	_	_	_	_
+17	ni	_	_	_	_	_	_	_	_
+18	rohana	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-057
+# batch = 2
+# source_pair_id = doc_0096_s047
+# genre = Contemporary Media | Blog Articles
+# text = Songon ima diarsak molo panindangon na somal rupa dohot logat boi manghalupi panandaan dirinta.
+# text_id = Begitulah rasanya ketika stereotip wajah dan logat bisa mengaburkan identitas kita.
+1	Songon	_	_	_	_	_	_	_	_
+2	ima	_	_	_	_	_	_	_	_
+3	diarsak	_	_	_	_	_	_	_	_
+4	molo	_	_	_	_	_	_	_	_
+5	panindangon	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	somal	_	_	_	_	_	_	_	_
+8	rupa	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	logat	_	_	_	_	_	_	_	_
+11	boi	_	_	_	_	_	_	_	_
+12	manghalupi	_	_	_	_	_	_	_	_
+13	panandaan	_	_	_	_	_	_	_	_
+14	dirinta	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-058
+# batch = 2
+# source_pair_id = doc_0003_s001
+# genre = Literary | Poems
+# text = Ikkon do langit i manjou habot ni ari
+# text_id = Pastilah langit memanggil mendung
+1	Ikkon	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	langit	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	manjou	_	_	_	_	_	_	_	_
+6	habot	_	_	_	_	_	_	_	_
+7	ni	_	_	_	_	_	_	_	_
+8	ari	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-059
+# batch = 2
+# source_pair_id = doc_0087_s012
+# genre = Contemporary Media | News Article
+# text = Ndang tading di Presiden Jokowi, disungkun do pasu-pasu di hata Batak.
+# text_id = Tidak ketinggalan Presiden Jokowi juga menyampaikan salam dalam bahasa Batak.
+1	Ndang	_	_	_	_	_	_	_	_
+2	tading	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	Presiden	_	_	_	_	_	_	_	_
+5	Jokowi	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	disungkun	_	_	_	_	_	_	_	_
+8	do	_	_	_	_	_	_	_	_
+9	pasu-pasu	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	hata	_	_	_	_	_	_	_	_
+12	Batak	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-060
+# batch = 2
+# source_pair_id = doc_0000_s019
+# genre = Historical/ Traditional | Folktales
+# text = Ala ni i ditahi rohana ma laho mangiran tu harangan.
+# text_id = Sebab itu ia bermaksud pergi berburu ke hutan.
+1	Ala	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ditahi	_	_	_	_	_	_	_	_
+5	rohana	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	laho	_	_	_	_	_	_	_	_
+8	mangiran	_	_	_	_	_	_	_	_
+9	tu	_	_	_	_	_	_	_	_
+10	harangan	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-061
+# batch = 2
+# source_pair_id = doc_0059_s010
+# genre = Educational | Book Summary
+# text = Marhite hata, boi do jolma i marsiajar parbinotoan, marsiurupan, jala targoar do marningot angka na so boi idaon.
+# text_id = Dengan bahasa, manusia bisa berbagi pengetahuan, kerjasama, dan bahkan mikir abstrak.
+1	Marhite	_	_	_	_	_	_	_	_
+2	hata	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	boi	_	_	_	_	_	_	_	_
+5	do	_	_	_	_	_	_	_	_
+6	jolma	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	marsiajar	_	_	_	_	_	_	_	_
+9	parbinotoan	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	marsiurupan	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	jala	_	_	_	_	_	_	_	_
+14	targoar	_	_	_	_	_	_	_	_
+15	do	_	_	_	_	_	_	_	_
+16	marningot	_	_	_	_	_	_	_	_
+17	angka	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	so	_	_	_	_	_	_	_	_
+20	boi	_	_	_	_	_	_	_	_
+21	idaon	_	_	_	_	_	_	_	SpaceAfter=No
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-062
+# batch = 2
+# source_pair_id = doc_0096_s044
+# genre = Contemporary Media | Blog Articles
+# text = Songon nuaeng on tingki ahu jotjot tutu dipadomu dohot dongan-dongan na marbalakang bangso Sunda dohot Jawa.
+# text_id = Seperti akhir-akhir ini saya sering sekali dipertemukan dengan teman-teman yang berlatar suku Sunda dan Jawa.
+1	Songon	_	_	_	_	_	_	_	_
+2	nuaeng	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	tingki	_	_	_	_	_	_	_	_
+5	ahu	_	_	_	_	_	_	_	_
+6	jotjot	_	_	_	_	_	_	_	_
+7	tutu	_	_	_	_	_	_	_	_
+8	dipadomu	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	dongan-dongan	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	marbalakang	_	_	_	_	_	_	_	_
+13	bangso	_	_	_	_	_	_	_	_
+14	Sunda	_	_	_	_	_	_	_	_
+15	dohot	_	_	_	_	_	_	_	_
+16	Jawa	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-063
+# batch = 2
+# source_pair_id = doc_0062_s011
+# genre = Contemporary Media | Wiki
+# text = Paubahon sada na so ringkot diuba i, holan manambai dohot patolhas parsoalan.
+# text_id = Mengubah sesuatu yang sebenarnya tidak perlu diubah hanya akan menambah bahkan memperpanjang masalah.
+1	Paubahon	_	_	_	_	_	_	_	_
+2	sada	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	ringkot	_	_	_	_	_	_	_	_
+6	diuba	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	holan	_	_	_	_	_	_	_	_
+10	manambai	_	_	_	_	_	_	_	_
+11	dohot	_	_	_	_	_	_	_	_
+12	patolhas	_	_	_	_	_	_	_	_
+13	parsoalan	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-064
+# batch = 2
+# source_pair_id = doc_0000_s026_c
+# genre = Historical/ Traditional | Folktales
+# text = Jadi didapothon nasida ma hatinggangan ni ursa i, dilapa nian.
+# text_id = Jadi didatangilah oleh mereka tempat jatuhnya rusa itu, untuk dipotong/dibelahi rupanya.
+1	Jadi	_	_	_	_	_	_	_	_
+2	didapothon	_	_	_	_	_	_	_	_
+3	nasida	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	hatinggangan	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	ursa	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	dilapa	_	_	_	_	_	_	_	_
+11	nian	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-065
+# batch = 2
+# source_pair_id = doc_0083_s008
+# genre = Contemporary Media | News Article
+# text = Dijodohhon ma ibana dohot Uli Silalahi di Samosir.
+# text_id = Dia dijodohkan dengan Uli Silalahi (Atiqah Hasiholan) di Samosir.
+1	Dijodohhon	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	ibana	_	_	_	_	_	_	_	_
+4	dohot	_	_	_	_	_	_	_	_
+5	Uli	_	_	_	_	_	_	_	_
+6	Silalahi	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	Samosir	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-066
+# batch = 2
+# source_pair_id = doc_0060_s060
+# genre = Educational | Book Summary
+# text = Mambahen hatiuron ndang adong hubunganna dohot balgana pandapotan alai sadia balgana hepeng na ditabungmu.
+# text_id = Membangun kekayaan tidak ada hubungannya dengan besarnya pendapatan tapi berapa besar uang yang anda tabung.
+1	Mambahen	_	_	_	_	_	_	_	_
+2	hatiuron	_	_	_	_	_	_	_	_
+3	ndang	_	_	_	_	_	_	_	_
+4	adong	_	_	_	_	_	_	_	_
+5	hubunganna	_	_	_	_	_	_	_	_
+6	dohot	_	_	_	_	_	_	_	_
+7	balgana	_	_	_	_	_	_	_	_
+8	pandapotan	_	_	_	_	_	_	_	_
+9	alai	_	_	_	_	_	_	_	_
+10	sadia	_	_	_	_	_	_	_	_
+11	balgana	_	_	_	_	_	_	_	_
+12	hepeng	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	ditabungmu	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-067
+# batch = 2
+# source_pair_id = doc_0094_s040
+# genre = Contemporary Media | Blog Articles
+# text = Huarsak au ia ringkot tingki dohot roha na sadar asa unang mangalusi.
+# text_id = Aku belajar bahwa perlu waktu dan kesadaran untuk tidak menghakimi.
+1	Huarsak	_	_	_	_	_	_	_	_
+2	au	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ringkot	_	_	_	_	_	_	_	_
+5	tingki	_	_	_	_	_	_	_	_
+6	dohot	_	_	_	_	_	_	_	_
+7	roha	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	sadar	_	_	_	_	_	_	_	_
+10	asa	_	_	_	_	_	_	_	_
+11	unang	_	_	_	_	_	_	_	_
+12	mangalusi	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-068
+# batch = 2
+# source_pair_id = doc_0071_s005
+# genre = Educational | News Article
+# text = Na ro sian panulingkian patuduhon ia parhepengon digital maringanan ahas nauli tu hatubuan ni parhepengon di Indonesia.
+# text_id = Hasil penelitian menunjukkan bahwa ekonomi digital memiliki dampak positif terhadap pertumbuhan ekonomi di Indonesia.
+1	Na	_	_	_	_	_	_	_	_
+2	ro	_	_	_	_	_	_	_	_
+3	sian	_	_	_	_	_	_	_	_
+4	panulingkian	_	_	_	_	_	_	_	_
+5	patuduhon	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	parhepengon	_	_	_	_	_	_	_	_
+8	digital	_	_	_	_	_	_	_	_
+9	maringanan	_	_	_	_	_	_	_	_
+10	ahas	_	_	_	_	_	_	_	_
+11	nauli	_	_	_	_	_	_	_	_
+12	tu	_	_	_	_	_	_	_	_
+13	hatubuan	_	_	_	_	_	_	_	_
+14	ni	_	_	_	_	_	_	_	_
+15	parhepengon	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	Indonesia	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-069
+# batch = 2
+# source_pair_id = doc_0052_s001
+# genre = Religious | Prayers
+# text = Tarlumobi ma di sipanganon siinumon na rade di jolo nami.
+# text_id = Terlebih untuk makanan dan minuman yang tersedia di hadapan kami.
+1	Tarlumobi	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	sipanganon	_	_	_	_	_	_	_	_
+5	siinumon	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	rade	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	jolo	_	_	_	_	_	_	_	_
+10	nami	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-070
+# batch = 2
+# source_pair_id = doc_0062_s013
+# genre = Contemporary Media | Wiki
+# text = Songon tudosan, adong pigapiga jolma na marpanagaman na boi paubahon sada par peak asa dos dohot na diparsinta nasida.
+# text_id = Misalnya ada beberapa orang yang menaruh harapan dapat mengubah suatu kondisi agar sesuai dengan yang mereka harapkan.
+1	Songon	_	_	_	_	_	_	_	_
+2	tudosan	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	adong	_	_	_	_	_	_	_	_
+5	pigapiga	_	_	_	_	_	_	_	_
+6	jolma	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	marpanagaman	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	boi	_	_	_	_	_	_	_	_
+11	paubahon	_	_	_	_	_	_	_	_
+12	sada	_	_	_	_	_	_	_	_
+13	par	_	_	_	_	_	_	_	_
+14	peak	_	_	_	_	_	_	_	_
+15	asa	_	_	_	_	_	_	_	_
+16	dos	_	_	_	_	_	_	_	_
+17	dohot	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	diparsinta	_	_	_	_	_	_	_	_
+20	nasida	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-071
+# batch = 2
+# source_pair_id = doc_0000_s062_a
+# genre = Historical/ Traditional | Folktales
+# text = Alai di na sadari diunjuni hela i ma roha ni simatuana i songon on.
+# text_id = Tetapi pada suatu hari diujilah hati mertuanya oleh menantu itu seperti ini.
+1	Alai	_	_	_	_	_	_	_	_
+2	di	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	sadari	_	_	_	_	_	_	_	_
+5	diunjuni	_	_	_	_	_	_	_	_
+6	hela	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	roha	_	_	_	_	_	_	_	_
+10	ni	_	_	_	_	_	_	_	_
+11	simatuana	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	songon	_	_	_	_	_	_	_	_
+14	on	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-072
+# batch = 2
+# source_pair_id = doc_0059_s015
+# genre = Educational | Book Summary
+# text = Adong do pangkorhon na denggan dohot na so denggan!
+# text_id = Ada dampak positif dan negatifnya lho!
+1	Adong	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	pangkorhon	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	denggan	_	_	_	_	_	_	_	_
+6	dohot	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	so	_	_	_	_	_	_	_	_
+9	denggan	_	_	_	_	_	_	_	SpaceAfter=No
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-073
+# batch = 2
+# source_pair_id = doc_0093_s038
+# genre = Contemporary Media | Blog Articles
+# text = Parbuaton na pantun nuaeng ro do sian tangan ni Parangan Marsiajar Mesin.
+# text_id = Produk-produk canggih masa kini berasal dari tangan para machine learning engineer.
+1	Parbuaton	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	pantun	_	_	_	_	_	_	_	_
+4	nuaeng	_	_	_	_	_	_	_	_
+5	ro	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	_
+7	sian	_	_	_	_	_	_	_	_
+8	tangan	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	Parangan	_	_	_	_	_	_	_	_
+11	Marsiajar	_	_	_	_	_	_	_	_
+12	Mesin	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-074
+# batch = 2
+# source_pair_id = doc_0088_s023
+# genre = Contemporary Media | News Article
+# text = Na manghombangot sian Senayan, adong do dua lapo di Senen na paradehon tuak.
+# text_id = Yang membedakan dari Senayan, ada dua lapo di Senen menyediakan tuak.
+1	Na	_	_	_	_	_	_	_	_
+2	manghombangot	_	_	_	_	_	_	_	_
+3	sian	_	_	_	_	_	_	_	_
+4	Senayan	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	adong	_	_	_	_	_	_	_	_
+7	do	_	_	_	_	_	_	_	_
+8	dua	_	_	_	_	_	_	_	_
+9	lapo	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	Senen	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	paradehon	_	_	_	_	_	_	_	_
+14	tuak	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-075
+# batch = 2
+# source_pair_id = doc_0000_s075_b
+# genre = Historical/ Traditional | Folktales
+# text = Nangtung sura na tutu mate laemi, ba dia ma bahenonnami tu hamu?
+# text_id = Sekalipun seandainya benar iparmu itu mati, lantas apa yang akan kami perbuat kepada kalian?
+1	Nangtung	_	_	_	_	_	_	_	_
+2	sura	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	tutu	_	_	_	_	_	_	_	_
+5	mate	_	_	_	_	_	_	_	_
+6	laemi	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	ba	_	_	_	_	_	_	_	_
+9	dia	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	bahenonnami	_	_	_	_	_	_	_	_
+12	tu	_	_	_	_	_	_	_	_
+13	hamu	_	_	_	_	_	_	_	SpaceAfter=No
+14	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-076
+# batch = 2
+# source_pair_id = doc_0079_s004
+# genre = Contemporary Media | Wiki
+# text = Nommensen ro sian Jerman, alai lobi diboto di Indonesia.
+# text_id = Nommensen berasal dari Jerman, tetapi lebih dikenal di Indonesia.
+1	Nommensen	_	_	_	_	_	_	_	_
+2	ro	_	_	_	_	_	_	_	_
+3	sian	_	_	_	_	_	_	_	_
+4	Jerman	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	alai	_	_	_	_	_	_	_	_
+7	lobi	_	_	_	_	_	_	_	_
+8	diboto	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	Indonesia	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-077
+# batch = 2
+# source_pair_id = doc_0058_s019
+# genre = Educational | Book Summary
+# text = Adong do na gabe lubang ut-ut dohot pardalanan ni tingki!
+# text_id = Ada kemungkinan lubang cacing dan perjalanan waktu lho!
+1	Adong	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	gabe	_	_	_	_	_	_	_	_
+5	lubang	_	_	_	_	_	_	_	_
+6	ut-ut	_	_	_	_	_	_	_	_
+7	dohot	_	_	_	_	_	_	_	_
+8	pardalanan	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	tingki	_	_	_	_	_	_	_	SpaceAfter=No
+11	!	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-078
+# batch = 2
+# source_pair_id = doc_0092_s034_a
+# genre = Contemporary Media | Blog Articles
+# text = Taon paduahon mamungka ma hudok ia au na sala.
+# text_id = Tahun kedua mulailah kukatakan bahwa aku yang salah.
+1	Taon	_	_	_	_	_	_	_	_
+2	paduahon	_	_	_	_	_	_	_	_
+3	mamungka	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	hudok	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	au	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	sala	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-079
+# batch = 2
+# source_pair_id = doc_0000_s054
+# genre = Historical/ Traditional | Folktales
+# text = Dung sirang ibana sian boru ni nambura mamora, ditopot muse ma boru ni nambura maduma.
+# text_id = Setelah dia cerai dengan putri orang yang baru kaya, dilamarlah lagi putri orang yang baru makmur hidupnya.
+1	Dung	_	_	_	_	_	_	_	_
+2	sirang	_	_	_	_	_	_	_	_
+3	ibana	_	_	_	_	_	_	_	_
+4	sian	_	_	_	_	_	_	_	_
+5	boru	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	nambura	_	_	_	_	_	_	_	_
+8	mamora	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	ditopot	_	_	_	_	_	_	_	_
+11	muse	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	boru	_	_	_	_	_	_	_	_
+14	ni	_	_	_	_	_	_	_	_
+15	nambura	_	_	_	_	_	_	_	_
+16	maduma	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-080
+# batch = 2
+# source_pair_id = doc_0002_s008
+# genre = Literary | Poems
+# text = Tung so hasuhatan be inang ilumi na dilage Podomanmi nasai Maraburan
+# text_id = Sungguh tak terhitung lagi, Ibu, air matamu yang selalu tumpah di tikar tempat tidurmu.
+1	Tung	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	hasuhatan	_	_	_	_	_	_	_	_
+4	be	_	_	_	_	_	_	_	_
+5	inang	_	_	_	_	_	_	_	_
+6	ilumi	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	dilage	_	_	_	_	_	_	_	_
+9	Podomanmi	_	_	_	_	_	_	_	_
+10	nasai	_	_	_	_	_	_	_	_
+11	Maraburan	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-081
+# batch = 2
+# source_pair_id = doc_0088_s018
+# genre = Contemporary Media | News Article
+# text = Di son, adong do lapo Batak Toba dohot lapo Karo.
+# text_id = Di sini ada lapo Batak Toba dan lapo Karo.
+1	Di	_	_	_	_	_	_	_	_
+2	son	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	adong	_	_	_	_	_	_	_	_
+5	do	_	_	_	_	_	_	_	_
+6	lapo	_	_	_	_	_	_	_	_
+7	Batak	_	_	_	_	_	_	_	_
+8	Toba	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	lapo	_	_	_	_	_	_	_	_
+11	Karo	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-082
+# batch = 2
+# source_pair_id = doc_0060_s013
+# genre = Educational | Book Summary
+# text = Aha do na mambahen nasida songon i?
+# text_id = Apa yang menyebabkan mereka begitu?
+1	Aha	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	mambahen	_	_	_	_	_	_	_	_
+5	nasida	_	_	_	_	_	_	_	_
+6	songon	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	SpaceAfter=No
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-083
+# batch = 2
+# source_pair_id = doc_0092_s038_a
+# genre = Contemporary Media | Blog Articles
+# text = Husadari ma ia au nunga so adong tingki laho mambuat jalur na asing.
+# text_id = Kusadari bahwa aku sudah tidak punya waktu untuk mengambil jalur yang lain.
+1	Husadari	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	nunga	_	_	_	_	_	_	_	_
+6	so	_	_	_	_	_	_	_	_
+7	adong	_	_	_	_	_	_	_	_
+8	tingki	_	_	_	_	_	_	_	_
+9	laho	_	_	_	_	_	_	_	_
+10	mambuat	_	_	_	_	_	_	_	_
+11	jalur	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	asing	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-084
+# batch = 2
+# source_pair_id = doc_0078_s045
+# genre = Contemporary Media | Wiki
+# text = Parangkat soara ni Batak Toba tarbilang na marasing sian segi guna dohot sora na ro.
+# text_id = Alat musik Batak Toba tergolong unik dari segi fungsi dan suara yang dihasilkan.
+1	Parangkat	_	_	_	_	_	_	_	_
+2	soara	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	Batak	_	_	_	_	_	_	_	_
+5	Toba	_	_	_	_	_	_	_	_
+6	tarbilang	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	marasing	_	_	_	_	_	_	_	_
+9	sian	_	_	_	_	_	_	_	_
+10	segi	_	_	_	_	_	_	_	_
+11	guna	_	_	_	_	_	_	_	_
+12	dohot	_	_	_	_	_	_	_	_
+13	sora	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	ro	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-085
+# batch = 2
+# source_pair_id = doc_0000_s075_c
+# genre = Historical/ Traditional | Folktales
+# text = Tung tarpaihut hami ma na mangolu tu naung mate?
+# text_id = Apakah kami yang masih hidup ini harus ikut dengan yang sudah mati?
+1	Tung	_	_	_	_	_	_	_	_
+2	tarpaihut	_	_	_	_	_	_	_	_
+3	hami	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	mangolu	_	_	_	_	_	_	_	_
+7	tu	_	_	_	_	_	_	_	_
+8	naung	_	_	_	_	_	_	_	_
+9	mate	_	_	_	_	_	_	_	SpaceAfter=No
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-086
+# batch = 2
+# source_pair_id = doc_0073_s003
+# genre = Educational | News Article
+# text = Panulingkian on mamangke metode panulingkian na marhite sifat-manggombarhon dohot parnidaan ni pustaha.
+# text_id = Penelitian ini menggunakan metode penelitian kualitatif-deskriptif dengan pendekatan studi kepustakaan.
+1	Panulingkian	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	mamangke	_	_	_	_	_	_	_	_
+4	metode	_	_	_	_	_	_	_	_
+5	panulingkian	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	marhite	_	_	_	_	_	_	_	_
+8	sifat-manggombarhon	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	parnidaan	_	_	_	_	_	_	_	_
+11	ni	_	_	_	_	_	_	_	_
+12	pustaha	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-087
+# batch = 2
+# source_pair_id = doc_0059_s022
+# genre = Educational | Book Summary
+# text = Godang do angka na mambahen on masa, songon parbinotoan, imperialisme, dohot panjumpaan na imbaru.
+# text_id = Ada banyak faktor yang bikin hal ini terjadi, kayak perdagangan, imperialisme, dan penemuan baru.
+1	Godang	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	angka	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	mambahen	_	_	_	_	_	_	_	_
+6	on	_	_	_	_	_	_	_	_
+7	masa	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	songon	_	_	_	_	_	_	_	_
+10	parbinotoan	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	imperialisme	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	dohot	_	_	_	_	_	_	_	_
+15	panjumpaan	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	imbaru	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-088
+# batch = 2
+# source_pair_id = doc_0050_s003
+# genre = Religious | Prayers
+# text = Sesa ma dosaku asa unang tarambat akka pasu-pasu na naeng lehononmu tu ahu dibagasan sadarion.
+# text_id = Ampunilah dosaku agar berkat-berkat yang hendak Engkau berikan kepadaku pada hari ini tidak terhalang.
+1	Sesa	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	dosaku	_	_	_	_	_	_	_	_
+4	asa	_	_	_	_	_	_	_	_
+5	unang	_	_	_	_	_	_	_	_
+6	tarambat	_	_	_	_	_	_	_	_
+7	akka	_	_	_	_	_	_	_	_
+8	pasu-pasu	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	naeng	_	_	_	_	_	_	_	_
+11	lehononmu	_	_	_	_	_	_	_	_
+12	tu	_	_	_	_	_	_	_	_
+13	ahu	_	_	_	_	_	_	_	_
+14	dibagasan	_	_	_	_	_	_	_	_
+15	sadarion	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-089
+# batch = 2
+# source_pair_id = doc_0092_s010_a
+# genre = Contemporary Media | Blog Articles
+# text = Dang ditubuhon hita boi mananggal sapuluh jari sian na metmet.
+# text_id = Kita tidak dilahirkan bisa mengetik sepuluh jari sejak kecil.
+1	Dang	_	_	_	_	_	_	_	_
+2	ditubuhon	_	_	_	_	_	_	_	_
+3	hita	_	_	_	_	_	_	_	_
+4	boi	_	_	_	_	_	_	_	_
+5	mananggal	_	_	_	_	_	_	_	_
+6	sapuluh	_	_	_	_	_	_	_	_
+7	jari	_	_	_	_	_	_	_	_
+8	sian	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	metmet	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-090
+# batch = 2
+# source_pair_id = doc_0049_s000
+# genre = Literary | Peribahasa/Umpama
+# text = Na tinaba ni tangke martumbur, na tinamba ni gana ripur
+# text_id = Yang ditebang kampak akan bertunas, yang ditebang sumpah mati tak akan berketurunan
+1	Na	_	_	_	_	_	_	_	_
+2	tinaba	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	tangke	_	_	_	_	_	_	_	_
+5	martumbur	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	tinamba	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	gana	_	_	_	_	_	_	_	_
+11	ripur	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-091
+# batch = 2
+# source_pair_id = doc_0061_s020
+# genre = Educational | Quotes
+# text = Songon tudosan ulaon na pajongjong huta pulo na manimbangon parngoluon tano dohot hiras tu mara.
+# text_id = Sebagai contoh strategi membangun kota kepulauan yang memperhatikan faktor lingkungan dan tanggap bencana.
+1	Songon	_	_	_	_	_	_	_	_
+2	tudosan	_	_	_	_	_	_	_	_
+3	ulaon	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	pajongjong	_	_	_	_	_	_	_	_
+6	huta	_	_	_	_	_	_	_	_
+7	pulo	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	manimbangon	_	_	_	_	_	_	_	_
+10	parngoluon	_	_	_	_	_	_	_	_
+11	tano	_	_	_	_	_	_	_	_
+12	dohot	_	_	_	_	_	_	_	_
+13	hiras	_	_	_	_	_	_	_	_
+14	tu	_	_	_	_	_	_	_	_
+15	mara	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-092
+# batch = 2
+# source_pair_id = doc_0000_s056
+# genre = Historical/ Traditional | Folktales
+# text = Alai dihilala rohana ma disi dos do, ndang dia imbar ni pangalaho ni i.
+# text_id = Tetapi dia merasa sama saja tidak ada bedanya sifat mertuanya sekarang dengan yang sebelumnya.
+1	Alai	_	_	_	_	_	_	_	_
+2	dihilala	_	_	_	_	_	_	_	_
+3	rohana	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	disi	_	_	_	_	_	_	_	_
+6	dos	_	_	_	_	_	_	_	_
+7	do	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ndang	_	_	_	_	_	_	_	_
+10	dia	_	_	_	_	_	_	_	_
+11	imbar	_	_	_	_	_	_	_	_
+12	ni	_	_	_	_	_	_	_	_
+13	pangalaho	_	_	_	_	_	_	_	_
+14	ni	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-093
+# batch = 2
+# source_pair_id = doc_0075_s033
+# genre = Contemporary Media | Wiki
+# text = Dung merdeka Indonesia, mulai ma HKBP margabung tu organisasi huria internasional dohot nasional.
+# text_id = Setelah Indonesia merdeka, HKBP mulai bergabung dengan organisasi gereja internasional dan nasional.
+1	Dung	_	_	_	_	_	_	_	_
+2	merdeka	_	_	_	_	_	_	_	_
+3	Indonesia	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	mulai	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	HKBP	_	_	_	_	_	_	_	_
+8	margabung	_	_	_	_	_	_	_	_
+9	tu	_	_	_	_	_	_	_	_
+10	organisasi	_	_	_	_	_	_	_	_
+11	huria	_	_	_	_	_	_	_	_
+12	internasional	_	_	_	_	_	_	_	_
+13	dohot	_	_	_	_	_	_	_	_
+14	nasional	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-094
+# batch = 2
+# source_pair_id = doc_0083_s009
+# genre = Contemporary Media | News Article
+# text = Uli i ma pariban manang ito ni Moan.
+# text_id = Uli merupakan pariban atau sepupu Moan.
+1	Uli	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	pariban	_	_	_	_	_	_	_	_
+5	manang	_	_	_	_	_	_	_	_
+6	ito	_	_	_	_	_	_	_	_
+7	ni	_	_	_	_	_	_	_	_
+8	Moan	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-095
+# batch = 2
+# source_pair_id = doc_0065_s005
+# genre = Educational | Book Summary
+# text = Dung i dipodahon ma tu si Santiago asa unang tupa mansadi marpinipi dohot asa tongtong mangihuthon angka pertanda.
+# text_id = Ia pun berpesan kepada Santiago untuk tidak pernah berhenti bermimpi dan selalu mengikuti pertanda.
+1	Dung	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	dipodahon	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	tu	_	_	_	_	_	_	_	_
+6	si	_	_	_	_	_	_	_	_
+7	Santiago	_	_	_	_	_	_	_	_
+8	asa	_	_	_	_	_	_	_	_
+9	unang	_	_	_	_	_	_	_	_
+10	tupa	_	_	_	_	_	_	_	_
+11	mansadi	_	_	_	_	_	_	_	_
+12	marpinipi	_	_	_	_	_	_	_	_
+13	dohot	_	_	_	_	_	_	_	_
+14	asa	_	_	_	_	_	_	_	_
+15	tongtong	_	_	_	_	_	_	_	_
+16	mangihuthon	_	_	_	_	_	_	_	_
+17	angka	_	_	_	_	_	_	_	_
+18	pertanda	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-096
+# batch = 2
+# source_pair_id = doc_0097_s025
+# genre = Contemporary Media | Blog Articles
+# text = Tarluar sian dia pe rupana, sining i ndang marpartondian na tigor.
+# text_id = Terlepas dari apapun bentuknya, seni tidak memiliki batas yang jelas.
+1	Tarluar	_	_	_	_	_	_	_	_
+2	sian	_	_	_	_	_	_	_	_
+3	dia	_	_	_	_	_	_	_	_
+4	pe	_	_	_	_	_	_	_	_
+5	rupana	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	sining	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ndang	_	_	_	_	_	_	_	_
+10	marpartondian	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	tigor	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-097
+# batch = 2
+# source_pair_id = doc_0000_s008
+# genre = Historical/ Traditional | Folktales
+# text = Diunjuni roha ni anah i ma hata sipaingot ni amana najolo, asa tangkas diboto sintongna.
+# text_id = Anaknya bermaksud menguji nasihat sang ayah untuk mengetahui kebenarannya.
+1	Diunjuni	_	_	_	_	_	_	_	_
+2	roha	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	anah	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	hata	_	_	_	_	_	_	_	_
+8	sipaingot	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	amana	_	_	_	_	_	_	_	_
+11	najolo	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	asa	_	_	_	_	_	_	_	_
+14	tangkas	_	_	_	_	_	_	_	_
+15	diboto	_	_	_	_	_	_	_	_
+16	sintongna	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-098
+# batch = 2
+# source_pair_id = doc_0080_s053_c
+# genre = Contemporary Media | Wiki
+# text = Tondi na manghatai marhite halak i nunga godang mangela hamu.
+# text_id = “Roh yang berbicara melalui orang itu sudah banyak menipu kalian."
+1	Tondi	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	manghatai	_	_	_	_	_	_	_	_
+4	marhite	_	_	_	_	_	_	_	_
+5	halak	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nunga	_	_	_	_	_	_	_	_
+8	godang	_	_	_	_	_	_	_	_
+9	mangela	_	_	_	_	_	_	_	_
+10	hamu	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-099
+# batch = 2
+# source_pair_id = doc_0059_s024
+# genre = Educational | Book Summary
+# text = Podang, kuman, dohot baja targoar do adong pangkorhon na balga!
+# text_id = Senjata, kuman, dan baja ternyata punya pengaruh besar lho!
+1	Podang	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	kuman	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	dohot	_	_	_	_	_	_	_	_
+6	baja	_	_	_	_	_	_	_	_
+7	targoar	_	_	_	_	_	_	_	_
+8	do	_	_	_	_	_	_	_	_
+9	adong	_	_	_	_	_	_	_	_
+10	pangkorhon	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	balga	_	_	_	_	_	_	_	SpaceAfter=No
+13	!	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-100
+# batch = 2
+# source_pair_id = doc_0096_s034
+# genre = Contemporary Media | Blog Articles
+# text = Molo manghatai sai mamangke hata Indonesia manang dihampar dohot hata Jawa.
+# text_id = Kalau berbicara juga selalu menggunakan bahasa Indonesia atau campur dengan bahasa Jawa.
+1	Molo	_	_	_	_	_	_	_	_
+2	manghatai	_	_	_	_	_	_	_	_
+3	sai	_	_	_	_	_	_	_	_
+4	mamangke	_	_	_	_	_	_	_	_
+5	hata	_	_	_	_	_	_	_	_
+6	Indonesia	_	_	_	_	_	_	_	_
+7	manang	_	_	_	_	_	_	_	_
+8	dihampar	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	hata	_	_	_	_	_	_	_	_
+11	Jawa	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-101
+# batch = 3
+# source_pair_id = doc_0083_s003
+# genre = Contemporary Media | News Article
+# text = Sitorus manang Moan i ma bao-bao pinompar Batak.
+# text_id = Sitorus alias Moan (Ganindra Bimo) merupakan lelaki keturunan Batak.
+1	Sitorus	_	_	_	_	_	_	_	_
+2	manang	_	_	_	_	_	_	_	_
+3	Moan	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	bao-bao	_	_	_	_	_	_	_	_
+7	pinompar	_	_	_	_	_	_	_	_
+8	Batak	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-102
+# batch = 3
+# source_pair_id = doc_0000_s057
+# genre = Historical/ Traditional | Folktales
+# text = Sian i pe laos sirang boti do anak ni Mortua Rajadoli.
+# text_id = Dari sana pun cerailah anak Martua Raja Doli.
+1	Sian	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	pe	_	_	_	_	_	_	_	_
+4	laos	_	_	_	_	_	_	_	_
+5	sirang	_	_	_	_	_	_	_	_
+6	boti	_	_	_	_	_	_	_	_
+7	do	_	_	_	_	_	_	_	_
+8	anak	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	Mortua	_	_	_	_	_	_	_	_
+11	Rajadoli	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-103
+# batch = 3
+# source_pair_id = doc_0078_s040
+# genre = Contemporary Media | Wiki
+# text = Pamaragan ni pangalaho dohot parrohaon marhite Tortor sai tongtong do maningting haadongan dohot tingki na niadopanna.
+# text_id = Peragaan sikap dan perasaan melalui Tortor selalu menggambarkan kondisi dan situasi yang dialami.
+1	Pamaragan	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	pangalaho	_	_	_	_	_	_	_	_
+4	dohot	_	_	_	_	_	_	_	_
+5	parrohaon	_	_	_	_	_	_	_	_
+6	marhite	_	_	_	_	_	_	_	_
+7	Tortor	_	_	_	_	_	_	_	_
+8	sai	_	_	_	_	_	_	_	_
+9	tongtong	_	_	_	_	_	_	_	_
+10	do	_	_	_	_	_	_	_	_
+11	maningting	_	_	_	_	_	_	_	_
+12	haadongan	_	_	_	_	_	_	_	_
+13	dohot	_	_	_	_	_	_	_	_
+14	tingki	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	niadopanna	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-104
+# batch = 3
+# source_pair_id = doc_0057_s014
+# genre = Literary | Poems
+# text = sai sahat ma da na di rohami
+# text_id = semoga tercapai yang kau inginkan
+1	sai	_	_	_	_	_	_	_	_
+2	sahat	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	rohami	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-105
+# batch = 3
+# source_pair_id = doc_0065_s020
+# genre = Educational | Book Summary
+# text = Parhataion nasida nadua balga jala na manghori roha.
+# text_id = Percakapan keduanya berlangsung intens dan inspiratif.
+1	Parhataion	_	_	_	_	_	_	_	_
+2	nasida	_	_	_	_	_	_	_	_
+3	nadua	_	_	_	_	_	_	_	_
+4	balga	_	_	_	_	_	_	_	_
+5	jala	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	manghori	_	_	_	_	_	_	_	_
+8	roha	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-106
+# batch = 3
+# source_pair_id = doc_0001_s003_b
+# genre = Historical/ Traditional | Folktales
+# text = Jala marsumpa dang i paboa manang hu ise handia haroroan ni siborua i.
+# text_id = Dan bersumpah tidak akan memberitahukan kepada siapa pun dari mana asal-usul perempuan itu.
+1	Jala	_	_	_	_	_	_	_	_
+2	marsumpa	_	_	_	_	_	_	_	_
+3	dang	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	paboa	_	_	_	_	_	_	_	_
+6	manang	_	_	_	_	_	_	_	_
+7	hu	_	_	_	_	_	_	_	_
+8	ise	_	_	_	_	_	_	_	_
+9	handia	_	_	_	_	_	_	_	_
+10	haroroan	_	_	_	_	_	_	_	_
+11	ni	_	_	_	_	_	_	_	_
+12	siborua	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-107
+# batch = 3
+# source_pair_id = doc_0093_s032
+# genre = Contemporary Media | Blog Articles
+# text = Asa boi ta sangka sadia balga parsimpanan na ingkon tambahanta.
+# text_id = Jadi kita bisa prediksi harus nambah gudang seberapa besar.
+1	Asa	_	_	_	_	_	_	_	_
+2	boi	_	_	_	_	_	_	_	_
+3	ta	_	_	_	_	_	_	_	_
+4	sangka	_	_	_	_	_	_	_	_
+5	sadia	_	_	_	_	_	_	_	_
+6	balga	_	_	_	_	_	_	_	_
+7	parsimpanan	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	ingkon	_	_	_	_	_	_	_	_
+10	tambahanta	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-108
+# batch = 3
+# source_pair_id = doc_0082_s030
+# genre = Contemporary Media | News Article
+# text = Kesenian suku Batak di hal seni musik na marparsimbolon digoari Ogung Sabangunan.
+# text_id = Kesenian suku Batak dalam hal seni musik yang khas disebut ogung sabangunan.
+1	Kesenian	_	_	_	_	_	_	_	_
+2	suku	_	_	_	_	_	_	_	_
+3	Batak	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	hal	_	_	_	_	_	_	_	_
+6	seni	_	_	_	_	_	_	_	_
+7	musik	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	marparsimbolon	_	_	_	_	_	_	_	_
+10	digoari	_	_	_	_	_	_	_	_
+11	Ogung	_	_	_	_	_	_	_	_
+12	Sabangunan	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-109
+# batch = 3
+# source_pair_id = doc_0071_s007_a
+# genre = Educational | News Article
+# text = Alai, parhepengon digital tongtong maringanan potensi laho mamboan dampak na roru tu hatubuan ni parhepengon.
+# text_id = Namun, keuangan digital tetap menyimpan potensi untuk membawa dampak yang buruk bagi pertumbuhan keuangan.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	parhepengon	_	_	_	_	_	_	_	_
+4	digital	_	_	_	_	_	_	_	_
+5	tongtong	_	_	_	_	_	_	_	_
+6	maringanan	_	_	_	_	_	_	_	_
+7	potensi	_	_	_	_	_	_	_	_
+8	laho	_	_	_	_	_	_	_	_
+9	mamboan	_	_	_	_	_	_	_	_
+10	dampak	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	roru	_	_	_	_	_	_	_	_
+13	tu	_	_	_	_	_	_	_	_
+14	hatubuan	_	_	_	_	_	_	_	_
+15	ni	_	_	_	_	_	_	_	_
+16	parhepengon	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-110
+# batch = 3
+# source_pair_id = doc_0052_s004
+# genre = Religious | Prayers
+# text = Dibagasan goar Jesus Kristis martangiang hami dohot mandok mauliate.
+# text_id = Di dalam nama Yesus Kristus kami berdoa dan mengucap syukur.
+1	Dibagasan	_	_	_	_	_	_	_	_
+2	goar	_	_	_	_	_	_	_	_
+3	Jesus	_	_	_	_	_	_	_	_
+4	Kristis	_	_	_	_	_	_	_	_
+5	martangiang	_	_	_	_	_	_	_	_
+6	hami	_	_	_	_	_	_	_	_
+7	dohot	_	_	_	_	_	_	_	_
+8	mandok	_	_	_	_	_	_	_	_
+9	mauliate	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-111
+# batch = 3
+# source_pair_id = doc_0000_s040
+# genre = Historical/ Traditional | Folktales
+# text = Umbege joujouna na torop i, sip ma nasida manangi.
+# text_id = Mendengar suara yang bertanya itu, diamlah orang banyak tersebut mendengarkan.
+1	Umbege	_	_	_	_	_	_	_	_
+2	joujouna	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	torop	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	sip	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	nasida	_	_	_	_	_	_	_	_
+10	manangi	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-112
+# batch = 3
+# source_pair_id = doc_0059_s004
+# genre = Educational | Book Summary
+# text = Sai lam timbul do utokutokna dohot gogo ni parnidaanna, na tung marasing do i sian pinahan.
+# text_id = Otak dan kemampuan berpikirnya makin canggih, beda banget sama hewan.
+1	Sai	_	_	_	_	_	_	_	_
+2	lam	_	_	_	_	_	_	_	_
+3	timbul	_	_	_	_	_	_	_	_
+4	do	_	_	_	_	_	_	_	_
+5	utokutokna	_	_	_	_	_	_	_	_
+6	dohot	_	_	_	_	_	_	_	_
+7	gogo	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	parnidaanna	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	tung	_	_	_	_	_	_	_	_
+13	marasing	_	_	_	_	_	_	_	_
+14	do	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	sian	_	_	_	_	_	_	_	_
+17	pinahan	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-113
+# batch = 3
+# source_pair_id = doc_0095_s013
+# genre = Contemporary Media | Blog Articles
+# text = Na mamungka sian dison ma ahu gabe sahalak panortor na imbaru.
+# text_id = Bermula dari sinilah aku menjadi seorang penari yang baru.
+1	Na	_	_	_	_	_	_	_	_
+2	mamungka	_	_	_	_	_	_	_	_
+3	sian	_	_	_	_	_	_	_	_
+4	dison	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	ahu	_	_	_	_	_	_	_	_
+7	gabe	_	_	_	_	_	_	_	_
+8	sahalak	_	_	_	_	_	_	_	_
+9	panortor	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	imbaru	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-114
+# batch = 3
+# source_pair_id = doc_0076_s053
+# genre = Contemporary Media | Wiki
+# text = Ibana do muse na mangatur hasuhuton Parmalim mangeahi pangaturion.
+# text_id = Ia juga mengorganisasikan parmailim secara administratif.
+1	Ibana	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	muse	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	mangatur	_	_	_	_	_	_	_	_
+6	hasuhuton	_	_	_	_	_	_	_	_
+7	Parmalim	_	_	_	_	_	_	_	_
+8	mangeahi	_	_	_	_	_	_	_	_
+9	pangaturion	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-115
+# batch = 3
+# source_pair_id = doc_0001_s003_a
+# genre = Historical/ Traditional | Folktales
+# text = Dungi i togihon Si Toba ma si borua na uli ale mangarupai sada dekke i asa kawin halaki.
+# text_id = Setelah itu diajaklah oleh Si Toba perempuan cantik yang menyerupai seekor ikan itu agar mereka menikah.
+1	Dungi	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	togihon	_	_	_	_	_	_	_	_
+4	Si	_	_	_	_	_	_	_	_
+5	Toba	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	si	_	_	_	_	_	_	_	_
+8	borua	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	uli	_	_	_	_	_	_	_	_
+11	ale	_	_	_	_	_	_	_	_
+12	mangarupai	_	_	_	_	_	_	_	_
+13	sada	_	_	_	_	_	_	_	_
+14	dekke	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	asa	_	_	_	_	_	_	_	_
+17	kawin	_	_	_	_	_	_	_	_
+18	halaki	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-116
+# batch = 3
+# source_pair_id = doc_0059_s017
+# genre = Educational | Book Summary
+# text = Harajaon-harajaon pe boi do marbalga hatop jala infrastruktur lam tu timbulna.
+# text_id = Kerajaan-kerajaan pun bisa berkembang pesat dan infrastruktur makin canggih.
+1	Harajaon-harajaon	_	_	_	_	_	_	_	_
+2	pe	_	_	_	_	_	_	_	_
+3	boi	_	_	_	_	_	_	_	_
+4	do	_	_	_	_	_	_	_	_
+5	marbalga	_	_	_	_	_	_	_	_
+6	hatop	_	_	_	_	_	_	_	_
+7	jala	_	_	_	_	_	_	_	_
+8	infrastruktur	_	_	_	_	_	_	_	_
+9	lam	_	_	_	_	_	_	_	_
+10	tu	_	_	_	_	_	_	_	_
+11	timbulna	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-117
+# batch = 3
+# source_pair_id = doc_0097_s048
+# genre = Contemporary Media | Blog Articles
+# text = Jotjot do adong gorga na hasusuran sian seniman na mambahen siningna gabe khas.
+# text_id = Terkadang ada sebuah corak khusus dari seniman yang membuat seninya terasa khas.
+1	Jotjot	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	adong	_	_	_	_	_	_	_	_
+4	gorga	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	hasusuran	_	_	_	_	_	_	_	_
+7	sian	_	_	_	_	_	_	_	_
+8	seniman	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	mambahen	_	_	_	_	_	_	_	_
+11	siningna	_	_	_	_	_	_	_	_
+12	gabe	_	_	_	_	_	_	_	_
+13	khas	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-118
+# batch = 3
+# source_pair_id = doc_0084_s011
+# genre = Contemporary Media | News Article
+# text = Hayu-hayu laho mambangun Ruma Bolon disambung mamangke pasak di angka sude na asa boi jabu i jongjong gogo.
+# text_id = Kayu-kayu untuk membangun rumah bolon disambung menggunakan pasak di sudut-sudutnya agar rumah dapat berdiri kokoh.
+1	Hayu-hayu	_	_	_	_	_	_	_	_
+2	laho	_	_	_	_	_	_	_	_
+3	mambangun	_	_	_	_	_	_	_	_
+4	Ruma	_	_	_	_	_	_	_	_
+5	Bolon	_	_	_	_	_	_	_	_
+6	disambung	_	_	_	_	_	_	_	_
+7	mamangke	_	_	_	_	_	_	_	_
+8	pasak	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	angka	_	_	_	_	_	_	_	_
+11	sude	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	asa	_	_	_	_	_	_	_	_
+14	boi	_	_	_	_	_	_	_	_
+15	jabu	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	jongjong	_	_	_	_	_	_	_	_
+18	gogo	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-119
+# batch = 3
+# source_pair_id = doc_0078_s051
+# genre = Contemporary Media | Wiki
+# text = Adong do alat na ringkot bosi laho mangulahon i.
+# text_id = Ada beberapa alat yang memerlukan besi untuk membuatnya.
+1	Adong	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	alat	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	ringkot	_	_	_	_	_	_	_	_
+6	bosi	_	_	_	_	_	_	_	_
+7	laho	_	_	_	_	_	_	_	_
+8	mangulahon	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-120
+# batch = 3
+# source_pair_id = doc_0000_s041_a
+# genre = Historical/ Traditional | Folktales
+# text = Jadi ditanda na ro i ma soara i.
+# text_id = Jadi dikenallah oleh yang datang itu suara tersebut.
+1	Jadi	_	_	_	_	_	_	_	_
+2	ditanda	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ro	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	soara	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-121
+# batch = 3
+# source_pair_id = doc_0060_s016
+# genre = Educational | Book Summary
+# text = Boasa ma adong dope jolma na mamboli karcis lotere?
+# text_id = Mengapa masih ada orang yang membeli karcis lotere?
+1	Boasa	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	adong	_	_	_	_	_	_	_	_
+4	dope	_	_	_	_	_	_	_	_
+5	jolma	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	mamboli	_	_	_	_	_	_	_	_
+8	karcis	_	_	_	_	_	_	_	_
+9	lotere	_	_	_	_	_	_	_	SpaceAfter=No
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-122
+# batch = 3
+# source_pair_id = doc_0095_s020
+# genre = Contemporary Media | Blog Articles
+# text = Alai, terlepas sian sude parbegu na denggan na boi hujalo, adong do sada hal na mansai so huparsinta.
+# text_id = Namun, terlepas dari semua sisi positif yang bisa saya dapatkan, ada satu hal yang saya sangat tidak suka.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	terlepas	_	_	_	_	_	_	_	_
+4	sian	_	_	_	_	_	_	_	_
+5	sude	_	_	_	_	_	_	_	_
+6	parbegu	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	denggan	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	boi	_	_	_	_	_	_	_	_
+11	hujalo	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	adong	_	_	_	_	_	_	_	_
+14	do	_	_	_	_	_	_	_	_
+15	sada	_	_	_	_	_	_	_	_
+16	hal	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	mansai	_	_	_	_	_	_	_	_
+19	so	_	_	_	_	_	_	_	_
+20	huparsinta	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-123
+# batch = 3
+# source_pair_id = doc_0000_s080
+# genre = Historical/ Traditional | Folktales
+# text = Jadi sonang ma anak ni Mortua Rajadoli di bagas ni simatuana i, gabean maulibulung moranak morboru.
+# text_id = Jadi hidup bahagialah anak Martua Raja Doli dirumah mertuanya, dan memiliki anak laki-laki dan perempuan.
+1	Jadi	_	_	_	_	_	_	_	_
+2	sonang	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	anak	_	_	_	_	_	_	_	_
+5	ni	_	_	_	_	_	_	_	_
+6	Mortua	_	_	_	_	_	_	_	_
+7	Rajadoli	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	bagas	_	_	_	_	_	_	_	_
+10	ni	_	_	_	_	_	_	_	_
+11	simatuana	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	gabean	_	_	_	_	_	_	_	_
+15	maulibulung	_	_	_	_	_	_	_	_
+16	moranak	_	_	_	_	_	_	_	_
+17	morboru	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-124
+# batch = 3
+# source_pair_id = doc_0083_s006
+# genre = Contemporary Media | News Article
+# text = Alai sai so boi dope ibana mar-panghataon taringot tu dongan saripena.
+# text_id = Namun dia masih belum bisa berkomitmen dalam hal pasangan hidup.
+1	Alai	_	_	_	_	_	_	_	_
+2	sai	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	boi	_	_	_	_	_	_	_	_
+5	dope	_	_	_	_	_	_	_	_
+6	ibana	_	_	_	_	_	_	_	_
+7	mar-panghataon	_	_	_	_	_	_	_	_
+8	taringot	_	_	_	_	_	_	_	_
+9	tu	_	_	_	_	_	_	_	_
+10	dongan	_	_	_	_	_	_	_	_
+11	saripena	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-125
+# batch = 3
+# source_pair_id = doc_0080_s033
+# genre = Contemporary Media | Wiki
+# text = Lomo do rohana marsiulangan jala manjalo Halak Batak di jabuna.
+# text_id = Ia merasa senang berkomunikasi dan menyambut orang Batak di rumahnya.
+1	Lomo	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	rohana	_	_	_	_	_	_	_	_
+4	marsiulangan	_	_	_	_	_	_	_	_
+5	jala	_	_	_	_	_	_	_	_
+6	manjalo	_	_	_	_	_	_	_	_
+7	Halak	_	_	_	_	_	_	_	_
+8	Batak	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	jabuna	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-126
+# batch = 3
+# source_pair_id = doc_0059_s006
+# genre = Educational | Book Summary
+# text = Godang do angka na mambahen revolusi on masa, songon parsalisian ni ari dohot parsalisian ni ulaon pardongan-dongan.
+# text_id = Ada banyak faktor yang bikin revolusi ini terjadi, kayak perubahan iklim dan sosial.
+1	Godang	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	angka	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	mambahen	_	_	_	_	_	_	_	_
+6	revolusi	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	masa	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	songon	_	_	_	_	_	_	_	_
+11	parsalisian	_	_	_	_	_	_	_	_
+12	ni	_	_	_	_	_	_	_	_
+13	ari	_	_	_	_	_	_	_	_
+14	dohot	_	_	_	_	_	_	_	_
+15	parsalisian	_	_	_	_	_	_	_	_
+16	ni	_	_	_	_	_	_	_	_
+17	ulaon	_	_	_	_	_	_	_	_
+18	pardongan-dongan	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-127
+# batch = 3
+# source_pair_id = doc_0097_s028
+# genre = Contemporary Media | Blog Articles
+# text = Jotjot do sining kontemporer i didok holan pangulikan ni sining jala ndang sining na ias.
+# text_id = Seringkali, seni kontemporer dinilai sebagai sebuah gimmick seni dan bukan seni murni.
+1	Jotjot	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	sining	_	_	_	_	_	_	_	_
+4	kontemporer	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	didok	_	_	_	_	_	_	_	_
+7	holan	_	_	_	_	_	_	_	_
+8	pangulikan	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	sining	_	_	_	_	_	_	_	_
+11	jala	_	_	_	_	_	_	_	_
+12	ndang	_	_	_	_	_	_	_	_
+13	sining	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	ias	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-128
+# batch = 3
+# source_pair_id = doc_0073_s005
+# genre = Educational | News Article
+# text = Guru ndada holan mandalu parbinotoan, alai tongtong mangalehon eak-eak tu angka sisean asa boi patimbulhon haporseaon nasida.
+# text_id = Guru tidak hanya mentransfer ilmu pengetahuan, tetapi juga memberikan inspirasi kepada siswa untuk dapat meningkatkan kerohanian mereka.
+1	Guru	_	_	_	_	_	_	_	_
+2	ndada	_	_	_	_	_	_	_	_
+3	holan	_	_	_	_	_	_	_	_
+4	mandalu	_	_	_	_	_	_	_	_
+5	parbinotoan	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	alai	_	_	_	_	_	_	_	_
+8	tongtong	_	_	_	_	_	_	_	_
+9	mangalehon	_	_	_	_	_	_	_	_
+10	eak-eak	_	_	_	_	_	_	_	_
+11	tu	_	_	_	_	_	_	_	_
+12	angka	_	_	_	_	_	_	_	_
+13	sisean	_	_	_	_	_	_	_	_
+14	asa	_	_	_	_	_	_	_	_
+15	boi	_	_	_	_	_	_	_	_
+16	patimbulhon	_	_	_	_	_	_	_	_
+17	haporseaon	_	_	_	_	_	_	_	_
+18	nasida	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-129
+# batch = 3
+# source_pair_id = doc_0002_s015
+# genre = Literary | Poems
+# text = Tudia pe ahu lao na ingkon do boanonku ho
+# text_id = Ke mana pun aku pergi, aku wajib membawamu.
+1	Tudia	_	_	_	_	_	_	_	_
+2	pe	_	_	_	_	_	_	_	_
+3	ahu	_	_	_	_	_	_	_	_
+4	lao	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	ingkon	_	_	_	_	_	_	_	_
+7	do	_	_	_	_	_	_	_	_
+8	boanonku	_	_	_	_	_	_	_	_
+9	ho	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-130
+# batch = 3
+# source_pair_id = doc_0000_s068_b
+# genre = Historical/ Traditional | Folktales
+# text = Apala tarpaihut andor namangolu tuandor na mate.
+# text_id = Masakan tumbuhan menjalar yang hidup harus mengikuti tumbuhan menjalar yang mati.
+1	Apala	_	_	_	_	_	_	_	_
+2	tarpaihut	_	_	_	_	_	_	_	_
+3	andor	_	_	_	_	_	_	_	_
+4	namangolu	_	_	_	_	_	_	_	_
+5	tuandor	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	mate	_	_	_	_	_	_	_	SpaceAfter=No
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-131
+# batch = 3
+# source_pair_id = doc_0014_s000
+# genre = Literary | Peribahasa/Umpama
+# text = Ingkon sada do songon dai ni aek, unang mardua songon dai ni tuak
+# text_id = Harus satu rasa seperti rasanya air, jangan punya dua rasa seperti nira
+1	Ingkon	_	_	_	_	_	_	_	_
+2	sada	_	_	_	_	_	_	_	_
+3	do	_	_	_	_	_	_	_	_
+4	songon	_	_	_	_	_	_	_	_
+5	dai	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	aek	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	unang	_	_	_	_	_	_	_	_
+10	mardua	_	_	_	_	_	_	_	_
+11	songon	_	_	_	_	_	_	_	_
+12	dai	_	_	_	_	_	_	_	_
+13	ni	_	_	_	_	_	_	_	_
+14	tuak	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-132
+# batch = 3
+# source_pair_id = doc_0050_s001
+# genre = Religious | Prayers
+# text = Satongkin nai naeng mangula ulaonko ma ahu Tuhan, Ho ma na sai mandongani jala mangiring-iring langkaku.
+# text_id = Sebentar lagi aku akan melakukan pekerjaanku ya Tuhan, Engkaulah yang senantiasa menyertai dan memimpin langkahku.
+1	Satongkin	_	_	_	_	_	_	_	_
+2	nai	_	_	_	_	_	_	_	_
+3	naeng	_	_	_	_	_	_	_	_
+4	mangula	_	_	_	_	_	_	_	_
+5	ulaonko	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ahu	_	_	_	_	_	_	_	_
+8	Tuhan	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	Ho	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	sai	_	_	_	_	_	_	_	_
+14	mandongani	_	_	_	_	_	_	_	_
+15	jala	_	_	_	_	_	_	_	_
+16	mangiring-iring	_	_	_	_	_	_	_	_
+17	langkaku	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-133
+# batch = 3
+# source_pair_id = doc_0061_s016
+# genre = Educational | Quotes
+# text = Ugasan dohot arta na tading sian tingki naung salpu i, boi gabe nilai ni parngoluon pardangingan di luat i.
+# text_id = Pusaka dan benda peninggalan zaman dulu dapat menjadi sebuah nilai jatidiri bagi kebudayaan setempat.
+1	Ugasan	_	_	_	_	_	_	_	_
+2	dohot	_	_	_	_	_	_	_	_
+3	arta	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	tading	_	_	_	_	_	_	_	_
+6	sian	_	_	_	_	_	_	_	_
+7	tingki	_	_	_	_	_	_	_	_
+8	naung	_	_	_	_	_	_	_	_
+9	salpu	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	boi	_	_	_	_	_	_	_	_
+13	gabe	_	_	_	_	_	_	_	_
+14	nilai	_	_	_	_	_	_	_	_
+15	ni	_	_	_	_	_	_	_	_
+16	parngoluon	_	_	_	_	_	_	_	_
+17	pardangingan	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	luat	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-134
+# batch = 3
+# source_pair_id = doc_0060_s043
+# genre = Educational | Book Summary
+# text = Jala hasusor na tarsongon i mandapot pangapulan sian compounding interest manang bunga na mangebang.
+# text_id = Dan hasil secukupnya tersebut mendapat percepatan dari compounding interest atau bunga berbunga.
+1	Jala	_	_	_	_	_	_	_	_
+2	hasusor	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	tarsongon	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	mandapot	_	_	_	_	_	_	_	_
+7	pangapulan	_	_	_	_	_	_	_	_
+8	sian	_	_	_	_	_	_	_	_
+9	compounding	_	_	_	_	_	_	_	_
+10	interest	_	_	_	_	_	_	_	_
+11	manang	_	_	_	_	_	_	_	_
+12	bunga	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	mangebang	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-135
+# batch = 3
+# source_pair_id = doc_0092_s047
+# genre = Contemporary Media | Blog Articles
+# text = Program pe ringkot, alai molo dokumen na hurang denggan, program pe gabe ndang ringkot.
+# text_id = Program juga penting, sangat penting, tapi dengan dokumen yang buruk, program jadi tidak penting.
+1	Program	_	_	_	_	_	_	_	_
+2	pe	_	_	_	_	_	_	_	_
+3	ringkot	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	alai	_	_	_	_	_	_	_	_
+6	molo	_	_	_	_	_	_	_	_
+7	dokumen	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	hurang	_	_	_	_	_	_	_	_
+10	denggan	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	program	_	_	_	_	_	_	_	_
+13	pe	_	_	_	_	_	_	_	_
+14	gabe	_	_	_	_	_	_	_	_
+15	ndang	_	_	_	_	_	_	_	_
+16	ringkot	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-136
+# batch = 3
+# source_pair_id = doc_0078_s022
+# genre = Contemporary Media | Wiki
+# text = Mossak i diboto marsiulahon angka parsiajaran partondion jala dang sude jolma boi marsiajar i.
+# text_id = Mossak dikenal memiliki ilmu-ilmu kebatinan dan tidak sembarangan orang untuk mempelajarinya.
+1	Mossak	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	diboto	_	_	_	_	_	_	_	_
+4	marsiulahon	_	_	_	_	_	_	_	_
+5	angka	_	_	_	_	_	_	_	_
+6	parsiajaran	_	_	_	_	_	_	_	_
+7	partondion	_	_	_	_	_	_	_	_
+8	jala	_	_	_	_	_	_	_	_
+9	dang	_	_	_	_	_	_	_	_
+10	sude	_	_	_	_	_	_	_	_
+11	jolma	_	_	_	_	_	_	_	_
+12	boi	_	_	_	_	_	_	_	_
+13	marsiajar	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-137
+# batch = 3
+# source_pair_id = doc_0084_s040
+# genre = Contemporary Media | News Article
+# text = Ruang Jabu Soding somalna dipasombu tu anak boru nampuna jabu na nunga marbagas alai so mar-jabu sandiri dope.
+# text_id = Ruang jabu soding biasanya diperuntukkan bagi anak perempuan pemilik rumah yang sudah menikah namun belum memiliki rumah sendiri.
+1	Ruang	_	_	_	_	_	_	_	_
+2	Jabu	_	_	_	_	_	_	_	_
+3	Soding	_	_	_	_	_	_	_	_
+4	somalna	_	_	_	_	_	_	_	_
+5	dipasombu	_	_	_	_	_	_	_	_
+6	tu	_	_	_	_	_	_	_	_
+7	anak	_	_	_	_	_	_	_	_
+8	boru	_	_	_	_	_	_	_	_
+9	nampuna	_	_	_	_	_	_	_	_
+10	jabu	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	nunga	_	_	_	_	_	_	_	_
+13	marbagas	_	_	_	_	_	_	_	_
+14	alai	_	_	_	_	_	_	_	_
+15	so	_	_	_	_	_	_	_	_
+16	mar-jabu	_	_	_	_	_	_	_	_
+17	sandiri	_	_	_	_	_	_	_	_
+18	dope	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-138
+# batch = 3
+# source_pair_id = doc_0000_s006_b
+# genre = Historical/ Traditional | Folktales
+# text = Butong pe i, sopola panihalnihalon, male pe i, so pola mortutungkian.
+# text_id = Saat dia kenyang tidak akan melonjak-lonjak dan saat dia kelaparan tidak akan termenung.
+1	Butong	_	_	_	_	_	_	_	_
+2	pe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	sopola	_	_	_	_	_	_	_	_
+6	panihalnihalon	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	male	_	_	_	_	_	_	_	_
+9	pe	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	so	_	_	_	_	_	_	_	_
+13	pola	_	_	_	_	_	_	_	_
+14	mortutungkian	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-139
+# batch = 3
+# source_pair_id = doc_0060_s025
+# genre = Educational | Book Summary
+# text = Alai, molo mambahas hoki i targoar do hita ingkon mambahas sibolaon, i ma marsitaon.
+# text_id = Namun, membicarakan hoki berarti kita harus membicarakan sisi sebelahnya, yaitu apes.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	molo	_	_	_	_	_	_	_	_
+4	mambahas	_	_	_	_	_	_	_	_
+5	hoki	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	targoar	_	_	_	_	_	_	_	_
+8	do	_	_	_	_	_	_	_	_
+9	hita	_	_	_	_	_	_	_	_
+10	ingkon	_	_	_	_	_	_	_	_
+11	mambahas	_	_	_	_	_	_	_	_
+12	sibolaon	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	marsitaon	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-140
+# batch = 3
+# source_pair_id = doc_0095_s046
+# genre = Contemporary Media | Blog Articles
+# text = Boasa, laho dihargai, sada boru ingkon parjolo mambahen status dohot dalanna tumimbul?
+# text_id = Mengapa untuk dihargai, seorang perempuan harus terlebih dahulu menggembar-gemborkan status dan latar belakangnya?
+1	Boasa	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	laho	_	_	_	_	_	_	_	_
+4	dihargai	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	sada	_	_	_	_	_	_	_	_
+7	boru	_	_	_	_	_	_	_	_
+8	ingkon	_	_	_	_	_	_	_	_
+9	parjolo	_	_	_	_	_	_	_	_
+10	mambahen	_	_	_	_	_	_	_	_
+11	status	_	_	_	_	_	_	_	_
+12	dohot	_	_	_	_	_	_	_	_
+13	dalanna	_	_	_	_	_	_	_	_
+14	tumimbul	_	_	_	_	_	_	_	SpaceAfter=No
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-141
+# batch = 3
+# source_pair_id = doc_0001_s000
+# genre = Historical/ Traditional | Folktales
+# text = Disada tingki lau ma Si Toba hu tao makkail dekke nalau sipanganon na.
+# text_id = Pada suatu hari Toba hendak pergi memancing ikan di danau untuk dimakan.
+1	Disada	_	_	_	_	_	_	_	_
+2	tingki	_	_	_	_	_	_	_	_
+3	lau	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	Si	_	_	_	_	_	_	_	_
+6	Toba	_	_	_	_	_	_	_	_
+7	hu	_	_	_	_	_	_	_	_
+8	tao	_	_	_	_	_	_	_	_
+9	makkail	_	_	_	_	_	_	_	_
+10	dekke	_	_	_	_	_	_	_	_
+11	nalau	_	_	_	_	_	_	_	_
+12	sipanganon	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-142
+# batch = 3
+# source_pair_id = doc_0076_s026_b
+# genre = Contemporary Media | Wiki
+# text = Alai, di tingki Porang Toba, na mangarampok Bakkara sahat tu tano, dohot do Bale Pasogit Pamujian i ditutung.
+# text_id = Tetapi, di saat Perang Toba, yang merampok Bakkara sampai ke tanah, ikut juga Bale Pasogit Pamujian itu dibakar.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	tingki	_	_	_	_	_	_	_	_
+5	Porang	_	_	_	_	_	_	_	_
+6	Toba	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	mangarampok	_	_	_	_	_	_	_	_
+10	Bakkara	_	_	_	_	_	_	_	_
+11	sahat	_	_	_	_	_	_	_	_
+12	tu	_	_	_	_	_	_	_	_
+13	tano	_	_	_	_	_	_	_	SpaceAfter=No
+14	,	_	_	_	_	_	_	_	_
+15	dohot	_	_	_	_	_	_	_	_
+16	do	_	_	_	_	_	_	_	_
+17	Bale	_	_	_	_	_	_	_	_
+18	Pasogit	_	_	_	_	_	_	_	_
+19	Pamujian	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ditutung	_	_	_	_	_	_	_	SpaceAfter=No
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-143
+# batch = 3
+# source_pair_id = doc_0082_s001
+# genre = Contemporary Media | News Article
+# text = Kesenian ni suku Batak tarida sian pigapiga seni na marparsimbolon jala mambedahon sian suku na asing.
+# text_id = Kesenian suku Batak terlihat dari beberapa seni yang memiliki ciri khas sekaligus membedakan dengan suku lain.
+1	Kesenian	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	suku	_	_	_	_	_	_	_	_
+4	Batak	_	_	_	_	_	_	_	_
+5	tarida	_	_	_	_	_	_	_	_
+6	sian	_	_	_	_	_	_	_	_
+7	pigapiga	_	_	_	_	_	_	_	_
+8	seni	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	marparsimbolon	_	_	_	_	_	_	_	_
+11	jala	_	_	_	_	_	_	_	_
+12	mambedahon	_	_	_	_	_	_	_	_
+13	sian	_	_	_	_	_	_	_	_
+14	suku	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	asing	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-144
+# batch = 3
+# source_pair_id = doc_0065_s013
+# genre = Educational | Book Summary
+# text = Godang ma hepeng na didapot si Santiago sian ulaon i.
+# text_id = Santiago pun mendapatkan banyak uang dari bisnis itu.
+1	Godang	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	hepeng	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	didapot	_	_	_	_	_	_	_	_
+6	si	_	_	_	_	_	_	_	_
+7	Santiago	_	_	_	_	_	_	_	_
+8	sian	_	_	_	_	_	_	_	_
+9	ulaon	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-145
+# batch = 3
+# source_pair_id = doc_0097_s041
+# genre = Contemporary Media | Blog Articles
+# text = Ugasan songon seniman nunga taruli i ma mambahen sining.
+# text_id = Tanggung jawabnya sebagai seniman sudah terlaksanakan, yaitu membuat seni.
+1	Ugasan	_	_	_	_	_	_	_	_
+2	songon	_	_	_	_	_	_	_	_
+3	seniman	_	_	_	_	_	_	_	_
+4	nunga	_	_	_	_	_	_	_	_
+5	taruli	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	mambahen	_	_	_	_	_	_	_	_
+9	sining	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-146
+# batch = 3
+# source_pair_id = doc_0000_s039
+# genre = Historical/ Traditional | Folktales
+# text = Ise do hamu na gaori?"
+# text_id = Siapakah kalian yang ribut disana?"
+1	Ise	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	hamu	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	gaori	_	_	_	_	_	_	_	SpaceAfter=No
+6	?	_	_	_	_	_	_	_	SpaceAfter=No
+7	"	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-147
+# batch = 3
+# source_pair_id = doc_0078_s004
+# genre = Contemporary Media | Wiki
+# text = Molo naeng masuk jolma tu jabu i ingkon manonggop ulu asa unang maol tarantuk tu balok na manalitali i.
+# text_id = Bila orang hendak masuk rumah tersebut, harus menundukkan kepala agar tidak terbentur pada balok yang melintang.
+1	Molo	_	_	_	_	_	_	_	_
+2	naeng	_	_	_	_	_	_	_	_
+3	masuk	_	_	_	_	_	_	_	_
+4	jolma	_	_	_	_	_	_	_	_
+5	tu	_	_	_	_	_	_	_	_
+6	jabu	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ingkon	_	_	_	_	_	_	_	_
+9	manonggop	_	_	_	_	_	_	_	_
+10	ulu	_	_	_	_	_	_	_	_
+11	asa	_	_	_	_	_	_	_	_
+12	unang	_	_	_	_	_	_	_	_
+13	maol	_	_	_	_	_	_	_	_
+14	tarantuk	_	_	_	_	_	_	_	_
+15	tu	_	_	_	_	_	_	_	_
+16	balok	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	manalitali	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-148
+# batch = 3
+# source_pair_id = doc_0060_s004
+# genre = Educational | Book Summary
+# text = Alai, dung direkomendasihon sahalak dosen di bidang na sarupa, tontu ma gabe marasing.
+# text_id = Namun, setelah direkomendasikan oleh seorang dosen di bidang yang sama tentu jadi lain cerita.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	dung	_	_	_	_	_	_	_	_
+4	direkomendasihon	_	_	_	_	_	_	_	_
+5	sahalak	_	_	_	_	_	_	_	_
+6	dosen	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	bidang	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	sarupa	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	tontu	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	gabe	_	_	_	_	_	_	_	_
+15	marasing	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-149
+# batch = 3
+# source_pair_id = doc_0095_s016
+# genre = Contemporary Media | Blog Articles
+# text = Boi do hupatamba hepeng jajan dohot pamuli gizi.
+# text_id = Saya bisa nambah uang jajan dan perbaikan gizi.
+1	Boi	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	hupatamba	_	_	_	_	_	_	_	_
+4	hepeng	_	_	_	_	_	_	_	_
+5	jajan	_	_	_	_	_	_	_	_
+6	dohot	_	_	_	_	_	_	_	_
+7	pamuli	_	_	_	_	_	_	_	_
+8	gizi	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-150
+# batch = 3
+# source_pair_id = doc_0000_s017
+# genre = Historical/ Traditional | Folktales
+# text = Jadi sai so ma hela i di huta, ndang olo be ibada mulaulaon songon nasailaon.
+# text_id = Jadi tenang-tenang sajalah menantunya itu di rumah tidak mau bekerja seperti sebelumnya.
+1	Jadi	_	_	_	_	_	_	_	_
+2	sai	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	hela	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	huta	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	ndang	_	_	_	_	_	_	_	_
+11	olo	_	_	_	_	_	_	_	_
+12	be	_	_	_	_	_	_	_	_
+13	ibada	_	_	_	_	_	_	_	_
+14	mulaulaon	_	_	_	_	_	_	_	_
+15	songon	_	_	_	_	_	_	_	_
+16	nasailaon	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-151
+# batch = 4
+# source_pair_id = doc_0068_s004
+# genre = Educational | News Article
+# text = Hapistaran na dipargunahon laho mangalehon barita i ma dalan mananginangi dohot marhusip .
+# text_id = Teknik yang digunakan adalah teknik lanjutan yaitu teknik libat cakap.
+1	Hapistaran	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	dipargunahon	_	_	_	_	_	_	_	_
+4	laho	_	_	_	_	_	_	_	_
+5	mangalehon	_	_	_	_	_	_	_	_
+6	barita	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	dalan	_	_	_	_	_	_	_	_
+10	mananginangi	_	_	_	_	_	_	_	_
+11	dohot	_	_	_	_	_	_	_	_
+12	marhusip	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-152
+# batch = 4
+# source_pair_id = doc_0051_s003
+# genre = Religious | Prayers
+# text = Holan mangasahon goarni Tuhan Jesus Kristus martangiang au tu Ho.
+# text_id = Hanya dengan mengandalkan nama Tuhan Yesus Kristus aku berdoa kepada-Mu.
+1	Holan	_	_	_	_	_	_	_	_
+2	mangasahon	_	_	_	_	_	_	_	_
+3	goarni	_	_	_	_	_	_	_	_
+4	Tuhan	_	_	_	_	_	_	_	_
+5	Jesus	_	_	_	_	_	_	_	_
+6	Kristus	_	_	_	_	_	_	_	_
+7	martangiang	_	_	_	_	_	_	_	_
+8	au	_	_	_	_	_	_	_	_
+9	tu	_	_	_	_	_	_	_	_
+10	Ho	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-153
+# batch = 4
+# source_pair_id = doc_0082_s004
+# genre = Contemporary Media | News Article
+# text = Alai, so otik pe na manursar tu luat na asing.
+# text_id = Akan tetapi, tidak sedikit pula yang menyebar ke kawasan lain.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	otik	_	_	_	_	_	_	_	_
+5	pe	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	manursar	_	_	_	_	_	_	_	_
+8	tu	_	_	_	_	_	_	_	_
+9	luat	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	asing	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-154
+# batch = 4
+# source_pair_id = doc_0056_s009
+# genre = Literary | Poems
+# text = Nion gellengmu nasaleleng on mangagohon holong
+# text_id = Ini anakmu yang selama ini menyia-nyiakan kasih sayang.
+1	Nion	_	_	_	_	_	_	_	_
+2	gellengmu	_	_	_	_	_	_	_	_
+3	nasaleleng	_	_	_	_	_	_	_	_
+4	on	_	_	_	_	_	_	_	_
+5	mangagohon	_	_	_	_	_	_	_	_
+6	holong	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-155
+# batch = 4
+# source_pair_id = doc_0060_s033
+# genre = Educational | Book Summary
+# text = Adong do faktor na asing na manontuhon hasusorna, i ma faktor hoki dohot apes.
+# text_id = Ada faktor lain yang menentukan hasil akhirnya, yaitu faktor hoki dan apes.
+1	Adong	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	faktor	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	asing	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	manontuhon	_	_	_	_	_	_	_	_
+8	hasusorna	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	faktor	_	_	_	_	_	_	_	_
+13	hoki	_	_	_	_	_	_	_	_
+14	dohot	_	_	_	_	_	_	_	_
+15	apes	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-156
+# batch = 4
+# source_pair_id = doc_0080_s020
+# genre = Contemporary Media | Wiki
+# text = Di parmulaan, Karl Gützlaff naeng martugas tu Sumatra, alai gagal ala ni haadongan ni luat na masa parbadaan.
+# text_id = Pada awalnya, Karl Gützlaff ingin ditugaskan ke Sumatra, tapi gagal karena keadaan lokasi yang sedang konflik.
+1	Di	_	_	_	_	_	_	_	_
+2	parmulaan	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	Karl	_	_	_	_	_	_	_	_
+5	Gützlaff	_	_	_	_	_	_	_	_
+6	naeng	_	_	_	_	_	_	_	_
+7	martugas	_	_	_	_	_	_	_	_
+8	tu	_	_	_	_	_	_	_	_
+9	Sumatra	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	alai	_	_	_	_	_	_	_	_
+12	gagal	_	_	_	_	_	_	_	_
+13	ala	_	_	_	_	_	_	_	_
+14	ni	_	_	_	_	_	_	_	_
+15	haadongan	_	_	_	_	_	_	_	_
+16	ni	_	_	_	_	_	_	_	_
+17	luat	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	masa	_	_	_	_	_	_	_	_
+20	parbadaan	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-157
+# batch = 4
+# source_pair_id = doc_0000_s026_a
+# genre = Historical/ Traditional | Folktales
+# text = Dung hehe ursa i, dibodil ma, laos mate.
+# text_id = Setelah rusa itu bangun, ditembaklah, lantas mati.
+1	Dung	_	_	_	_	_	_	_	_
+2	hehe	_	_	_	_	_	_	_	_
+3	ursa	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	dibodil	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	laos	_	_	_	_	_	_	_	_
+10	mate	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-158
+# batch = 4
+# source_pair_id = doc_0097_s036
+# genre = Contemporary Media | Blog Articles
+# text = Ditoru panginongosanna na ganjang taringot tu manggambar dohot marsahit tondi.
+# text_id = Ia memiliki perjalanan panjang dalam hal melukis dan sakit jiwa.
+1	Ditoru	_	_	_	_	_	_	_	_
+2	panginongosanna	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ganjang	_	_	_	_	_	_	_	_
+5	taringot	_	_	_	_	_	_	_	_
+6	tu	_	_	_	_	_	_	_	_
+7	manggambar	_	_	_	_	_	_	_	_
+8	dohot	_	_	_	_	_	_	_	_
+9	marsahit	_	_	_	_	_	_	_	_
+10	tondi	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-159
+# batch = 4
+# source_pair_id = doc_0000_s000
+# genre = Historical/ Traditional | Folktales
+# text = Adong ma najolo sada halak, na morgoar Mortua Rajadoli,sada do anakna.
+# text_id = Zaman dahulu hiduplah seorang bernama Raja Martua Doli yang memiliki seorang anak.
+1	Adong	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	najolo	_	_	_	_	_	_	_	_
+4	sada	_	_	_	_	_	_	_	_
+5	halak	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	morgoar	_	_	_	_	_	_	_	_
+9	Mortua	_	_	_	_	_	_	_	_
+10	Rajadoli	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	SpaceAfter=No
+12	sada	_	_	_	_	_	_	_	_
+13	do	_	_	_	_	_	_	_	_
+14	anakna	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-160
+# batch = 4
+# source_pair_id = doc_0084_s022
+# genre = Contemporary Media | News Article
+# text = Bolga ni Ruma Bolon mambahen boi dimianan ni godang halak.
+# text_id = Ukuran rumah bolon yang besar membuatnya bisa dihuni oleh banyak orang.
+1	Bolga	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	Ruma	_	_	_	_	_	_	_	_
+4	Bolon	_	_	_	_	_	_	_	_
+5	mambahen	_	_	_	_	_	_	_	_
+6	boi	_	_	_	_	_	_	_	_
+7	dimianan	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	godang	_	_	_	_	_	_	_	_
+10	halak	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-161
+# batch = 4
+# source_pair_id = doc_0065_s002_b
+# genre = Educational | Book Summary
+# text = Jempek turiturian i, laho mangalului nipi na, diparsuar ma saluhut pinahan parmahananna i.
+# text_id = Singkat cerita, untuk mencari mimpinya, disebarkanlah seluruh hewan gembalaannya itu.
+1	Jempek	_	_	_	_	_	_	_	_
+2	turiturian	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	laho	_	_	_	_	_	_	_	_
+6	mangalului	_	_	_	_	_	_	_	_
+7	nipi	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	diparsuar	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	saluhut	_	_	_	_	_	_	_	_
+13	pinahan	_	_	_	_	_	_	_	_
+14	parmahananna	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-162
+# batch = 4
+# source_pair_id = doc_0091_s019
+# genre = Contemporary Media | Blog Articles
+# text = Ndang diboto ibana ia sada alamat i ndada holan mangalehon laman HTML, alai boi do JSON dohot angka na asing.
+# text_id = Dia bahkan tidak tahu kalau suatu alamat tidak harus mengembalikan halaman HTML, tetapi bisa JSON dan banyak lagi yang lain.
+1	Ndang	_	_	_	_	_	_	_	_
+2	diboto	_	_	_	_	_	_	_	_
+3	ibana	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	sada	_	_	_	_	_	_	_	_
+6	alamat	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ndada	_	_	_	_	_	_	_	_
+9	holan	_	_	_	_	_	_	_	_
+10	mangalehon	_	_	_	_	_	_	_	_
+11	laman	_	_	_	_	_	_	_	_
+12	HTML	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	alai	_	_	_	_	_	_	_	_
+15	boi	_	_	_	_	_	_	_	_
+16	do	_	_	_	_	_	_	_	_
+17	JSON	_	_	_	_	_	_	_	_
+18	dohot	_	_	_	_	_	_	_	_
+19	angka	_	_	_	_	_	_	_	_
+20	na	_	_	_	_	_	_	_	_
+21	asing	_	_	_	_	_	_	_	SpaceAfter=No
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-163
+# batch = 4
+# source_pair_id = doc_0077_s046
+# genre = Contemporary Media | Wiki
+# text = Halak Batak Toba ndang pola ingkon maringanan di luat geografis Toba, nang pe asal-usulna sian Toba.
+# text_id = Batak Toba tidak mesti tinggal di wilayah geografis Toba, meski asal-muasal adalah Toba.
+1	Halak	_	_	_	_	_	_	_	_
+2	Batak	_	_	_	_	_	_	_	_
+3	Toba	_	_	_	_	_	_	_	_
+4	ndang	_	_	_	_	_	_	_	_
+5	pola	_	_	_	_	_	_	_	_
+6	ingkon	_	_	_	_	_	_	_	_
+7	maringanan	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	luat	_	_	_	_	_	_	_	_
+10	geografis	_	_	_	_	_	_	_	_
+11	Toba	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	nang	_	_	_	_	_	_	_	_
+14	pe	_	_	_	_	_	_	_	_
+15	asal-usulna	_	_	_	_	_	_	_	_
+16	sian	_	_	_	_	_	_	_	_
+17	Toba	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-164
+# batch = 4
+# source_pair_id = doc_0000_s022_b
+# genre = Historical/ Traditional | Folktales
+# text = Dipangido hela i ma tu simatuana, ingkon dohot tungganena i mangiran ursa na bolon na sahali i, asa dapot.
+# text_id = Memintalah menantu itu kepada mertuanya, agar ikut iparnya itu memburu rusa yang besar sekali itu, agar dapat.
+1	Dipangido	_	_	_	_	_	_	_	_
+2	hela	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	tu	_	_	_	_	_	_	_	_
+6	simatuana	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	ingkon	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	tungganena	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	mangiran	_	_	_	_	_	_	_	_
+13	ursa	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	bolon	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	sahali	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	SpaceAfter=No
+19	,	_	_	_	_	_	_	_	_
+20	asa	_	_	_	_	_	_	_	_
+21	dapot	_	_	_	_	_	_	_	SpaceAfter=No
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-165
+# batch = 4
+# source_pair_id = doc_0060_s046_a
+# genre = Educational | Book Summary
+# text = Godang do jolma na boi gabe mora dohot mura, hape talu nasida manjaga hangoluan asa sai mora.
+# text_id = Banyak orang yang bisa menjadi kaya dengan mudah, tapi mereka gagal menjaga kehidupannya agar tetap kaya.
+1	Godang	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	jolma	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	boi	_	_	_	_	_	_	_	_
+6	gabe	_	_	_	_	_	_	_	_
+7	mora	_	_	_	_	_	_	_	_
+8	dohot	_	_	_	_	_	_	_	_
+9	mura	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	hape	_	_	_	_	_	_	_	_
+12	talu	_	_	_	_	_	_	_	_
+13	nasida	_	_	_	_	_	_	_	_
+14	manjaga	_	_	_	_	_	_	_	_
+15	hangoluan	_	_	_	_	_	_	_	_
+16	asa	_	_	_	_	_	_	_	_
+17	sai	_	_	_	_	_	_	_	_
+18	mora	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-166
+# batch = 4
+# source_pair_id = doc_0094_s023
+# genre = Contemporary Media | Blog Articles
+# text = Nang songon i, di bangso Batak, manulak pangaluan i boi diharapkon so diboto diri manang na mangasahon roha ni panggalehon.
+# text_id = Sebaliknya, di budaya Batak, menolak pemberian bisa dianggap tidak tahu diri atau bahkan menyakiti hati pemberi.
+1	Nang	_	_	_	_	_	_	_	_
+2	songon	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	bangso	_	_	_	_	_	_	_	_
+7	Batak	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	manulak	_	_	_	_	_	_	_	_
+10	pangaluan	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	boi	_	_	_	_	_	_	_	_
+13	diharapkon	_	_	_	_	_	_	_	_
+14	so	_	_	_	_	_	_	_	_
+15	diboto	_	_	_	_	_	_	_	_
+16	diri	_	_	_	_	_	_	_	_
+17	manang	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	mangasahon	_	_	_	_	_	_	_	_
+20	roha	_	_	_	_	_	_	_	_
+21	ni	_	_	_	_	_	_	_	_
+22	panggalehon	_	_	_	_	_	_	_	SpaceAfter=No
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-167
+# batch = 4
+# source_pair_id = doc_0084_s038
+# genre = Contemporary Media | News Article
+# text = Ruang Jabu Soding i ma ruangan na maringan di pudian sude hambirang.
+# text_id = Ruang jabu soding adalah ruangan yang letaknya di belakang sebelah kiri.
+1	Ruang	_	_	_	_	_	_	_	_
+2	Jabu	_	_	_	_	_	_	_	_
+3	Soding	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	ruangan	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	maringan	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	pudian	_	_	_	_	_	_	_	_
+11	sude	_	_	_	_	_	_	_	_
+12	hambirang	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-168
+# batch = 4
+# source_pair_id = doc_0078_s039
+# genre = Contemporary Media | Wiki
+# text = Marhite Tortor, bangso Batak Toba pasahathon panghirimanna dohot tangiangna.
+# text_id = Melalui Tortor, masyarakat Batak Toba menyampaikan harapan dan doa-doanya.
+1	Marhite	_	_	_	_	_	_	_	_
+2	Tortor	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	bangso	_	_	_	_	_	_	_	_
+5	Batak	_	_	_	_	_	_	_	_
+6	Toba	_	_	_	_	_	_	_	_
+7	pasahathon	_	_	_	_	_	_	_	_
+8	panghirimanna	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	tangiangna	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-169
+# batch = 4
+# source_pair_id = doc_0000_s059
+# genre = Historical/ Traditional | Folktales
+# text = Dung morujung langkana di-si, diula ma disi ulaon hapadoton, porumaon ro di pordengkeon.
+# text_id = Setelah menikah rajinlah ia bekerja, bersawah, dan memelihara ikan.
+1	Dung	_	_	_	_	_	_	_	_
+2	morujung	_	_	_	_	_	_	_	_
+3	langkana	_	_	_	_	_	_	_	_
+4	di-si	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	diula	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	disi	_	_	_	_	_	_	_	_
+9	ulaon	_	_	_	_	_	_	_	_
+10	hapadoton	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	porumaon	_	_	_	_	_	_	_	_
+13	ro	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	pordengkeon	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-170
+# batch = 4
+# source_pair_id = doc_0071_s003
+# genre = Educational | News Article
+# text = Panulingkian on diulahon marhite dalan na marhite kualitatif dohot dalan manggombarhon.
+# text_id = Penelitian ini dilakukan dengan menggunakan metode kualitatif dengan pendekatan deskriptif.
+1	Panulingkian	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	diulahon	_	_	_	_	_	_	_	_
+4	marhite	_	_	_	_	_	_	_	_
+5	dalan	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	marhite	_	_	_	_	_	_	_	_
+8	kualitatif	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	dalan	_	_	_	_	_	_	_	_
+11	manggombarhon	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-171
+# batch = 4
+# source_pair_id = doc_0034_s000
+# genre = Literary | Peribahasa/Umpama
+# text = Eme na masak digagat ursa, ia i namasa ba i ma niula
+# text_id = Padi siap panen dimakan rusa, apa yang dilakukan kebanyakan orang itulah kita lakukan
+1	Eme	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	masak	_	_	_	_	_	_	_	_
+4	digagat	_	_	_	_	_	_	_	_
+5	ursa	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	namasa	_	_	_	_	_	_	_	_
+10	ba	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	niula	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-172
+# batch = 4
+# source_pair_id = doc_0060_s002
+# genre = Educational | Book Summary
+# text = Alai boasa ma hatana i hurang marsomba?
+# text_id = Tapi kok bahasanya kurang menarik.
+1	Alai	_	_	_	_	_	_	_	_
+2	boasa	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	hatana	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	hurang	_	_	_	_	_	_	_	_
+7	marsomba	_	_	_	_	_	_	_	SpaceAfter=No
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-173
+# batch = 4
+# source_pair_id = doc_0094_s001
+# genre = Contemporary Media | Blog Articles
+# text = Saleleng na naeng sahat tu 15 taon au mangalele tu Yogyakarta, didongani dongan na sian Jawa, ndang hea huarsak au marsaor.
+# text_id = Selama hampir 15 tahun aku merantau ke Jogja, dikelilingi teman-teman bersuku Jawa, aku tidak pernah merasa kesulitan beradaptasi.
+1	Saleleng	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	naeng	_	_	_	_	_	_	_	_
+4	sahat	_	_	_	_	_	_	_	_
+5	tu	_	_	_	_	_	_	_	_
+6	15	_	_	_	_	_	_	_	_
+7	taon	_	_	_	_	_	_	_	_
+8	au	_	_	_	_	_	_	_	_
+9	mangalele	_	_	_	_	_	_	_	_
+10	tu	_	_	_	_	_	_	_	_
+11	Yogyakarta	_	_	_	_	_	_	_	SpaceAfter=No
+12	,	_	_	_	_	_	_	_	_
+13	didongani	_	_	_	_	_	_	_	_
+14	dongan	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	sian	_	_	_	_	_	_	_	_
+17	Jawa	_	_	_	_	_	_	_	SpaceAfter=No
+18	,	_	_	_	_	_	_	_	_
+19	ndang	_	_	_	_	_	_	_	_
+20	hea	_	_	_	_	_	_	_	_
+21	huarsak	_	_	_	_	_	_	_	_
+22	au	_	_	_	_	_	_	_	_
+23	marsaor	_	_	_	_	_	_	_	SpaceAfter=No
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-174
+# batch = 4
+# source_pair_id = doc_0051_s002
+# genre = Religious | Prayers
+# text = Sesa ma nasa dosa na tinuntun manang naso tinuntun maradophon ho mamang maradophon dongan jolma.
+# text_id = Ampunilah segala dosa yang disengaja maupun yang tidak disengaja terhadap-Mu maupun terhadap sesama manusia.
+1	Sesa	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	nasa	_	_	_	_	_	_	_	_
+4	dosa	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	tinuntun	_	_	_	_	_	_	_	_
+7	manang	_	_	_	_	_	_	_	_
+8	naso	_	_	_	_	_	_	_	_
+9	tinuntun	_	_	_	_	_	_	_	_
+10	maradophon	_	_	_	_	_	_	_	_
+11	ho	_	_	_	_	_	_	_	_
+12	mamang	_	_	_	_	_	_	_	_
+13	maradophon	_	_	_	_	_	_	_	_
+14	dongan	_	_	_	_	_	_	_	_
+15	jolma	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-175
+# batch = 4
+# source_pair_id = doc_0061_s023
+# genre = Educational | Quotes
+# text = Dungi, angka na masa taringot hasosakan, pangalaon, dohot polusi boi gabe sahit ni huta.
+# text_id = Selain itu, problema kemacetan, kriminalitas, dan polusi dapat menjadi urban ills.
+1	Dungi	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	angka	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	masa	_	_	_	_	_	_	_	_
+6	taringot	_	_	_	_	_	_	_	_
+7	hasosakan	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	pangalaon	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	dohot	_	_	_	_	_	_	_	_
+12	polusi	_	_	_	_	_	_	_	_
+13	boi	_	_	_	_	_	_	_	_
+14	gabe	_	_	_	_	_	_	_	_
+15	sahit	_	_	_	_	_	_	_	_
+16	ni	_	_	_	_	_	_	_	_
+17	huta	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-176
+# batch = 4
+# source_pair_id = doc_0000_s062_b
+# genre = Historical/ Traditional | Folktales
+# text = Diboan ma tungganena i tu pangiranan.
+# text_id = Dibawalah iparnya itu ke tempat memburu.
+1	Diboan	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	tungganena	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	tu	_	_	_	_	_	_	_	_
+6	pangiranan	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-177
+# batch = 4
+# source_pair_id = doc_0078_s047
+# genre = Contemporary Media | Wiki
+# text = Alai nang pe songon i, di patudu doi muse laho mangiringi Tarian Tortor.
+# text_id = Selain itu, juga dipertontonkan untuk mengiringi tarian tortor.
+1	Alai	_	_	_	_	_	_	_	_
+2	nang	_	_	_	_	_	_	_	_
+3	pe	_	_	_	_	_	_	_	_
+4	songon	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	patudu	_	_	_	_	_	_	_	_
+9	doi	_	_	_	_	_	_	_	_
+10	muse	_	_	_	_	_	_	_	_
+11	laho	_	_	_	_	_	_	_	_
+12	mangiringi	_	_	_	_	_	_	_	_
+13	Tarian	_	_	_	_	_	_	_	_
+14	Tortor	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-178
+# batch = 4
+# source_pair_id = doc_0063_s008
+# genre = Educational | Book Summary
+# text = Aha i laho mangolu na leleng satoropna manang na laho mandapot saluhut na taparsinta?
+# text_id = Apakah itu untuk hidup selama mungkin atau untuk menggapai semua keinginan kita?
+1	Aha	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	laho	_	_	_	_	_	_	_	_
+4	mangolu	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	leleng	_	_	_	_	_	_	_	_
+7	satoropna	_	_	_	_	_	_	_	_
+8	manang	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	laho	_	_	_	_	_	_	_	_
+11	mandapot	_	_	_	_	_	_	_	_
+12	saluhut	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	taparsinta	_	_	_	_	_	_	_	SpaceAfter=No
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-179
+# batch = 4
+# source_pair_id = doc_0097_s020
+# genre = Contemporary Media | Blog Articles
+# text = Hape, ndang adong panuturion na tigor manang na sala.
+# text_id = Padahal, tidak ada interpretasi yang benar dan salah.
+1	Hape	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	ndang	_	_	_	_	_	_	_	_
+4	adong	_	_	_	_	_	_	_	_
+5	panuturion	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	tigor	_	_	_	_	_	_	_	_
+8	manang	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	sala	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-180
+# batch = 4
+# source_pair_id = doc_0084_s024
+# genre = Contemporary Media | News Article
+# text = Songon na nunga dipajabar jolo, atar ni Ruma Bolon mar-bentuk runcing di bagian muka dohot bagian pudian.
+# text_id = Seperti yang telah dijabarkan sebelumnya, atap rumah bolon berbentuk runcing pada bagian depan dan bagian belakang.
+1	Songon	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	nunga	_	_	_	_	_	_	_	_
+4	dipajabar	_	_	_	_	_	_	_	_
+5	jolo	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	atar	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	Ruma	_	_	_	_	_	_	_	_
+10	Bolon	_	_	_	_	_	_	_	_
+11	mar-bentuk	_	_	_	_	_	_	_	_
+12	runcing	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	bagian	_	_	_	_	_	_	_	_
+15	muka	_	_	_	_	_	_	_	_
+16	dohot	_	_	_	_	_	_	_	_
+17	bagian	_	_	_	_	_	_	_	_
+18	pudian	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-181
+# batch = 4
+# source_pair_id = doc_0003_s009
+# genre = Literary | Poems
+# text = Ikkon hupauli sandiri do habot dohot lungun hi
+# text_id = Kan kusimpan sendiri mendung dukaku
+1	Ikkon	_	_	_	_	_	_	_	_
+2	hupauli	_	_	_	_	_	_	_	_
+3	sandiri	_	_	_	_	_	_	_	_
+4	do	_	_	_	_	_	_	_	_
+5	habot	_	_	_	_	_	_	_	_
+6	dohot	_	_	_	_	_	_	_	_
+7	lungun	_	_	_	_	_	_	_	_
+8	hi	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-182
+# batch = 4
+# source_pair_id = doc_0000_s052_b
+# genre = Historical/ Traditional | Folktales
+# text = ai ndang adong huida holong ni rohamu di ahu!
+# text_id = karena tidak kulihat ada kasih sayang kalian kepadaku!
+1	ai	_	_	_	_	_	_	_	_
+2	ndang	_	_	_	_	_	_	_	_
+3	adong	_	_	_	_	_	_	_	_
+4	huida	_	_	_	_	_	_	_	_
+5	holong	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	rohamu	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	ahu	_	_	_	_	_	_	_	SpaceAfter=No
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-183
+# batch = 4
+# source_pair_id = doc_0060_s042
+# genre = Educational | Book Summary
+# text = Alai, alana hot do ibana marinvestasi sian na poso jala mangkorhon hasusor na tuk.
+# text_id = Namun, karena beliau konsisten berinvestasi sejak muda dan menghasilkan hasil yang cukup.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	alana	_	_	_	_	_	_	_	_
+4	hot	_	_	_	_	_	_	_	_
+5	do	_	_	_	_	_	_	_	_
+6	ibana	_	_	_	_	_	_	_	_
+7	marinvestasi	_	_	_	_	_	_	_	_
+8	sian	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	poso	_	_	_	_	_	_	_	_
+11	jala	_	_	_	_	_	_	_	_
+12	mangkorhon	_	_	_	_	_	_	_	_
+13	hasusor	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	tuk	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-184
+# batch = 4
+# source_pair_id = doc_0093_s026
+# genre = Contemporary Media | Blog Articles
+# text = Sian huparsinta au, parbinotoan di bidang parbinoto data i maol do marsiajarhon.
+# text_id = Menurut saya pribadi, ilmu di bidang data science memang sulit untuk dipelajari.
+1	Sian	_	_	_	_	_	_	_	_
+2	huparsinta	_	_	_	_	_	_	_	_
+3	au	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	parbinotoan	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	bidang	_	_	_	_	_	_	_	_
+8	parbinoto	_	_	_	_	_	_	_	_
+9	data	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	maol	_	_	_	_	_	_	_	_
+12	do	_	_	_	_	_	_	_	_
+13	marsiajarhon	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-185
+# batch = 4
+# source_pair_id = doc_0075_s002
+# genre = Contemporary Media | Wiki
+# text = Gareja on ma gareja na umbalga sian gareja Protestan na adong di Indonesia.
+# text_id = Gereja ini merupakan yang terbesar di antara gereja-gereja Protestan yang ada di Indonesia.
+1	Gareja	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	gareja	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	umbalga	_	_	_	_	_	_	_	_
+7	sian	_	_	_	_	_	_	_	_
+8	gareja	_	_	_	_	_	_	_	_
+9	Protestan	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	adong	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	Indonesia	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-186
+# batch = 4
+# source_pair_id = doc_0000_s052_c
+# genre = Historical/ Traditional | Folktales
+# text = Aut na tutu hape mate laengki binahen ni otongku, na paihutonmuna do hape dagingkon tusi .
+# text_id = Seandainya benar-benar mati iparku kubuat karena kebodohanku, kalianlah rupanya yang akan menuntut nyawaku ke sana.
+1	Aut	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	tutu	_	_	_	_	_	_	_	_
+4	hape	_	_	_	_	_	_	_	_
+5	mate	_	_	_	_	_	_	_	_
+6	laengki	_	_	_	_	_	_	_	_
+7	binahen	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	otongku	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	paihutonmuna	_	_	_	_	_	_	_	_
+13	do	_	_	_	_	_	_	_	_
+14	hape	_	_	_	_	_	_	_	_
+15	dagingkon	_	_	_	_	_	_	_	_
+16	tusi	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-187
+# batch = 4
+# source_pair_id = doc_0082_s002
+# genre = Contemporary Media | News Article
+# text = Songon i ma, aha do angka kesenian luat Batak dohot sipatana?
+# text_id = Lantas, apa saja kesenian daerah Batak dan contohnya?
+1	Songon	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	aha	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	_
+7	angka	_	_	_	_	_	_	_	_
+8	kesenian	_	_	_	_	_	_	_	_
+9	luat	_	_	_	_	_	_	_	_
+10	Batak	_	_	_	_	_	_	_	_
+11	dohot	_	_	_	_	_	_	_	_
+12	sipatana	_	_	_	_	_	_	_	SpaceAfter=No
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-188
+# batch = 4
+# source_pair_id = doc_0064_s013
+# genre = Educational | Book Summary
+# text = Buku on marisihon panogunogu tu haginjatan dohot hasonangan na tarida di bagasan ualu bab i.
+# text_id = Buku ini memuat petunjuk menuju kesejahteraan dan kebahagiaan yang termanifestasikan ke dalam delapan bab.
+1	Buku	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	marisihon	_	_	_	_	_	_	_	_
+4	panogunogu	_	_	_	_	_	_	_	_
+5	tu	_	_	_	_	_	_	_	_
+6	haginjatan	_	_	_	_	_	_	_	_
+7	dohot	_	_	_	_	_	_	_	_
+8	hasonangan	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	tarida	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	bagasan	_	_	_	_	_	_	_	_
+13	ualu	_	_	_	_	_	_	_	_
+14	bab	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-189
+# batch = 4
+# source_pair_id = doc_0091_s033_b
+# genre = Contemporary Media | Blog Articles
+# text = Molo so diboto dope, ingkon gumodang ma dijaha.
+# text_id = Kalau belum tahu, haruslah lebih banyak membaca.
+1	Molo	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	diboto	_	_	_	_	_	_	_	_
+4	dope	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	ingkon	_	_	_	_	_	_	_	_
+7	gumodang	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	dijaha	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-190
+# batch = 4
+# source_pair_id = doc_0000_s055_a
+# genre = Historical/ Traditional | Folktales
+# text = Suang songon pangalahona na taringot di bagas ni nambura mamora.
+# text_id = Sama seperti tingkah lakunya mengenai keluarga yang baru kaya.
+1	Suang	_	_	_	_	_	_	_	_
+2	songon	_	_	_	_	_	_	_	_
+3	pangalahona	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	taringot	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	bagas	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	nambura	_	_	_	_	_	_	_	_
+10	mamora	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-191
+# batch = 4
+# source_pair_id = doc_0077_s068
+# genre = Contemporary Media | Wiki
+# text = Marga i ma sada bagian ni goar na gabe partanda sian keluarga dia ibana ro.
+# text_id = Marga adalah bagian nama yang merupakan pertanda dari keluarga mana ia berasal.
+1	Marga	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	sada	_	_	_	_	_	_	_	_
+5	bagian	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	goar	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	gabe	_	_	_	_	_	_	_	_
+10	partanda	_	_	_	_	_	_	_	_
+11	sian	_	_	_	_	_	_	_	_
+12	keluarga	_	_	_	_	_	_	_	_
+13	dia	_	_	_	_	_	_	_	_
+14	ibana	_	_	_	_	_	_	_	_
+15	ro	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-192
+# batch = 4
+# source_pair_id = doc_0068_s003
+# genre = Educational | News Article
+# text = Dalan na digunahon laho pahombarhon sura-sura i ma dalan mananginangi dohot dalan marhata.
+# text_id = Metode yang digunakan untuk mengumpulkan data adalah metode simak dan metode cakap.
+1	Dalan	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	digunahon	_	_	_	_	_	_	_	_
+4	laho	_	_	_	_	_	_	_	_
+5	pahombarhon	_	_	_	_	_	_	_	_
+6	sura-sura	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	dalan	_	_	_	_	_	_	_	_
+10	mananginangi	_	_	_	_	_	_	_	_
+11	dohot	_	_	_	_	_	_	_	_
+12	dalan	_	_	_	_	_	_	_	_
+13	marhata	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-193
+# batch = 4
+# source_pair_id = doc_0050_s004
+# genre = Religious | Prayers
+# text = Marhite-hite goar ni Tuhan Jesus martangiang au tu Ho.
+# text_id = Melalui nama Tuhan Yesus aku berdoa kepada-Mu.
+1	Marhite-hite	_	_	_	_	_	_	_	_
+2	goar	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	Tuhan	_	_	_	_	_	_	_	_
+5	Jesus	_	_	_	_	_	_	_	_
+6	martangiang	_	_	_	_	_	_	_	_
+7	au	_	_	_	_	_	_	_	_
+8	tu	_	_	_	_	_	_	_	_
+9	Ho	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-194
+# batch = 4
+# source_pair_id = doc_0065_s014
+# genre = Educational | Book Summary
+# text = Alai, alana so puas dope rohana, ditinggalhon ma si partigatiga teh i jala dipatorus pardalananna.
+# text_id = Akan tetapi, karena belum puas, ia meninggalkan si penjual teh dan melanjutkan perjalanannya.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	alana	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	puas	_	_	_	_	_	_	_	_
+6	dope	_	_	_	_	_	_	_	_
+7	rohana	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ditinggalhon	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	si	_	_	_	_	_	_	_	_
+12	partigatiga	_	_	_	_	_	_	_	_
+13	teh	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	jala	_	_	_	_	_	_	_	_
+16	dipatorus	_	_	_	_	_	_	_	_
+17	pardalananna	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-195
+# batch = 4
+# source_pair_id = doc_0092_s021
+# genre = Contemporary Media | Blog Articles
+# text = Molo sukses do twist-na, ndang adong na protes.
+# text_id = Kalau twist-nya sukses, kemungkinan gede orang2 ga akan ada yang protes.
+1	Molo	_	_	_	_	_	_	_	_
+2	sukses	_	_	_	_	_	_	_	_
+3	do	_	_	_	_	_	_	_	_
+4	twist-na	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	ndang	_	_	_	_	_	_	_	_
+7	adong	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	protes	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-196
+# batch = 4
+# source_pair_id = doc_0088_s011
+# genre = Contemporary Media | News Article
+# text = Alai, tu angka na parjolo sahali mangae panganan Batak, lobi denggan do asa diae panggang dohot saksang.
+# text_id = Namun, untuk pengunjung yang kali pertama mencicipi makanan khas Batak, lebih dianjurkan mencicipi panggang dan saksang.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	tu	_	_	_	_	_	_	_	_
+4	angka	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	parjolo	_	_	_	_	_	_	_	_
+7	sahali	_	_	_	_	_	_	_	_
+8	mangae	_	_	_	_	_	_	_	_
+9	panganan	_	_	_	_	_	_	_	_
+10	Batak	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	lobi	_	_	_	_	_	_	_	_
+13	denggan	_	_	_	_	_	_	_	_
+14	do	_	_	_	_	_	_	_	_
+15	asa	_	_	_	_	_	_	_	_
+16	diae	_	_	_	_	_	_	_	_
+17	panggang	_	_	_	_	_	_	_	_
+18	dohot	_	_	_	_	_	_	_	_
+19	saksang	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-197
+# batch = 4
+# source_pair_id = doc_0000_s007
+# genre = Historical/ Traditional | Folktales
+# text = Ndang pola sadia leleng nari mate ma Mortua Rajadoli, jadi disuru inana ma anakna i mangoli.
+# text_id = Tidak berapa lama waktu berselang matilah Martua Raja Doli, lalu ibunya menyuruh anaknya menikah.
+1	Ndang	_	_	_	_	_	_	_	_
+2	pola	_	_	_	_	_	_	_	_
+3	sadia	_	_	_	_	_	_	_	_
+4	leleng	_	_	_	_	_	_	_	_
+5	nari	_	_	_	_	_	_	_	_
+6	mate	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	Mortua	_	_	_	_	_	_	_	_
+9	Rajadoli	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	jadi	_	_	_	_	_	_	_	_
+12	disuru	_	_	_	_	_	_	_	_
+13	inana	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	anakna	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	mangoli	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-198
+# batch = 4
+# source_pair_id = doc_0077_s029
+# genre = Contemporary Media | Wiki
+# text = Ferdinand Lumban Tobing ma Residen Tapanuli na parjolo.
+# text_id = Ferdinand Lumban Tobing merupakan Residen Tapanuli yang pertama.
+1	Ferdinand	_	_	_	_	_	_	_	_
+2	Lumban	_	_	_	_	_	_	_	_
+3	Tobing	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	Residen	_	_	_	_	_	_	_	_
+6	Tapanuli	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	parjolo	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-199
+# batch = 4
+# source_pair_id = doc_0063_s017
+# genre = Educational | Book Summary
+# text = Nunga diulahon nasida Ikigai i marhite ratusan taon, sian pinompar sahat tu pinompar.
+# text_id = Mereka telah mempraktikkan Ikigai selama ratusan tahun secara turun temurun.
+1	Nunga	_	_	_	_	_	_	_	_
+2	diulahon	_	_	_	_	_	_	_	_
+3	nasida	_	_	_	_	_	_	_	_
+4	Ikigai	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	marhite	_	_	_	_	_	_	_	_
+7	ratusan	_	_	_	_	_	_	_	_
+8	taon	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	sian	_	_	_	_	_	_	_	_
+11	pinompar	_	_	_	_	_	_	_	_
+12	sahat	_	_	_	_	_	_	_	_
+13	tu	_	_	_	_	_	_	_	_
+14	pinompar	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-200
+# batch = 4
+# source_pair_id = doc_0095_s006
+# genre = Contemporary Media | Blog Articles
+# text = Paduahon, dohot tingkat parsoalan na tonga-tonga, i ma taringot tu parhataan.
+# text_id = Kedua, dengan tingkat kegawatan medium, adalah soal logat.
+1	Paduahon	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	dohot	_	_	_	_	_	_	_	_
+4	tingkat	_	_	_	_	_	_	_	_
+5	parsoalan	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	tonga-tonga	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	taringot	_	_	_	_	_	_	_	_
+12	tu	_	_	_	_	_	_	_	_
+13	parhataan	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-201
+# batch = 5
+# source_pair_id = doc_0000_s006_a
+# genre = Historical/ Traditional | Folktales
+# text = Ai tung sura pe pogos pomiahapan di nasida sai na tureture do i morpangalaho dohot morpangkuling.
+# text_id = Sekalipun dia miskin tetapi perilaku dan tutur katanya selalu baik.
+1	Ai	_	_	_	_	_	_	_	_
+2	tung	_	_	_	_	_	_	_	_
+3	sura	_	_	_	_	_	_	_	_
+4	pe	_	_	_	_	_	_	_	_
+5	pogos	_	_	_	_	_	_	_	_
+6	pomiahapan	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	nasida	_	_	_	_	_	_	_	_
+9	sai	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	tureture	_	_	_	_	_	_	_	_
+12	do	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	morpangalaho	_	_	_	_	_	_	_	_
+15	dohot	_	_	_	_	_	_	_	_
+16	morpangkuling	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-202
+# batch = 5
+# source_pair_id = doc_0082_s014
+# genre = Contemporary Media | News Article
+# text = Di ganup sude, adong do tiang na mar-pondasi sian batu.
+# text_id = Di tiap sudut, terdapat tiang dengan pondasinya dari batu.
+1	Di	_	_	_	_	_	_	_	_
+2	ganup	_	_	_	_	_	_	_	_
+3	sude	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	adong	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	_
+7	tiang	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	mar-pondasi	_	_	_	_	_	_	_	_
+10	sian	_	_	_	_	_	_	_	_
+11	batu	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-203
+# batch = 5
+# source_pair_id = doc_0080_s054
+# genre = Contemporary Media | Wiki
+# text = I ma so tondi ni Siatas Barita, oppumuna, alai tondi hagaleon.
+# text_id = Itu bukan roh Siatas Barita, nenekmu, melainkan roh jahat.
+1	I	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	tondi	_	_	_	_	_	_	_	_
+5	ni	_	_	_	_	_	_	_	_
+6	Siatas	_	_	_	_	_	_	_	_
+7	Barita	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	oppumuna	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	alai	_	_	_	_	_	_	_	_
+12	tondi	_	_	_	_	_	_	_	_
+13	hagaleon	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-204
+# batch = 5
+# source_pair_id = doc_0058_s008
+# genre = Educational | Book Summary
+# text = Adong do na gabe tudoson ni hangoluan di planet na asing songon Mars!
+# text_id = Ada kemungkinan kehidupan di planet lain seperti Mars lho!
+1	Adong	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	gabe	_	_	_	_	_	_	_	_
+5	tudoson	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	hangoluan	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	planet	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	asing	_	_	_	_	_	_	_	_
+12	songon	_	_	_	_	_	_	_	_
+13	Mars	_	_	_	_	_	_	_	SpaceAfter=No
+14	!	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-205
+# batch = 5
+# source_pair_id = doc_0003_s003
+# genre = Literary | Poems
+# text = ikkon do alogo i manjou haba-haba
+# text_id = Pastilah angin menyeru badai
+1	ikkon	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	alogo	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	manjou	_	_	_	_	_	_	_	_
+6	haba-haba	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-206
+# batch = 5
+# source_pair_id = doc_0000_s043
+# genre = Historical/ Traditional | Folktales
+# text = Jadi dipahatop nasida ma mandapothon na manjoujou i.
+# text_id = Lalu mereka mempercepat langkah menuju suara yang memanggil tersebut.
+1	Jadi	_	_	_	_	_	_	_	_
+2	dipahatop	_	_	_	_	_	_	_	_
+3	nasida	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	mandapothon	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	manjoujou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-207
+# batch = 5
+# source_pair_id = doc_0096_s025
+# genre = Contemporary Media | Blog Articles
+# text = Tontu rupahu gabe ndang tarida songon halak Batak na somal di pardongan-dongan.
+# text_id = Otomatis wajah saya jadi enggak kelihatan seperti orang Batak pada umumnya.
+1	Tontu	_	_	_	_	_	_	_	_
+2	rupahu	_	_	_	_	_	_	_	_
+3	gabe	_	_	_	_	_	_	_	_
+4	ndang	_	_	_	_	_	_	_	_
+5	tarida	_	_	_	_	_	_	_	_
+6	songon	_	_	_	_	_	_	_	_
+7	halak	_	_	_	_	_	_	_	_
+8	Batak	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	somal	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	pardongan-dongan	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-208
+# batch = 5
+# source_pair_id = doc_0000_s070
+# genre = Historical/ Traditional | Folktales
+# text = On-pe, paboa morama marina laemi, beta hamu, taalap bangkena i, asa tipak tinanom."
+# text_id = Beritahulah dimana tempat mayat laemu itu, supaya kita jemput dan kuburkan dengan baik."
+1	On-pe	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	paboa	_	_	_	_	_	_	_	_
+4	morama	_	_	_	_	_	_	_	_
+5	marina	_	_	_	_	_	_	_	_
+6	laemi	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	beta	_	_	_	_	_	_	_	_
+9	hamu	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	taalap	_	_	_	_	_	_	_	_
+12	bangkena	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	SpaceAfter=No
+14	,	_	_	_	_	_	_	_	_
+15	asa	_	_	_	_	_	_	_	_
+16	tipak	_	_	_	_	_	_	_	_
+17	tinanom	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	SpaceAfter=No
+19	"	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-209
+# batch = 5
+# source_pair_id = doc_0058_s016
+# genre = Educational | Book Summary
+# text = Hita pe marsiajar taringot pembentukan elemen-elemen na massai borat di bagasan nebula dohot parohana di panjadihon planet.
+# text_id = Kita juga belajar tentang pembentukan elemen-elemen heavier di dalam nebula dan peran mereka dalam pembentukan planet.
+1	Hita	_	_	_	_	_	_	_	_
+2	pe	_	_	_	_	_	_	_	_
+3	marsiajar	_	_	_	_	_	_	_	_
+4	taringot	_	_	_	_	_	_	_	_
+5	pembentukan	_	_	_	_	_	_	_	_
+6	elemen-elemen	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	massai	_	_	_	_	_	_	_	_
+9	borat	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	bagasan	_	_	_	_	_	_	_	_
+12	nebula	_	_	_	_	_	_	_	_
+13	dohot	_	_	_	_	_	_	_	_
+14	parohana	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	panjadihon	_	_	_	_	_	_	_	_
+17	planet	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-210
+# batch = 5
+# source_pair_id = doc_0095_s015
+# genre = Contemporary Media | Blog Articles
+# text = Molo na sapangkosong boi do mangantusi dohot mamboto tutu.
+# text_id = Buat yang sesama anak kost pasti mengerti dan paham betul.
+1	Molo	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	sapangkosong	_	_	_	_	_	_	_	_
+4	boi	_	_	_	_	_	_	_	_
+5	do	_	_	_	_	_	_	_	_
+6	mangantusi	_	_	_	_	_	_	_	_
+7	dohot	_	_	_	_	_	_	_	_
+8	mamboto	_	_	_	_	_	_	_	_
+9	tutu	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-211
+# batch = 5
+# source_pair_id = doc_0088_s030
+# genre = Contemporary Media | News Article
+# text = Nasida jotjot ro dung salpu martangiang Minggu, jala dipangke lapo i gabe inganan parpunguon dohot iboto na dao.
+# text_id = Mereka biasanya datang sehabis ibadah Minggu, dan menjadikan lapo sebagai titik pertemuan dengan saudara jauh.
+1	Nasida	_	_	_	_	_	_	_	_
+2	jotjot	_	_	_	_	_	_	_	_
+3	ro	_	_	_	_	_	_	_	_
+4	dung	_	_	_	_	_	_	_	_
+5	salpu	_	_	_	_	_	_	_	_
+6	martangiang	_	_	_	_	_	_	_	_
+7	Minggu	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	jala	_	_	_	_	_	_	_	_
+10	dipangke	_	_	_	_	_	_	_	_
+11	lapo	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	gabe	_	_	_	_	_	_	_	_
+14	inganan	_	_	_	_	_	_	_	_
+15	parpunguon	_	_	_	_	_	_	_	_
+16	dohot	_	_	_	_	_	_	_	_
+17	iboto	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	dao	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-212
+# batch = 5
+# source_pair_id = doc_0080_s055
+# genre = Contemporary Media | Wiki
+# text = Songon dia ma oppumuna mangido mudar ni sada sian pinomparna!
+# text_id = Masakan nenekmu menuntut darah salah satu dari keturunannya!
+1	Songon	_	_	_	_	_	_	_	_
+2	dia	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	oppumuna	_	_	_	_	_	_	_	_
+5	mangido	_	_	_	_	_	_	_	_
+6	mudar	_	_	_	_	_	_	_	_
+7	ni	_	_	_	_	_	_	_	_
+8	sada	_	_	_	_	_	_	_	_
+9	sian	_	_	_	_	_	_	_	_
+10	pinomparna	_	_	_	_	_	_	_	SpaceAfter=No
+11	!	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-213
+# batch = 5
+# source_pair_id = doc_0039_s000
+# genre = Literary | Peribahasa/Umpama
+# text = Hotang binebe-bebe, hotang pinulos-pulos, unang hamu mandele ai godang do tudos-tudos
+# text_id = Rotan dipilin-pilin , janganlah bersedih karena ada banyak merasakan yang sama
+1	Hotang	_	_	_	_	_	_	_	_
+2	binebe-bebe	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	hotang	_	_	_	_	_	_	_	_
+5	pinulos-pulos	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	unang	_	_	_	_	_	_	_	_
+8	hamu	_	_	_	_	_	_	_	_
+9	mandele	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	godang	_	_	_	_	_	_	_	_
+12	do	_	_	_	_	_	_	_	_
+13	tudos-tudos	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-214
+# batch = 5
+# source_pair_id = doc_0052_s002
+# genre = Religious | Prayers
+# text = Pasu-pasu jala parbadiai asa gabe gogo di daging dohot tondi laho mangula ulaon nami dohot mangulahon lomo ni roham.
+# text_id = Berkatilah dan kuduskanlah agar menjadi kekuatan bagi tubuh dan jiwa untuk melakukan pekerjaan kami dan melakukan kehendak-Mu.
+1	Pasu-pasu	_	_	_	_	_	_	_	_
+2	jala	_	_	_	_	_	_	_	_
+3	parbadiai	_	_	_	_	_	_	_	_
+4	asa	_	_	_	_	_	_	_	_
+5	gabe	_	_	_	_	_	_	_	_
+6	gogo	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	daging	_	_	_	_	_	_	_	_
+9	dohot	_	_	_	_	_	_	_	_
+10	tondi	_	_	_	_	_	_	_	_
+11	laho	_	_	_	_	_	_	_	_
+12	mangula	_	_	_	_	_	_	_	_
+13	ulaon	_	_	_	_	_	_	_	_
+14	nami	_	_	_	_	_	_	_	_
+15	dohot	_	_	_	_	_	_	_	_
+16	mangulahon	_	_	_	_	_	_	_	_
+17	lomo	_	_	_	_	_	_	_	_
+18	ni	_	_	_	_	_	_	_	_
+19	roham	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-215
+# batch = 5
+# source_pair_id = doc_0071_s001
+# genre = Educational | News Article
+# text = Parhepengon digital maringanan gogo na balga laho manogu hatubuan ni parhepengon.
+# text_id = Ekonomi digital memiliki potensi yang besar untuk mendorong pertumbuhan ekonomi.
+1	Parhepengon	_	_	_	_	_	_	_	_
+2	digital	_	_	_	_	_	_	_	_
+3	maringanan	_	_	_	_	_	_	_	_
+4	gogo	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	balga	_	_	_	_	_	_	_	_
+7	laho	_	_	_	_	_	_	_	_
+8	manogu	_	_	_	_	_	_	_	_
+9	hatubuan	_	_	_	_	_	_	_	_
+10	ni	_	_	_	_	_	_	_	_
+11	parhepengon	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-216
+# batch = 5
+# source_pair_id = doc_0061_s021
+# genre = Educational | Quotes
+# text = Parangean green city ingkon dibahen sian hulu sahat tu hilir asa marlinting parngoluon tano i jala unang gabe dibahen mara.
+# text_id = Perencanaan green city perlu didesain mulai dari hulu hingga hilir agar ketahanan lingkungan terjaga dan tidak menimbulkan bencana.
+1	Parangean	_	_	_	_	_	_	_	_
+2	green	_	_	_	_	_	_	_	_
+3	city	_	_	_	_	_	_	_	_
+4	ingkon	_	_	_	_	_	_	_	_
+5	dibahen	_	_	_	_	_	_	_	_
+6	sian	_	_	_	_	_	_	_	_
+7	hulu	_	_	_	_	_	_	_	_
+8	sahat	_	_	_	_	_	_	_	_
+9	tu	_	_	_	_	_	_	_	_
+10	hilir	_	_	_	_	_	_	_	_
+11	asa	_	_	_	_	_	_	_	_
+12	marlinting	_	_	_	_	_	_	_	_
+13	parngoluon	_	_	_	_	_	_	_	_
+14	tano	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	jala	_	_	_	_	_	_	_	_
+17	unang	_	_	_	_	_	_	_	_
+18	gabe	_	_	_	_	_	_	_	_
+19	dibahen	_	_	_	_	_	_	_	_
+20	mara	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-217
+# batch = 5
+# source_pair_id = doc_0000_s004
+# genre = Historical/ Traditional | Folktales
+# text = Ai songon i do pangalaho ni jolma, naung sian gambo i gabe tardarat, muba do talmis ni porhata-hatana.
+# text_id = Begitulah sifat orang yang dari lumpur menginjak daratan, tutur katanya akan berbeda.
+1	Ai	_	_	_	_	_	_	_	_
+2	songon	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	do	_	_	_	_	_	_	_	_
+5	pangalaho	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	jolma	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	naung	_	_	_	_	_	_	_	_
+10	sian	_	_	_	_	_	_	_	_
+11	gambo	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	gabe	_	_	_	_	_	_	_	_
+14	tardarat	_	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	muba	_	_	_	_	_	_	_	_
+17	do	_	_	_	_	_	_	_	_
+18	talmis	_	_	_	_	_	_	_	_
+19	ni	_	_	_	_	_	_	_	_
+20	porhata-hatana	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-218
+# batch = 5
+# source_pair_id = doc_0065_s006
+# genre = Educational | Book Summary
+# text = Dungkon pajumpang dohot baoa na matua i, diparjumpangkon si Santiago ma pardalananna dohot roha na gok.
+# text_id = Usai bertemu dengan si lelaki tua, Santiago kembali melanjutkan perjalanannya dengan hati penuh.
+1	Dungkon	_	_	_	_	_	_	_	_
+2	pajumpang	_	_	_	_	_	_	_	_
+3	dohot	_	_	_	_	_	_	_	_
+4	baoa	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	matua	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	diparjumpangkon	_	_	_	_	_	_	_	_
+10	si	_	_	_	_	_	_	_	_
+11	Santiago	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	pardalananna	_	_	_	_	_	_	_	_
+14	dohot	_	_	_	_	_	_	_	_
+15	roha	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	gok	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-219
+# batch = 5
+# source_pair_id = doc_0091_s008_a
+# genre = Contemporary Media | Blog Articles
+# text = Boi do ibana memrogram, alai hurang togu jala berantakan situtu kodenai.
+# text_id = Dia bisa memprogram, tapi kurang kokoh dan kode-kodenya sangat berantakan.
+1	Boi	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	ibana	_	_	_	_	_	_	_	_
+4	memrogram	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	alai	_	_	_	_	_	_	_	_
+7	hurang	_	_	_	_	_	_	_	_
+8	togu	_	_	_	_	_	_	_	_
+9	jala	_	_	_	_	_	_	_	_
+10	berantakan	_	_	_	_	_	_	_	_
+11	situtu	_	_	_	_	_	_	_	_
+12	kodenai	_	_	_	_	_	_	_	SpaceAfter=No
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-220
+# batch = 5
+# source_pair_id = doc_0076_s035
+# genre = Contemporary Media | Wiki
+# text = Dibahen Sisingamangaraja ma goarna Raja Nasiakbagi Patuan Raja Malim.
+# text_id = Sisingamangaraja menenamakan dirinya sebagai Raja Nasiakbagi Patuan Raja Malim.
+1	Dibahen	_	_	_	_	_	_	_	_
+2	Sisingamangaraja	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	goarna	_	_	_	_	_	_	_	_
+5	Raja	_	_	_	_	_	_	_	_
+6	Nasiakbagi	_	_	_	_	_	_	_	_
+7	Patuan	_	_	_	_	_	_	_	_
+8	Raja	_	_	_	_	_	_	_	_
+9	Malim	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-221
+# batch = 5
+# source_pair_id = doc_0000_s041_b
+# genre = Historical/ Traditional | Folktales
+# text = “Rupa soara ni Si anu do i?
+# text_id = “Sepertinya suara si anu itu?"
+1	“	_	_	_	_	_	_	_	SpaceAfter=No
+2	Rupa	_	_	_	_	_	_	_	_
+3	soara	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	Si	_	_	_	_	_	_	_	_
+6	anu	_	_	_	_	_	_	_	_
+7	do	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	SpaceAfter=No
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-222
+# batch = 5
+# source_pair_id = doc_0088_s019
+# genre = Contemporary Media | News Article
+# text = Na dua i marjambar khas do.
+# text_id = Keduanya punya menu khas.
+1	Na	_	_	_	_	_	_	_	_
+2	dua	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	marjambar	_	_	_	_	_	_	_	_
+5	khas	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	SpaceAfter=No
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-223
+# batch = 5
+# source_pair_id = doc_0058_s030
+# genre = Educational | Book Summary
+# text = Teori inflasi dohot songon dia Big Bang boi masa dipatorang.
+# text_id = Teori inflasi dan bagaimana Big Bang mungkin terjadi juga dijelaskan.
+1	Teori	_	_	_	_	_	_	_	_
+2	inflasi	_	_	_	_	_	_	_	_
+3	dohot	_	_	_	_	_	_	_	_
+4	songon	_	_	_	_	_	_	_	_
+5	dia	_	_	_	_	_	_	_	_
+6	Big	_	_	_	_	_	_	_	_
+7	Bang	_	_	_	_	_	_	_	_
+8	boi	_	_	_	_	_	_	_	_
+9	masa	_	_	_	_	_	_	_	_
+10	dipatorang	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-224
+# batch = 5
+# source_pair_id = doc_0095_s018
+# genre = Contemporary Media | Blog Articles
+# text = Alai, ndada holan i na paling mambahen ahu las roha.
+# text_id = Tapi, bukan itu yang paling bikin saya senang.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	ndada	_	_	_	_	_	_	_	_
+4	holan	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	paling	_	_	_	_	_	_	_	_
+8	mambahen	_	_	_	_	_	_	_	_
+9	ahu	_	_	_	_	_	_	_	_
+10	las	_	_	_	_	_	_	_	_
+11	roha	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-225
+# batch = 5
+# source_pair_id = doc_0000_s006_c
+# genre = Historical/ Traditional | Folktales
+# text = Ala naung dipeami hian dirina diharaparon manang dihabosuron.”
+# text_id = Karena sudah dipersiapkan dirinya di masa lapar maupun di masa kenyang."
+1	Ala	_	_	_	_	_	_	_	_
+2	naung	_	_	_	_	_	_	_	_
+3	dipeami	_	_	_	_	_	_	_	_
+4	hian	_	_	_	_	_	_	_	_
+5	dirina	_	_	_	_	_	_	_	_
+6	diharaparon	_	_	_	_	_	_	_	_
+7	manang	_	_	_	_	_	_	_	_
+8	dihabosuron	_	_	_	_	_	_	_	SpaceAfter=No
+9	.	_	_	_	_	_	_	_	SpaceAfter=No
+10	”	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-226
+# batch = 5
+# source_pair_id = doc_0080_s036
+# genre = Contemporary Media | Wiki
+# text = Van Asselt, utusan sian huria na gelleng di Ermelo, Belanda, mangulahon panghobasion di Tapanuli Selatan.
+# text_id = Van Asselt, utusan dari jemaat kecil di Ermelo, Belanda, melakukan pelayanan di Tapanuli Selatan.
+1	Van	_	_	_	_	_	_	_	_
+2	Asselt	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	utusan	_	_	_	_	_	_	_	_
+5	sian	_	_	_	_	_	_	_	_
+6	huria	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	gelleng	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	Ermelo	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	Belanda	_	_	_	_	_	_	_	SpaceAfter=No
+13	,	_	_	_	_	_	_	_	_
+14	mangulahon	_	_	_	_	_	_	_	_
+15	panghobasion	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	Tapanuli	_	_	_	_	_	_	_	_
+18	Selatan	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-227
+# batch = 5
+# source_pair_id = doc_0064_s006
+# genre = Educational | Book Summary
+# text = Portibi on marhusor mansai hatop, alai ndang berarti ingkon songon i hita.
+# text_id = Dunia bergerak dengan cepat, tetapi tidak berarti kita juga harus begitu.
+1	Portibi	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	marhusor	_	_	_	_	_	_	_	_
+4	mansai	_	_	_	_	_	_	_	_
+5	hatop	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	alai	_	_	_	_	_	_	_	_
+8	ndang	_	_	_	_	_	_	_	_
+9	berarti	_	_	_	_	_	_	_	_
+10	ingkon	_	_	_	_	_	_	_	_
+11	songon	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	hita	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-228
+# batch = 5
+# source_pair_id = doc_0095_s026
+# genre = Contemporary Media | Blog Articles
+# text = Hujalo ma sian nasida marsiajar laho marsip, ala na hulahon on i ma hal na positif.
+# text_id = Saya belajar dari mereka untuk masa bodo, karena toh apa yang saya lakukan ini adalah hal yang positif.
+1	Hujalo	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	sian	_	_	_	_	_	_	_	_
+4	nasida	_	_	_	_	_	_	_	_
+5	marsiajar	_	_	_	_	_	_	_	_
+6	laho	_	_	_	_	_	_	_	_
+7	marsip	_	_	_	_	_	_	_	SpaceAfter=No
+8	,	_	_	_	_	_	_	_	_
+9	ala	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	hulahon	_	_	_	_	_	_	_	_
+12	on	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	hal	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	positif	_	_	_	_	_	_	_	SpaceAfter=No
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-229
+# batch = 5
+# source_pair_id = doc_0083_s012
+# genre = Contemporary Media | News Article
+# text = Alai ala ni holong rohana tu ompu boruna, borhat ma Moan manuju Samosir.
+# text_id = Namun karena rasa sayang dengan ibunya, Moan pun tetap berangkat menuju Samosir.
+1	Alai	_	_	_	_	_	_	_	_
+2	ala	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	holong	_	_	_	_	_	_	_	_
+5	rohana	_	_	_	_	_	_	_	_
+6	tu	_	_	_	_	_	_	_	_
+7	ompu	_	_	_	_	_	_	_	_
+8	boruna	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	borhat	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	Moan	_	_	_	_	_	_	_	_
+13	manuju	_	_	_	_	_	_	_	_
+14	Samosir	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-230
+# batch = 5
+# source_pair_id = doc_0000_s021
+# genre = Historical/ Traditional | Folktales
+# text = Saleleng diula ibana pangiranon i, ganup laho muli ibana, sai adong do diboan.
+# text_id = Setiap pergi berburu ia selalu membawa pulang hasil buruan.
+1	Saleleng	_	_	_	_	_	_	_	_
+2	diula	_	_	_	_	_	_	_	_
+3	ibana	_	_	_	_	_	_	_	_
+4	pangiranon	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	ganup	_	_	_	_	_	_	_	_
+8	laho	_	_	_	_	_	_	_	_
+9	muli	_	_	_	_	_	_	_	_
+10	ibana	_	_	_	_	_	_	_	SpaceAfter=No
+11	,	_	_	_	_	_	_	_	_
+12	sai	_	_	_	_	_	_	_	_
+13	adong	_	_	_	_	_	_	_	_
+14	do	_	_	_	_	_	_	_	_
+15	diboan	_	_	_	_	_	_	_	SpaceAfter=No
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-231
+# batch = 5
+# source_pair_id = doc_0003_s005
+# genre = Literary | Poems
+# text = ikkon do laut i parohon galumbang
+# text_id = Pastilah laut menggiring gelombang
+1	ikkon	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	laut	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	parohon	_	_	_	_	_	_	_	_
+6	galumbang	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-232
+# batch = 5
+# source_pair_id = doc_0060_s030
+# genre = Educational | Book Summary
+# text = Ingkon gabe sahalak founder Microsoft do ibana hape Kent marsitao.
+# text_id = Seharusnya Kent bisa menjadi salah satu founder Microsoft namun Kent mengalami nasib apes.
+1	Ingkon	_	_	_	_	_	_	_	_
+2	gabe	_	_	_	_	_	_	_	_
+3	sahalak	_	_	_	_	_	_	_	_
+4	founder	_	_	_	_	_	_	_	_
+5	Microsoft	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	_
+7	ibana	_	_	_	_	_	_	_	_
+8	hape	_	_	_	_	_	_	_	_
+9	Kent	_	_	_	_	_	_	_	_
+10	marsitao	_	_	_	_	_	_	_	SpaceAfter=No
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-233
+# batch = 5
+# source_pair_id = doc_0097_s003
+# genre = Contemporary Media | Blog Articles
+# text = Nanget do i, alai ndang saluhutna natorop di Indonesia boi manghalasson sining i songon sining na tutu.
+# text_id = Hal ini menarik, masyarakat Indonesia tidak seluruhnya bisa menikmati seni sebagai sebuah seni.
+1	Nanget	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	alai	_	_	_	_	_	_	_	_
+6	ndang	_	_	_	_	_	_	_	_
+7	saluhutna	_	_	_	_	_	_	_	_
+8	natorop	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	Indonesia	_	_	_	_	_	_	_	_
+11	boi	_	_	_	_	_	_	_	_
+12	manghalasson	_	_	_	_	_	_	_	_
+13	sining	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	songon	_	_	_	_	_	_	_	_
+16	sining	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	tutu	_	_	_	_	_	_	_	SpaceAfter=No
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-234
+# batch = 5
+# source_pair_id = doc_0076_s071
+# genre = Contemporary Media | Wiki
+# text = Alai, hira sude do pangihut ni punguan on maringanan di provinsi Sumatera Utara.
+# text_id = Namun pada dasarnya, pengikut aliran ini hampir semuanya berdomisili di provinsi Sumatera Utara.
+1	Alai	_	_	_	_	_	_	_	SpaceAfter=No
+2	,	_	_	_	_	_	_	_	_
+3	hira	_	_	_	_	_	_	_	_
+4	sude	_	_	_	_	_	_	_	_
+5	do	_	_	_	_	_	_	_	_
+6	pangihut	_	_	_	_	_	_	_	_
+7	ni	_	_	_	_	_	_	_	_
+8	punguan	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	_
+10	maringanan	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	provinsi	_	_	_	_	_	_	_	_
+13	Sumatera	_	_	_	_	_	_	_	_
+14	Utara	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-235
+# batch = 5
+# source_pair_id = doc_0069_s001
+# genre = Educational | News Article
+# text = Angka buku parsiajaran, tarlumobi buku muatan lokal, diparangehon laho mangalehon barita taringot tu hata dohot luat na disi.
+# text_id = Buku-buku pelajaran, khususnya buku muatan lokal dirancang untuk memberikan informasi terkait bahasa dan daerah setempat.
+1	Angka	_	_	_	_	_	_	_	_
+2	buku	_	_	_	_	_	_	_	_
+3	parsiajaran	_	_	_	_	_	_	_	SpaceAfter=No
+4	,	_	_	_	_	_	_	_	_
+5	tarlumobi	_	_	_	_	_	_	_	_
+6	buku	_	_	_	_	_	_	_	_
+7	muatan	_	_	_	_	_	_	_	_
+8	lokal	_	_	_	_	_	_	_	SpaceAfter=No
+9	,	_	_	_	_	_	_	_	_
+10	diparangehon	_	_	_	_	_	_	_	_
+11	laho	_	_	_	_	_	_	_	_
+12	mangalehon	_	_	_	_	_	_	_	_
+13	barita	_	_	_	_	_	_	_	_
+14	taringot	_	_	_	_	_	_	_	_
+15	tu	_	_	_	_	_	_	_	_
+16	hata	_	_	_	_	_	_	_	_
+17	dohot	_	_	_	_	_	_	_	_
+18	luat	_	_	_	_	_	_	_	_
+19	na	_	_	_	_	_	_	_	_
+20	disi	_	_	_	_	_	_	_	SpaceAfter=No
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-236
+# batch = 5
+# source_pair_id = doc_0052_s003
+# genre = Religious | Prayers
+# text = Tongtong ma Ho na mandongani hami jala mangaramoti hami.
+# text_id = Kiranya Engkau senantiasa menyertai kami dan memelihara kami.
+1	Tongtong	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	Ho	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	mandongani	_	_	_	_	_	_	_	_
+6	hami	_	_	_	_	_	_	_	_
+7	jala	_	_	_	_	_	_	_	_
+8	mangaramoti	_	_	_	_	_	_	_	_
+9	hami	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-237
+# batch = 5
+# source_pair_id = doc_0000_s029_a
+# genre = Historical/ Traditional | Folktales
+# text = Talapa annon ursa on, so manang na tarboan hita sude tu huta.
+# text_id = Kalau kita belah nanti, tidak semua bisa kita bawa pulang.
+1	Talapa	_	_	_	_	_	_	_	_
+2	annon	_	_	_	_	_	_	_	_
+3	ursa	_	_	_	_	_	_	_	_
+4	on	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	so	_	_	_	_	_	_	_	_
+7	manang	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	tarboan	_	_	_	_	_	_	_	_
+10	hita	_	_	_	_	_	_	_	_
+11	sude	_	_	_	_	_	_	_	_
+12	tu	_	_	_	_	_	_	_	_
+13	huta	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-238
+# batch = 5
+# source_pair_id = doc_0082_s031
+# genre = Contemporary Media | News Article
+# text = Di bagasan mamangke musik on, diiringi opat gordang dohot lima taganing .
+# text_id = Dalam melantunkan musik ini, diiringi empat gendang dan lima taganing (gamelan Batak).
+1	Di	_	_	_	_	_	_	_	_
+2	bagasan	_	_	_	_	_	_	_	_
+3	mamangke	_	_	_	_	_	_	_	_
+4	musik	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	SpaceAfter=No
+6	,	_	_	_	_	_	_	_	_
+7	diiringi	_	_	_	_	_	_	_	_
+8	opat	_	_	_	_	_	_	_	_
+9	gordang	_	_	_	_	_	_	_	_
+10	dohot	_	_	_	_	_	_	_	_
+11	lima	_	_	_	_	_	_	_	_
+12	taganing	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-239
+# batch = 5
+# source_pair_id = doc_0065_s009
+# genre = Educational | Book Summary
+# text = Dilehon ma sagalas teh na dumenggan tu si Santiago asa boi maradian satongkin.
+# text_id = Ia memberikan segelas teh terbaik untuk Santiago supaya si pengelana bisa bersantai sejenak.
+1	Dilehon	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	sagalas	_	_	_	_	_	_	_	_
+4	teh	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	dumenggan	_	_	_	_	_	_	_	_
+7	tu	_	_	_	_	_	_	_	_
+8	si	_	_	_	_	_	_	_	_
+9	Santiago	_	_	_	_	_	_	_	_
+10	asa	_	_	_	_	_	_	_	_
+11	boi	_	_	_	_	_	_	_	_
+12	maradian	_	_	_	_	_	_	_	_
+13	satongkin	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-240
+# batch = 5
+# source_pair_id = doc_0093_s027
+# genre = Contemporary Media | Blog Articles
+# text = Molo lomo rohamu di bidang on, ingkon gumodang ma marsiajar taringot tu Martitik dohot Statistika.
+# text_id = Jika kamu tertarik di bidang ini, maka kamu akan belajar banyak hal tentang matematika dan statistika.
+1	Molo	_	_	_	_	_	_	_	_
+2	lomo	_	_	_	_	_	_	_	_
+3	rohamu	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	bidang	_	_	_	_	_	_	_	_
+6	on	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	ingkon	_	_	_	_	_	_	_	_
+9	gumodang	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	marsiajar	_	_	_	_	_	_	_	_
+12	taringot	_	_	_	_	_	_	_	_
+13	tu	_	_	_	_	_	_	_	_
+14	Martitik	_	_	_	_	_	_	_	_
+15	dohot	_	_	_	_	_	_	_	_
+16	Statistika	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-241
+# batch = 5
+# source_pair_id = doc_0000_s005
+# genre = Historical/ Traditional | Folktales
+# text = Asa molo tung mangoli damang sogot, oli boru ni raja naung leleng manang pinompar ni na mora hian.
+# text_id = Kalaupun engkau menikah dikemudian hari, nikahilah keturunan orang yang sudah lama atau dahulu keturunan orang kaya.
+1	Asa	_	_	_	_	_	_	_	_
+2	molo	_	_	_	_	_	_	_	_
+3	tung	_	_	_	_	_	_	_	_
+4	mangoli	_	_	_	_	_	_	_	_
+5	damang	_	_	_	_	_	_	_	_
+6	sogot	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	oli	_	_	_	_	_	_	_	_
+9	boru	_	_	_	_	_	_	_	_
+10	ni	_	_	_	_	_	_	_	_
+11	raja	_	_	_	_	_	_	_	_
+12	naung	_	_	_	_	_	_	_	_
+13	leleng	_	_	_	_	_	_	_	_
+14	manang	_	_	_	_	_	_	_	_
+15	pinompar	_	_	_	_	_	_	_	_
+16	ni	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	mora	_	_	_	_	_	_	_	_
+19	hian	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-242
+# batch = 5
+# source_pair_id = doc_0080_s014
+# genre = Contemporary Media | Wiki
+# text = Mian ma nasida di Silindung saleleng saminggu jala borhat sian Silindung di pukul 7 manogot di tanggal 11 Mei.
+# text_id = Mereka tinggal di Silindung selama seminggu dan meninggalkan Silindung pada jam 7 pagi tanggal 11 Mei.
+1	Mian	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	nasida	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	Silindung	_	_	_	_	_	_	_	_
+6	saleleng	_	_	_	_	_	_	_	_
+7	saminggu	_	_	_	_	_	_	_	_
+8	jala	_	_	_	_	_	_	_	_
+9	borhat	_	_	_	_	_	_	_	_
+10	sian	_	_	_	_	_	_	_	_
+11	Silindung	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	pukul	_	_	_	_	_	_	_	_
+14	7	_	_	_	_	_	_	_	_
+15	manogot	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	tanggal	_	_	_	_	_	_	_	_
+18	11	_	_	_	_	_	_	_	_
+19	Mei	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-243
+# batch = 5
+# source_pair_id = doc_0060_s056_b
+# genre = Educational | Book Summary
+# text = Alana hasusor na timbul situtu i ma tingki boi do hita mangalehon-alehon manghabishon tingki.
+# text_id = Karena hasil akhir paling tinggi adalah ketika kita bisa memiiliki kebebasan untuk menghabiskan waktu.
+1	Alana	_	_	_	_	_	_	_	_
+2	hasusor	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	timbul	_	_	_	_	_	_	_	_
+5	situtu	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	tingki	_	_	_	_	_	_	_	_
+9	boi	_	_	_	_	_	_	_	_
+10	do	_	_	_	_	_	_	_	_
+11	hita	_	_	_	_	_	_	_	_
+12	mangalehon-alehon	_	_	_	_	_	_	_	_
+13	manghabishon	_	_	_	_	_	_	_	_
+14	tingki	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-244
+# batch = 5
+# source_pair_id = doc_0095_s028
+# genre = Contemporary Media | Blog Articles
+# text = Adong do sada parmusik na males ni roha ndang hea madabu.
+# text_id = Ada satu pemusik yang malesinnya luar biasa.
+1	Adong	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	sada	_	_	_	_	_	_	_	_
+4	parmusik	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	males	_	_	_	_	_	_	_	_
+7	ni	_	_	_	_	_	_	_	_
+8	roha	_	_	_	_	_	_	_	_
+9	ndang	_	_	_	_	_	_	_	_
+10	hea	_	_	_	_	_	_	_	_
+11	madabu	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-245
+# batch = 5
+# source_pair_id = doc_0000_s063
+# genre = Historical/ Traditional | Folktales
+# text = Jadi dibodil nasida ma disi ursa rango na bolon.
+# text_id = Ditengah hutan mereka menembak rusa hutan yang besar.
+1	Jadi	_	_	_	_	_	_	_	_
+2	dibodil	_	_	_	_	_	_	_	_
+3	nasida	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	disi	_	_	_	_	_	_	_	_
+6	ursa	_	_	_	_	_	_	_	_
+7	rango	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	bolon	_	_	_	_	_	_	_	SpaceAfter=No
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-246
+# batch = 5
+# source_pair_id = doc_0084_s034
+# genre = Contemporary Media | News Article
+# text = Ruangan on dimianan ni anggota keluarga na tumimbo di jabu i manang uluan keluarga.
+# text_id = Ruangan ini dihuni oleh anggota keluarga tertinggi di rumah tersebut atau kepala keluarga.
+1	Ruangan	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	dimianan	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	anggota	_	_	_	_	_	_	_	_
+6	keluarga	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	tumimbo	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	jabu	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	manang	_	_	_	_	_	_	_	_
+13	uluan	_	_	_	_	_	_	_	_
+14	keluarga	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-247
+# batch = 5
+# source_pair_id = doc_0076_s001
+# genre = Contemporary Media | Wiki
+# text = Ugamo Malim ima sada ugamo tradisional na marmula sian halak Batak.
+# text_id = Ugamo Malim (bahasa Indonesia: Kepercayaan Malim) adalah sebuah agama tradisional yang berasal dari masyarakat Batak.
+1	Ugamo	_	_	_	_	_	_	_	_
+2	Malim	_	_	_	_	_	_	_	_
+3	ima	_	_	_	_	_	_	_	_
+4	sada	_	_	_	_	_	_	_	_
+5	ugamo	_	_	_	_	_	_	_	_
+6	tradisional	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	marmula	_	_	_	_	_	_	_	_
+9	sian	_	_	_	_	_	_	_	_
+10	halak	_	_	_	_	_	_	_	_
+11	Batak	_	_	_	_	_	_	_	SpaceAfter=No
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-248
+# batch = 5
+# source_pair_id = doc_0065_s018
+# genre = Educational | Book Summary
+# text = Anak ni parmahan i torus ma laho mardalan-dalan holan asa jumpang dohot arta na marongsong i.
+# text_id = Anak gembala itu kembali melanjutkan petualangannya untuk menemukan harta terpendam.
+1	Anak	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	parmahan	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	torus	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	laho	_	_	_	_	_	_	_	_
+8	mardalan-dalan	_	_	_	_	_	_	_	_
+9	holan	_	_	_	_	_	_	_	_
+10	asa	_	_	_	_	_	_	_	_
+11	jumpang	_	_	_	_	_	_	_	_
+12	dohot	_	_	_	_	_	_	_	_
+13	arta	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	marongsong	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	SpaceAfter=No
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-249
+# batch = 5
+# source_pair_id = doc_0091_s022
+# genre = Contemporary Media | Blog Articles
+# text = Huidok ma, i ndang mungkin, jala ingkon gumodang marsiajar dope ibana.
+# text_id = Saya bilang itu tidak mungkin, dan dia harus banyak belajar.
+1	Huidok	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	SpaceAfter=No
+3	,	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ndang	_	_	_	_	_	_	_	_
+6	mungkin	_	_	_	_	_	_	_	SpaceAfter=No
+7	,	_	_	_	_	_	_	_	_
+8	jala	_	_	_	_	_	_	_	_
+9	ingkon	_	_	_	_	_	_	_	_
+10	gumodang	_	_	_	_	_	_	_	_
+11	marsiajar	_	_	_	_	_	_	_	_
+12	dope	_	_	_	_	_	_	_	_
+13	ibana	_	_	_	_	_	_	_	SpaceAfter=No
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = btk_pilot-250
+# batch = 5
+# source_pair_id = doc_0000_s077
+# genre = Historical/ Traditional | Folktales
+# text = Ipe muli ma hita, taboan ma ursa on, asa gira niupa hamu dohot laem di huta!"
+# text_id = Walaupun begitu, marilah kita pulang, kita bawalah rusa ini, supaya kami segera mendoakan kamu dan laemu di kampung."
+1	Ipe	_	_	_	_	_	_	_	_
+2	muli	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	hita	_	_	_	_	_	_	_	SpaceAfter=No
+5	,	_	_	_	_	_	_	_	_
+6	taboan	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ursa	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	SpaceAfter=No
+10	,	_	_	_	_	_	_	_	_
+11	asa	_	_	_	_	_	_	_	_
+12	gira	_	_	_	_	_	_	_	_
+13	niupa	_	_	_	_	_	_	_	_
+14	hamu	_	_	_	_	_	_	_	_
+15	dohot	_	_	_	_	_	_	_	_
+16	laem	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	huta	_	_	_	_	_	_	_	SpaceAfter=No
+19	!	_	_	_	_	_	_	_	SpaceAfter=No
+20	"	_	_	_	_	_	_	_	_
+

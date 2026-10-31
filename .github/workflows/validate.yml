@@ -1,0 +1,25 @@
+name: Validasi CoNLL-U
+
+on:
+  push:
+    paths: ["corpus/**", "scripts/**"]
+  pull_request:
+    paths: ["corpus/**", "scripts/**"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validasi format CoNLL-U
+        run: |
+          shopt -s nullglob
+          files=(corpus/**/*.conllu)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "Belum ada file .conllu, lewati."
+            exit 0
+          fi
+          python scripts/validate_conllu.py "corpus/pilot/*.conllu"

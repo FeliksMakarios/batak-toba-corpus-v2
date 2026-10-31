@@ -1,0 +1,78 @@
+# Contoh anotasi UD Batak Toba (bukan gold final; ilustrasi pedoman v0.2)
+# Semua kalimat WAJIB divalidasi penutur asli sebelum dipakai sebagai acuan.
+# Pemetaan diatesis mengikuti Opsi C (diatesis simetris): pivot = nsubj pada
+# kedua diatesis, aktor non-pivot pada klausa di- = obj:agent.
+# sent_id = btk_pilot-001
+# text = Mangallang dengke do si Polan.
+# text[ind] = Si Polan sedang makan ikan.
+1	Mangallang	allang	VERB	_	Voice=Act	0	root	_	_
+2	dengke	dengke	NOUN	_	_	1	obj	_	_
+3	do	do	PART	_	_	1	discourse	_	_
+4	si	si	DET	_	_	5	det	_	_
+5	Polan	Polan	PROPN	_	_	1	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = btk_pilot-002
+# text = Uli do jabu i.
+# text[ind] = Rumah itu bagus.
+1	Uli	uli	ADJ	_	_	0	root	_	_
+2	do	do	PART	_	_	1	discourse	_	_
+3	jabu	jabu	NOUN	_	_	1	nsubj	_	_
+4	i	i	DET	_	PronType=Dem	3	det	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = btk_pilot-003
+# text = Diallang si Polan do dengke i.
+# text[ind] = Ikan itu dimakan si Polan.
+1	Diallang	allang	VERB	_	Voice=Pass	0	root	_	_
+2	si	si	DET	_	_	3	det	_	_
+3	Polan	Polan	PROPN	_	_	1	obj:agent	_	_
+4	do	do	PART	_	_	1	discourse	_	_
+5	dengke	dengke	NOUN	_	_	1	nsubj	_	_
+6	i	i	DET	_	PronType=Dem	5	det	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = btk_pilot-004
+# text = Guru do inang.
+# text[ind] = Ibu adalah guru.
+1	Guru	guru	NOUN	_	_	0	root	_	_
+2	do	do	PART	_	_	1	discourse	_	_
+3	inang	inang	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = btk_pilot-005
+# text = Modom do si Ucok di jabu.
+# text[ind] = Si Ucok tidur di rumah.
+1	Modom	modom	VERB	_	_	0	root	_	_
+2	do	do	PART	_	_	1	discourse	_	_
+3	si	si	DET	_	_	4	det	_	_
+4	Ucok	Ucok	PROPN	_	_	1	nsubj	_	_
+5	di	di	ADP	_	_	6	case	_	_
+6	jabu	jabu	NOUN	_	_	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = btk_pilot-006
+# text = Ndang ro si Ucok.
+# text[ind] = Si Ucok tidak datang.
+1	Ndang	ndang	PART	_	Polarity=Neg	2	advmod	_	_
+2	ro	ro	VERB	_	_	0	root	_	_
+3	si	si	DET	_	_	4	det	_	_
+4	Ucok	Ucok	PROPN	_	_	2	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = btk_pilot-007
+# text = Dang karani ibana.
+# text[ind] = Dia bukan pegawai.
+1	Dang	dang	PART	_	Polarity=Neg	2	advmod	_	_
+2	karani	karani	NOUN	_	_	0	root	_	_
+3	ibana	ibana	PRON	_	PronType=Prs|Person=3	2	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = btk_pilot-008
+# text = Ibana do marpesta nantoari.
+# text[ind] = DIA yang berpesta kemarin.
+1	Ibana	ibana	PRON	_	PronType=Prs|Person=3	3	nsubj	_	_
+2	do	do	PART	_	_	3	discourse	_	_
+3	marpesta	pesta	VERB	_	_	0	root	_	_
+4	nantoari	nantoari	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_

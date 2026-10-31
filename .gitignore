@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.tmp
+# anotasi mentah per-anotator sebelum rekonsiliasi (opsional, buka bila ingin dilacak)
+# corpus/pilot/raw/

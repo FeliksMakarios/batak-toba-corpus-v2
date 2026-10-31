@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "batak-toba-corpus-v2: Pedoman Anotasi Universal Dependencies untuk Bahasa Batak Toba"
+message: "Bila memakai sumber daya ini, mohon sitasi sebagai berikut."
+type: dataset
+authors:
+  - family-names: Samosir
+    given-names: Feliks Victor Parningotan
+repository-code: "https://github.com/FeliksMakarios/batak-toba-corpus-v2"
+abstract: >-
+  Pedoman anotasi Universal Dependencies untuk bahasa Batak Toba beserta
+  korpus rintisan 250 kalimat teranotasi dan skor kesepakatan antaranotator.
+keywords:
+  - Batak Toba
+  - Universal Dependencies
+  - annotation guidelines
+  - low-resource language
+  - treebank
+license: CC-BY-SA-4.0
+date-released: "2026-07-01"
