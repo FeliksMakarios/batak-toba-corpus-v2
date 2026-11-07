@@ -34,7 +34,7 @@ Urgensi (bahasa berdaya rendah tanpa treebank), tujuan (pedoman UD + uji awal), 
 - (Sertakan diagram alir = Gambar 3 proposal.)
 
 ## 5. Keputusan Anotasi Utama
-- Pemetaan diatesis ke relasi inti (nsubj/obj vs nsubj:pass/obl:agent); justifikasi Opsi A vs B.
+- Pemetaan diatesis secara simetris (Opsi C): pivot = nsubj pada kedua diatesis, aktor tak bertanda pada di- = obj:agent, aktor bertanda ni = obl:agent, tanpa nsubj:pass. Justifikasi dan pembandingan dengan Opsi A dan B ada di `guidelines/04_keputusan_diatesis.md`.
 - Penanganan urutan predikat awal (subjek pasca-verba = nsubj).
 - Partikel, artikel, demonstratif, negasi.
 - Subtipe spesifik bahasa bila diperlukan.
