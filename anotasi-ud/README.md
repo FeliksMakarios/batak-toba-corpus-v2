@@ -19,7 +19,7 @@ anotasi-ud/
 │   └── btk_pilot_250_template.conllu           Templat CoNLL-U yang sudah ditokenisasi
 └── korpus-revisi/
     ├── README.md                               Ringkasan audit penyelarasan v1
-    └── korpus_utama_revisi_penyelarasan_v1.csv Korpus paralel hasil audit (1.505 unit)
+    └── korpus_utama_revisi_penyelarasan_v1.csv Korpus paralel hasil audit (1.505 unit), sumber kalimat pilot, sudah digantikan oleh korpus final di batak-toba-korpus
 ```
 
 ## Status per 28 Oktober 2026
