@@ -2,9 +2,9 @@ name: Validasi CoNLL-U
 
 on:
   push:
-    paths: ["corpus/**", "scripts/**"]
+    paths: ["corpus/**", "anotasi-ud/**", "scripts/**"]
   pull_request:
-    paths: ["corpus/**", "scripts/**"]
+    paths: ["corpus/**", "anotasi-ud/**", "scripts/**"]
 
 jobs:
   validate:
@@ -15,11 +15,12 @@ jobs:
         with:
           python-version: "3.11"
       - name: Validasi format CoNLL-U
+        # Templat kosong (*template*, *blank*) sengaja belum berisi HEAD dan DEPREL,
+        # sehingga tidak ikut divalidasi.
         run: |
-          shopt -s nullglob
-          files=(corpus/**/*.conllu)
+          mapfile -t files < <(find corpus anotasi-ud -name '*.conllu' ! -name '*template*' ! -name '*blank*' | sort)
           if [ ${#files[@]} -eq 0 ]; then
-            echo "Belum ada file .conllu, lewati."
+            echo "Belum ada file .conllu berisi anotasi, lewati."
             exit 0
           fi
-          python scripts/validate_conllu.py "corpus/pilot/*.conllu"
+          python scripts/validate_conllu.py "${files[@]}"

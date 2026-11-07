@@ -1,5 +1,7 @@
 # Template Pemilihan 250 Kalimat Berlapis Lintas Genre (Tahap 3)
 
+> **Catatan.** Dokumen ini rencana awal (Juli 2026). Pemilihan 250 kalimat yang benar-benar dipakai memakai korpus revisi penyelarasan v1 dan lima genre korpus tahap 1. Kriteria dan sebarannya ada di [anotasi-ud/pilot/README.md](../../anotasi-ud/pilot/README.md).
+
 Tujuan: memilih ~250 kalimat dari korpus mentah hibah 2025 secara berlapis (stratified) lintas genre agar variasi konstruksi terwakili, terutama diatesis dan predikat awal.
 
 ## 1. Strata genre (target proporsi)

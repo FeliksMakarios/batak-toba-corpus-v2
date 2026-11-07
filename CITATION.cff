@@ -6,6 +6,7 @@ authors:
   - family-names: Samosir
     given-names: Feliks Victor Parningotan
 repository-code: "https://github.com/FeliksMakarios/batak-toba-corpus-v2"
+url: "https://nlptoba.org"
 abstract: >-
   Pedoman anotasi Universal Dependencies untuk bahasa Batak Toba beserta
   korpus rintisan 250 kalimat teranotasi dan skor kesepakatan antaranotator.

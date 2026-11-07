@@ -3,6 +3,8 @@
 INPUT ?= corpus_2025.csv
 SEED  ?= 42
 PILOT  = corpus/pilot
+# Semua berkas CoNLL-U berisi anotasi. Templat kosong (*template*, *blank*) tidak ikut divalidasi.
+CONLLU = $(shell find corpus anotasi-ud -name '*.conllu' ! -name '*template*' ! -name '*blank*' 2>/dev/null | sort)
 
 .PHONY: help sample template validate stats iaa reconcile clean
 
@@ -10,7 +12,7 @@ help:
 	@echo "Target:"
 	@echo "  make sample     - sampling 250 kalimat berlapis dari INPUT=$(INPUT)"
 	@echo "  make template   - buat CoNLL-U kosong dari 250_final.csv"
-	@echo "  make validate   - validasi semua file CoNLL-U"
+	@echo "  make validate   - validasi semua file CoNLL-U di corpus/ dan anotasi-ud/ (kecuali templat kosong)"
 	@echo "  make stats       - statistik korpus"
 	@echo "  make iaa A=.. B=..       - hitung kesepakatan antaranotator"
 	@echo "  make reconcile A=.. B=.. - lembar rekonsiliasi perbedaan"
@@ -22,10 +24,10 @@ template:
 	python scripts/make_conllu_template.py --input $(PILOT)/250_final.csv --out $(PILOT)/btk_pilot.blank.conllu
 
 validate:
-	python scripts/validate_conllu.py "$(PILOT)/*.conllu"
+	python scripts/validate_conllu.py $(CONLLU)
 
 stats:
-	python scripts/corpus_stats.py "$(PILOT)/*.conllu" --out evaluation/corpus_stats.md
+	python scripts/corpus_stats.py $(CONLLU) --out evaluation/corpus_stats.md
 
 iaa:
 	python scripts/compute_iaa.py --a $(A) --b $(B) --report evaluation/iaa_report.md
