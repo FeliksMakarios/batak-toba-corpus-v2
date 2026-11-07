@@ -37,7 +37,7 @@ Penelitian lanjutan berjudul "Pengembangan Pedoman Anotasi Universal Dependencie
 | Luaran | Status |
 |---|---|
 | Pedoman anotasi UD Batak Toba | Versi 1.2 tersedia ([anotasi-ud/pedoman/](anotasi-ud/pedoman/)) |
-| Korpus paralel hasil audit penyelarasan | Versi 1, 1.505 unit ([anotasi-ud/korpus-revisi/](anotasi-ud/korpus-revisi/)) |
+| Korpus paralel hasil audit penyelarasan | Versi 1, 1.505 unit ([anotasi-ud/korpus-revisi/](anotasi-ud/korpus-revisi/)), sumber kalimat pilot. Sudah digantikan oleh [korpus paralel final](https://github.com/FeliksMakarios/batak-toba-korpus/blob/main/data/btb_parallel_sentence.csv) berisi 1.542 pasangan |
 | 250 kalimat pilot dalam format CoNLL-U | Anotasi ganda berjalan sejak 5 Oktober 2026 ([anotasi-ud/pilot/](anotasi-ud/pilot/)) |
 | Skor kesepakatan antaranotator dan pedoman revisi | Dijadwalkan November 2026 |
 
@@ -48,7 +48,7 @@ The follow-up project "Development of Universal Dependencies Annotation Guidelin
 | Deliverable | Status |
 |---|---|
 | Batak Toba UD annotation guideline | Version 1.2 available ([anotasi-ud/pedoman/](anotasi-ud/pedoman/)), written in Indonesian |
-| Parallel corpus after alignment audit | Version 1, 1,505 units ([anotasi-ud/korpus-revisi/](anotasi-ud/korpus-revisi/)) |
+| Parallel corpus after alignment audit | Version 1, 1,505 units ([anotasi-ud/korpus-revisi/](anotasi-ud/korpus-revisi/)), source of the pilot sentences. Superseded by the [final parallel corpus](https://github.com/FeliksMakarios/batak-toba-korpus/blob/main/data/btb_parallel_sentence.csv) of 1,542 pairs |
 | 250 pilot sentences in CoNLL-U format | Double annotation in progress since 5 October 2026 ([anotasi-ud/pilot/](anotasi-ud/pilot/)) |
 | Inter-annotator agreement and revised guideline | Scheduled for November 2026 |
 

@@ -1,5 +1,10 @@
 # Korpus Paralel Hasil Audit Penyelarasan v1
 
+> **Status: sudah digantikan sebagai korpus paralel, tetap disimpan sebagai sumber kalimat pilot.**
+> Korpus paralel final berisi 1.542 pasangan (182 divalidasi manusia) beserta laporan kesepakatan antaranotator kini ada di repositori tahap 1, yaitu [`batak-toba-korpus/data/btb_parallel_sentence.csv`](https://github.com/FeliksMakarios/batak-toba-korpus/blob/main/data/btb_parallel_sentence.csv). Berkas v1 di folder ini tidak diperbarui lagi. Berkas ini tetap disimpan karena 250 kalimat pilot di [`../pilot/`](../pilot/) dipilih darinya, sehingga `pair_id` kalimat pilot merujuk ke berkas ini.
+>
+> **Status: superseded as a parallel corpus, kept as the source of the pilot sentences.** The final parallel corpus (1,542 pairs, 182 human-validated) and its inter-annotator agreement report are in the Stage 1 repository at [`batak-toba-korpus/data/btb_parallel_sentence.csv`](https://github.com/FeliksMakarios/batak-toba-korpus/blob/main/data/btb_parallel_sentence.csv). The v1 file here is no longer updated. It is kept because the 250 pilot sentences in [`../pilot/`](../pilot/) were drawn from it.
+
 Berkas `korpus_utama_revisi_penyelarasan_v1.csv` adalah korpus paralel Batak Toba dan Indonesia setelah audit penyelarasan pada 7 September 2026. Audit dilakukan sebelum pemilihan kalimat untuk anotasi UD.
 
 ## Ringkasan audit
