@@ -5,7 +5,8 @@ Metrik:
 - UPOS agreement (proporsi token dengan UPOS sama).
 - UAS agreement (proporsi token dengan HEAD sama).
 - LAS agreement (proporsi token dengan HEAD dan DEPREL sama).
-- Cohen's kappa untuk UPOS.
+- Cohen's kappa untuk UPOS dan DEPREL.
+- Kesepakatan DEPREL (proporsi token dengan DEPREL sama, tanpa melihat HEAD).
 
 Kedua file harus berisi kalimat dengan sent_id sama dan tokenisasi identik.
 
@@ -37,7 +38,7 @@ def parse(path):
     return sents
 
 def kappa(pairs):
-    # Cohen's kappa untuk label kategori (UPOS)
+    # Cohen's kappa untuk label kategori (UPOS atau DEPREL)
     n = len(pairs)
     if n == 0:
         return float("nan")
@@ -56,7 +57,7 @@ def main():
 
     A, B = parse(args.a), parse(args.b)
     common = sorted(set(A) & set(B))
-    upos_pairs, n_tok = [], 0
+    upos_pairs, deprel_pairs, n_tok = [], [], 0
     uas_ok = las_ok = 0
     mismatch = defaultdict(int)  # deprel yang sering beda
     for sid in common:
@@ -66,6 +67,7 @@ def main():
         for wa, wb in zip(ta, tb):
             n_tok += 1
             upos_pairs.append((wa["upos"], wb["upos"]))
+            deprel_pairs.append((wa["deprel"], wb["deprel"]))
             if wa["head"] == wb["head"]:
                 uas_ok += 1
                 if wa["deprel"] == wb["deprel"]:
@@ -81,6 +83,9 @@ def main():
     lines.append(f"- Token dibandingkan: {n_tok}")
     lines.append(f"- UPOS agreement: {upos_agr:.3f}")
     lines.append(f"- UPOS Cohen's kappa: {kappa(upos_pairs):.3f}")
+    deprel_agr = sum(1 for a, b in deprel_pairs if a == b) / n_tok if n_tok else 0
+    lines.append(f"- DEPREL agreement: {deprel_agr:.3f}")
+    lines.append(f"- DEPREL Cohen's kappa: {kappa(deprel_pairs):.3f}")
     lines.append(f"- UAS agreement (HEAD): {uas_ok/n_tok:.3f}" if n_tok else "- UAS: NA")
     lines.append(f"- LAS agreement (HEAD+DEPREL): {las_ok/n_tok:.3f}" if n_tok else "- LAS: NA")
     lines.append("")

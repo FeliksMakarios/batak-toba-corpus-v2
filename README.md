@@ -32,25 +32,25 @@ anotasi-ud/     Penelitian tahap 2: pedoman anotasi UD dan kalimat pilot
 
 ## Penelitian tahap 2: anotasi Universal Dependencies (2026)
 
-Penelitian lanjutan berjudul "Pengembangan Pedoman Anotasi Universal Dependencies untuk Bahasa Batak Toba dan Pengujian Awal pada Korpus Kecil" (Penelitian Dosen Pemula, Juli sampai Desember 2026) disimpan pada folder [anotasi-ud/](anotasi-ud/). Status per 7 November 2026:
+Penelitian lanjutan berjudul "Pengembangan Pedoman Anotasi Universal Dependencies untuk Bahasa Batak Toba dan Pengujian Awal pada Korpus Kecil" (Penelitian Dosen Pemula, Juli sampai Desember 2026) disimpan pada folder [anotasi-ud/](anotasi-ud/). Status per 26 November 2026:
 
 | Luaran | Status |
 |---|---|
 | Pedoman anotasi UD Batak Toba | Versi 1.2 tersedia ([anotasi-ud/pedoman/](anotasi-ud/pedoman/)) |
 | Korpus paralel hasil audit penyelarasan | Versi 1, 1.505 unit ([anotasi-ud/korpus-revisi/](anotasi-ud/korpus-revisi/)), sumber kalimat pilot. Sudah digantikan oleh [korpus paralel final](https://github.com/FeliksMakarios/batak-toba-korpus/blob/main/data/btb_parallel_sentence.csv) berisi 1.542 pasangan |
-| 250 kalimat pilot dalam format CoNLL-U | Anotasi ganda berjalan sejak 5 Oktober 2026 ([anotasi-ud/pilot/](anotasi-ud/pilot/)) |
-| Skor kesepakatan antaranotator dan pedoman revisi | Dijadwalkan November 2026 |
+| 250 kalimat pilot dalam format CoNLL-U | Anotasi ganda 5 Oktober sampai 21 November 2026, satu anotator belum menyelesaikan seluruh kalimat ([anotasi-ud/pilot/](anotasi-ud/pilot/)) |
+| Skor kesepakatan antaranotator dan pedoman revisi | Skor sementara pada 90 kalimat ([evaluation/iaa_pilot_sementara.md](evaluation/iaa_pilot_sementara.md)), adjudikasi dan pedoman v2.0 menyusul |
 
 ## Stage 2 research: Universal Dependencies annotation (2026)
 
-The follow-up project "Development of Universal Dependencies Annotation Guidelines for Batak Toba and Initial Testing on a Small Corpus" (Beginning Lecturer Research Scheme, July to December 2026) is kept in [anotasi-ud/](anotasi-ud/). Status as of 7 November 2026:
+The follow-up project "Development of Universal Dependencies Annotation Guidelines for Batak Toba and Initial Testing on a Small Corpus" (Beginning Lecturer Research Scheme, July to December 2026) is kept in [anotasi-ud/](anotasi-ud/). Status as of 26 November 2026:
 
 | Deliverable | Status |
 |---|---|
 | Batak Toba UD annotation guideline | Version 1.2 available ([anotasi-ud/pedoman/](anotasi-ud/pedoman/)), written in Indonesian |
 | Parallel corpus after alignment audit | Version 1, 1,505 units ([anotasi-ud/korpus-revisi/](anotasi-ud/korpus-revisi/)), source of the pilot sentences. Superseded by the [final parallel corpus](https://github.com/FeliksMakarios/batak-toba-korpus/blob/main/data/btb_parallel_sentence.csv) of 1,542 pairs |
-| 250 pilot sentences in CoNLL-U format | Double annotation in progress since 5 October 2026 ([anotasi-ud/pilot/](anotasi-ud/pilot/)) |
-| Inter-annotator agreement and revised guideline | Scheduled for November 2026 |
+| 250 pilot sentences in CoNLL-U format | Double annotation from 5 October to 21 November 2026, one annotator has not finished all sentences ([anotasi-ud/pilot/](anotasi-ud/pilot/)) |
+| Inter-annotator agreement and revised guideline | Preliminary scores on 90 sentences ([evaluation/iaa_pilot_sementara.md](evaluation/iaa_pilot_sementara.md), in Indonesian), adjudication and guideline v2.0 to follow |
 
 ## Alur kerja
 

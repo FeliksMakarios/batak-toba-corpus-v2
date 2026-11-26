@@ -9,3 +9,7 @@ Contoh menjalankan:
 
     python ../scripts/compute_iaa.py --a anotator1.conllu --b anotator2.conllu \
         --report iaa_report.md
+
+Laporan yang tersedia:
+
+- [iaa_pilot_sementara.md](iaa_pilot_sementara.md): kesepakatan sementara pilot 250 kalimat pada 90 kalimat yang lengkap pada kedua anotator (26 November 2026).

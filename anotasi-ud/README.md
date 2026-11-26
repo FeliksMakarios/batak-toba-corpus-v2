@@ -22,14 +22,14 @@ anotasi-ud/
     └── korpus_utama_revisi_penyelarasan_v1.csv Korpus paralel hasil audit (1.505 unit), sumber kalimat pilot, sudah digantikan oleh korpus final di batak-toba-korpus
 ```
 
-## Status per 28 Oktober 2026
+## Status per 26 November 2026
 
 | Tahap metode | Status |
 |---|---|
 | 1. Sintesis keputusan anotasi dari literatur | Selesai |
 | 2. Perumusan pedoman versi awal | Selesai, versi 1.0 (5 Oktober 2026), diperbarui menjadi versi 1.2 (28 Oktober 2026) berdasarkan masukan anotator |
-| 3. Anotasi rintisan 250 kalimat oleh dua anotator | Berjalan sejak 5 Oktober 2026 |
-| 4. Evaluasi kesepakatan antaranotator dan revisi pedoman | Dijadwalkan November 2026 |
+| 3. Anotasi rintisan 250 kalimat oleh dua anotator | 5 Oktober sampai 21 November 2026. Lengkap: Anotator A 95 kalimat, Anotator B 241 kalimat |
+| 4. Evaluasi kesepakatan antaranotator dan revisi pedoman | Skor sementara pada 90 kalimat ([evaluation/iaa_pilot_sementara.md](../evaluation/iaa_pilot_sementara.md)), adjudikasi dan pedoman v2.0 belum |
 
 ## Keputusan utama pedoman v1.2
 
@@ -51,8 +51,8 @@ Isu yang masih terbuka dicatat pada Bagian 11 pedoman dan akan ditinjau setelah 
 
 ## Rencana berikutnya
 
-1. Anotasi ganda 250 kalimat dalam lima batch (Oktober sampai pertengahan November 2026).
-2. Pengukuran kesepakatan antaranotator untuk UPOS, kappa Cohen, UAS, dan LAS, lalu adjudikasi.
+1. Penyelesaian 155 kalimat Anotator A dan perbaikan galat format, lalu penghitungan ulang kesepakatan pada 250 kalimat.
+2. Penyelarasan daftar pilihan DEPREL pada lembar kerja dengan Lampiran A, kalibrasi ulang anotator, dan adjudikasi bersama narasumber penutur asli.
 3. Pedoman versi 2.0 dan rilis korpus kecil teranotasi dalam format CoNLL-U pada folder ini.
 
 ## Lisensi
